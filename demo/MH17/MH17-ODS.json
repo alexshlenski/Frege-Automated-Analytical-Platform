@@ -1,0 +1,3284 @@
+[
+  {
+    "global_deixis": {
+      "narrator": "Bellingcat investigative collective",
+      "timeframe": "2014-07-17 to 2017-10",
+      "location": "eastern Ukraine",
+      "environment": "ArmedConflict",
+      "audience": "international public",
+      "language": "english",
+      "realm": "physical_reality"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "MH17",
+      "full_classification": "Entity > MaterialEntity > Vehicle > Aircraft > Plane",
+      "alias_list": [
+        "Malaysian Airlines Flight 17"
+      ],
+      "description": "A Malaysian Airlines passenger plane designated Flight 17.",
+      "xref": "[MH17|0008]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Malaysian Airlines Flight 17",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Vehicle > Aircraft",
+      "alias_list": [
+        "MH17"
+      ],
+      "description": "Civilian passenger aircraft",
+      "xref": "[MH17|0008]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "eastern Ukraine",
+      "full_classification": "Entity > Environment > PhysicalEnvironment",
+      "alias_list": [
+      ],
+      "description": "Airspace over eastern Ukraine",
+      "xref": "[MH17|000A]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Buk antiaircraft missile",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Weapon > MissileSystem",
+      "alias_list": [
+      ],
+      "description": "Surface-to-air missile system",
+      "xref": "[MH17|0011]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "separatist-controlled territory",
+      "full_classification": "Entity > Site > PhysicalSite > FieldSite",
+      "alias_list": [
+      ],
+      "description": "Area under separatist control",
+      "xref": "[MH17|0013]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Failure",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Malaysian Airlines Flight 17 (MH17) was shot from the sky over eastern Ukraine, killing all 298 passengers and crew members.",
+      "normalized": "Malaysian Airlines Flight 17 (MH17) was shot from the sky over eastern Ukraine, killing all 298 passengers and crew members.",
+      "operative_verb": [
+        "MilitaryOperations.Kinetics.shoot"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Malaysian Airlines Flight 17",
+          "role": "Affectee",
+          "subject_xref": "[MH17|0008]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "eastern Ukraine",
+          "role": "Location",
+          "subject_xref": "[MH17|000A]"
+        }
+      ],
+      "outcome": "Total loss of life and aircraft",
+      "xref": "[MH17|0008-000C]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "a Buk antiaircraft missile was launched from separatist-controlled territory, likely hoping to hit a Ukrainian aircraft rather than a passenger jet.",
+      "normalized": "Separatists launched a Buk antiaircraft missile from separatist-controlled territory, intending to hit a Ukrainian aircraft but instead hit a passenger jet.",
+      "operative_verb": [
+        "MilitaryOperations.Kinetics.launch"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk antiaircraft missile",
+          "role": "Instrument",
+          "subject_xref": "[MH17|0011]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "separatist-controlled territory",
+          "role": "Source",
+          "subject_xref": "[MH17|0013]"
+        }
+      ],
+      "outcome": "Missile fired, passenger jet hit",
+      "xref": "[MH17|0011-0016]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "observation",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Over the past three years, thanks to a wealth of openly accessible and verifiable information, we have been able to determine precisely how that Buk missile launcher reached a field in eastern Ukraine.",
+      "normalized": "Over the past three years, investigators used openly accessible and verifiable information to determine precisely how that Buk missile launcher reached a field in eastern Ukraine.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.determine"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk antiaircraft missile",
+          "role": "Affectee",
+          "subject_xref": "[MH17|0011]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "eastern Ukraine",
+          "role": "Destination",
+          "subject_xref": "[MH17|0021-0022]"
+        }
+      ],
+      "outcome": "Full route of Buk launcher established",
+      "xref": "[MH17|0017-0022]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "We know who organized the transport of the weapon in Ukraine, where the missile launcher came from before it arrived in Ukraine, and even the small dents and remaining traces of painted marks on the Buk that reveal its identity, going back to 2010.",
+      "normalized": "Investigators identified the organizers of the weapon's transport in Ukraine, the missile launcher's origin before Ukraine, and the painted marks on the Buk that trace its identity back to 2010.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.identify"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk antiaircraft missile",
+          "role": "Affectee",
+          "subject_xref": "[MH17|0011]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Ukraine",
+          "role": "Location",
+          "subject_xref": "[MH17|0025]"
+        }
+      ],
+      "outcome": "Full origin and identity of Buk launcher established",
+      "xref": "[MH17|0023-002D]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "international criminal investigations",
+      "full_classification": "Entity > Collective > Agency > LawEnforcementAgency",
+      "alias_list": [
+      ],
+      "description": "Multinational investigative efforts",
+      "xref": "[MH17|0031]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "state-sponsored disinformation campaigns",
+      "full_classification": "Entity > Phenomenon > Process > InformationOperation",
+      "alias_list": [
+      ],
+      "description": "Propaganda efforts by states",
+      "xref": "[MH17|0032]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "amateur sleuths",
+      "full_classification": "Entity > Collective > SocialGroup > OnlineCommunity",
+      "alias_list": [
+      ],
+      "description": "Independent open-source researchers",
+      "xref": "[MH17|0032]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "meta",
+      "type": {
+        "Dynamics": "Activity",
+        "Outcome": "Success",
+        "Impact": "Symbolic"
+      },
+      "verbatim": "This report will serve as a survey of the information related to the downing of MH17 that is freely available for anyone with an internet connection to access, analyze, and verify—in other words, open source information.",
+      "normalized": "This report surveys freely available open-source information about the downing of MH17 for public access, analysis, and verification.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Support.survey"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Malaysian Airlines Flight 17",
+          "role": "Topic",
+          "subject_xref": "[MH17|0008]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "amateur sleuths",
+          "role": "Beneficiary",
+          "subject_xref": "[MH17|0032]"
+        }
+      ],
+      "outcome": "Open-source repository created",
+      "xref": "[MH17|0034-003D]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "television broadcast",
+      "full_classification": "Entity > InformationCarrier > DigitalCarrier > Video",
+      "alias_list": [
+      ],
+      "description": "TV broadcast as information source",
+      "xref": "[MH17|003F]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "satellite imagery",
+      "full_classification": "Entity > InformationCarrier > DigitalCarrier > Image",
+      "alias_list": [
+      ],
+      "description": "Satellite photos as information source",
+      "xref": "[MH17|0040]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "social media accounts",
+      "full_classification": "Entity > Site > DigitalSite > SocialHandle",
+      "alias_list": [
+      ],
+      "description": "Personal social media profiles",
+      "xref": "[MH17|0041]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Russian Federation",
+      "full_classification": "Entity > Collective > GovernmentStructure > NationalGovernment",
+      "alias_list": [
+      ],
+      "description": "State actor promoting counter-narratives",
+      "xref": "[MH17|0057]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Contested"
+      },
+      "verbatim": "Some of these counter-narratives were created and promoted by the Russian Federation, while others are almost exclusively found online.",
+      "normalized": "The Russian Federation created and promoted some counter-narratives about MH17, while others circulate only online.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Organization.create"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russian Federation",
+          "role": "Affector",
+          "subject_xref": "[MH17|0057]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "state-sponsored disinformation campaigns",
+          "role": "Instrument",
+          "subject_xref": "[MH17|0032]"
+        }
+      ],
+      "outcome": "Counter-narratives disseminated",
+      "xref": "[MH17|0055-0059]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Ukrainian Forces",
+      "full_classification": "Entity > Collective > MilitaryUnit",
+      "alias_list": [
+      ],
+      "description": "Ukrainian military units",
+      "xref": "[MH17|0063]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Sloviansk",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "City in Donetsk Oblast",
+      "xref": "[MH17|0065]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Igor Strelkov Girkin",
+      "full_classification": "Entity > MaterialEntity > Person > MilitaryOfficer",
+      "alias_list": [
+        "Igor Strelkov"
+      ],
+      "description": "Separatist commander",
+      "xref": "[MH17|0069]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Donetsk People's Republic",
+      "full_classification": "Entity > Collective > GovernmentStructure > SubnationalGovernment",
+      "alias_list": [
+        "DNR"
+      ],
+      "description": "Self-proclaimed separatist republic",
+      "xref": "[MH17|006C]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Donetsk",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Capital city of DNR",
+      "xref": "[MH17|006D]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Ukraine retook the city of Sloviansk on July 5, which had been seized by the separatist commander Igor Strelkov Girkin.",
+      "normalized": "Ukrainian Forces recaptured Sloviansk on July 5 from separatist commander Igor Strelkov Girkin.",
+      "operative_verb": [
+        "MilitaryOperations.Maneuvers.recapture"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Ukrainian Forces",
+          "role": "Affector",
+          "subject_xref": "[MH17|0063]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Sloviansk",
+          "role": "Affectee",
+          "subject_xref": "[MH17|0065]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Igor Strelkov Girkin",
+          "role": "Source",
+          "subject_xref": "[MH17|0069]"
+        }
+      ],
+      "outcome": "City returned to Ukrainian control",
+      "xref": "[MH17|0064-0069]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Symbolic"
+      },
+      "verbatim": "The recently-formed forces of the self-proclaimed Donetsk People's Republic retreated to Donetsk after fleeing Sloviansk, Kramatorsk, and other cities.",
+      "normalized": "DNR forces retreated to Donetsk after abandoning Sloviansk, Kramatorsk, and other cities.",
+      "operative_verb": [
+        "MilitaryOperations.Maneuvers.retreat"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Donetsk People's Republic",
+          "role": "Affector",
+          "subject_xref": "[MH17|006C]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Donetsk",
+          "role": "Destination",
+          "subject_xref": "[MH17|006D]"
+        }
+      ],
+      "outcome": "DNR consolidated in Donetsk",
+      "xref": "[MH17|006A-0071]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Symbolic"
+      },
+      "verbatim": "Russian-led separatist forces destroyed numerous bridges and blocked strategic roads leading into and near Donetsk.",
+      "normalized": "Russian-led separatist forces destroyed bridges and blocked strategic roads to hinder Ukrainian advance on Donetsk.",
+      "operative_verb": [
+        "MilitaryOperations.Kinetics.destroy"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Donetsk People's Republic",
+          "role": "Affector",
+          "subject_xref": "[MH17|006C]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Donetsk",
+          "role": "Location",
+          "subject_xref": "[MH17|006D]"
+        }
+      ],
+      "outcome": "Transport routes severed",
+      "xref": "[MH17|0072-0079]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Russian Armed Forces",
+      "full_classification": "Entity > Collective > MilitaryUnit",
+      "alias_list": [
+      ],
+      "description": "National military of Russia",
+      "xref": "[MH17|0080]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Amvrosiivka",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Town near Ukraine-Russia border",
+      "xref": "[MH17|008A]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Seleznev",
+      "full_classification": "Entity > Site > PhysicalSite > Rural",
+      "alias_list": [
+      ],
+      "description": "Russian village near border",
+      "xref": "[MH17|0094]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "BM-21 Grad",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Weapon > Artillery",
+      "alias_list": [
+      ],
+      "description": "122mm multiple rocket launcher",
+      "xref": "[MH17|0098]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Gukovo",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Russian city near border",
+      "xref": "[MH17|009C]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "observation",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "On July 16, 2014, Russian Federation soldiers launched devastating artillery attacks against Ukrainian army positions near Amvrosiivka, Ukraine.",
+      "normalized": "Russian Federation soldiers launched artillery attacks on Ukrainian positions near Amvrosiivka on July 16, 2014.",
+      "operative_verb": [
+        "MilitaryOperations.Kinetics.launch"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russian Armed Forces",
+          "role": "Affector",
+          "subject_xref": "[MH17|0080]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Amvrosiivka",
+          "role": "Location",
+          "subject_xref": "[MH17|008A]"
+        }
+      ],
+      "outcome": "Ukrainian positions struck",
+      "xref": "[MH17|0085-008A]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "observation",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "These attacks were launched from multiple positions, including one inside Russia near Seleznev, approximately 750 meters from the Russia-Ukraine border.",
+      "normalized": "Russian forces fired artillery from Seleznev, Russia, 750 meters from the Ukraine border.",
+      "operative_verb": [
+        "MilitaryOperations.Kinetics.fire"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Seleznev",
+          "role": "Source",
+          "subject_xref": "[MH17|0094]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russia-Ukraine border",
+          "role": "Boundary",
+          "subject_xref": "[MH17|0095]"
+        }
+      ],
+      "outcome": "Cross-border artillery fire confirmed",
+      "xref": "[MH17|008B-0096]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "For the first time, the Russian military was launching documentable, direct artillery attacks from their own territory, with their own equipment, and with their own soldiers, against the Ukrainian military.",
+      "normalized": "Russian military conducted documented artillery attacks from Russia using Russian equipment and soldiers against Ukraine.",
+      "operative_verb": [
+        "MilitaryOperations.Kinetics.conduct"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russian Armed Forces",
+          "role": "Affector",
+          "subject_xref": "[MH17|0080]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Ukrainian Forces",
+          "role": "Affectee",
+          "subject_xref": "[MH17|0063]"
+        }
+      ],
+      "outcome": "Direct Russian involvement established",
+      "xref": "[MH17|009D-00A4]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Ukrainian AN-26 transport plane",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Vehicle > Aircraft > Transport",
+      "alias_list": [
+      ],
+      "description": "Military cargo aircraft",
+      "xref": "[MH17|00C2]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Ukrainian Su-25 ground attack jet",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Vehicle > Aircraft > Fighter",
+      "alias_list": [
+      ],
+      "description": "Ground-attack fighter aircraft",
+      "xref": "[MH17|00C6]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Snizhne",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Town in Donetsk Oblast",
+      "xref": "[MH17|00C8]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Aleksandr Borodai",
+      "full_classification": "Entity > MaterialEntity > Person > Politician",
+      "alias_list": [
+      ],
+      "description": "DNR separatist leader",
+      "xref": "[MH17|00D0]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Strela-10 anti-aircraft missile system",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Weapon > MissileSystem",
+      "alias_list": [
+      ],
+      "description": "Mobile SAM system",
+      "xref": "[MH17|00D1]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Failure",
+        "Impact": "Substantive"
+      },
+      "verbatim": "On July 14, a Ukrainian AN-26 transport plane was shot down near the Russia-Ukraine border.",
+      "normalized": "Separatists shot down a Ukrainian AN-26 transport plane near the Russia-Ukraine border on July 14.",
+      "operative_verb": [
+        "MilitaryOperations.Kinetics.shoot"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Ukrainian AN-26 transport plane",
+          "role": "Affectee",
+          "subject_xref": "[MH17|00C2]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russia-Ukraine border",
+          "role": "Location",
+          "subject_xref": "[MH17|00C4]"
+        }
+      ],
+      "outcome": "Aircraft destroyed",
+      "xref": "[MH17|00C1-00C4]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Failure",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Two days later, a Ukrainian Su-25 ground attack jet was shot down south of Snizhne, and another was damaged.",
+      "normalized": "Separatists shot down one Ukrainian Su-25 jet and damaged another south of Snizhne.",
+      "operative_verb": [
+        "MilitaryOperations.Kinetics.shoot"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Ukrainian Su-25 ground attack jet",
+          "role": "Affectee",
+          "subject_xref": "[MH17|00C6]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Snizhne",
+          "role": "Location",
+          "subject_xref": "[MH17|00C8]"
+        }
+      ],
+      "outcome": "One jet lost, one damaged",
+      "xref": "[MH17|00C5-00C9]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Russia’s decision to provide a powerful Buk-M1 anti-aircraft missile system fits into the general course of events.",
+      "normalized": "Russia provided a Buk-M1 anti-aircraft missile system to separatists to counter Ukrainian air offensives.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Support.provide"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russian Federation",
+          "role": "Affector",
+          "subject_xref": "[MH17|0057]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk antiaircraft missile",
+          "role": "Instrument",
+          "subject_xref": "[MH17|0011]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Donetsk People's Republic",
+          "role": "Beneficiary",
+          "subject_xref": "[MH17|006C]"
+        }
+      ],
+      "outcome": "Buk-M1 delivered to separatists",
+      "xref": "[MH17|00E0-00E9]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Pantsir-S1 anti-aircraft missile system",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Weapon > MissileSystem",
+      "alias_list": [
+      ],
+      "description": "Advanced Russian SAM system",
+      "xref": "[MH17|00ED]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "The Russian Federation later provided additional anti-aircraft missile systems, including a Pantsir-S1, to Russian-led separatists.",
+      "normalized": "Russia supplied Pantsir-S1 and other SAM systems to separatists, requiring significant training.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Support.supply"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russian Federation",
+          "role": "Affector",
+          "subject_xref": "[MH17|0057]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Pantsir-S1 anti-aircraft missile system",
+          "role": "Instrument",
+          "subject_xref": "[MH17|00ED]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Donetsk People's Republic",
+          "role": "Beneficiary",
+          "subject_xref": "[MH17|006C]"
+        }
+      ],
+      "outcome": "Advanced SAM systems delivered",
+      "xref": "[MH17|00EA-00F4]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Symbolic"
+      },
+      "verbatim": "For six hours before the downing of MH17, Ukrainians went online to discuss a Buk missile launcher slowly creeping through eastern Ukraine.",
+      "normalized": "Ukrainian civilians reported a Buk missile launcher moving through eastern Ukraine six hours before MH17 was shot down.",
+      "operative_verb": [
+        "Perception.GeneralSensing.report"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk antiaircraft missile",
+          "role": "Affectee",
+          "subject_xref": "[MH17|0011]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "eastern Ukraine",
+          "role": "Location",
+          "subject_xref": "[MH17|0011]"
+        }
+      ],
+      "outcome": "Buk movement publicly tracked",
+      "xref": "[MH17|0113-0119]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Buk 332",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Weapon > MissileSystem",
+      "alias_list": [
+      ],
+      "description": "Specific Buk missile launcher identified by JIT",
+      "xref": "[MH17|012B]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Volvo truck",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Vehicle > GroundVehicle > Truck",
+      "alias_list": [
+      ],
+      "description": "Red Volvo truck hauling Buk 332",
+      "xref": "[MH17|0130]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "red trailer",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > LogisticsUnit > Trailer",
+      "alias_list": [
+      ],
+      "description": "Red low-loader trailer carrying Buk",
+      "xref": "[MH17|012F]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Joint Investigation Team",
+      "full_classification": "Entity > Collective > Agency > LawEnforcementAgency",
+      "alias_list": [
+        "JIT"
+      ],
+      "description": "Dutch-led criminal investigation team",
+      "xref": "[MH17|0122]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Bellingcat",
+      "full_classification": "Entity > Collective > Organization > NGO",
+      "alias_list": [
+      ],
+      "description": "Open-source investigative collective",
+      "xref": "[MH17|013F]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Donbas",
+      "full_classification": "Entity > Site > PhysicalSite > Region",
+      "alias_list": [
+      ],
+      "description": "Donetsk and Luhansk region",
+      "xref": "[MH17|0145]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Twitter user",
+      "full_classification": "Entity > MaterialEntity > Person > Civilian",
+      "alias_list": [
+      ],
+      "description": "Donetsk resident who tweeted Buk sighting",
+      "xref": "[MH17|014E]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Vkontakte group Donetsk is Ukraine!",
+      "full_classification": "Entity > Collective > SocialGroup > OnlineCommunity",
+      "alias_list": [
+      ],
+      "description": "VK public group sharing Buk convoy details",
+      "xref": "[MH17|015C]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Paris Match",
+      "full_classification": "Entity > Collective > Organization > MediaCompany",
+      "alias_list": [
+      ],
+      "description": "French magazine that published Buk convoy photos",
+      "xref": "[MH17|018C]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Just after Malaysian Airlines Flight 17 left Amsterdam, this weapon was filmed heading south out of the Ukrainian, separatist-controlled town of Snizhne.",
+      "normalized": "A Buk missile launcher was filmed leaving Snizhne southbound shortly after MH17 departed Amsterdam.",
+      "operative_verb": [
+        "Perception.Visual.film"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Snizhne",
+          "role": "Source",
+          "subject_xref": "[MH17|011F]"
+        }
+      ],
+      "outcome": "Buk movement captured on video",
+      "xref": "[MH17|011A-011F]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "This Buk missile launcher was hauled on a red trailer attached to a Volvo truck that had previously been stolen from a vehicle yard in Donetsk.",
+      "normalized": "Separatists used a stolen Volvo truck and red trailer to haul Buk 332 from Donetsk.",
+      "operative_verb": [
+        "LogisticsOperation.haul"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Volvo truck",
+          "role": "Instrument",
+          "subject_xref": "[MH17|0130]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "red trailer",
+          "role": "Instrument",
+          "subject_xref": "[MH17|012F]"
+        }
+      ],
+      "outcome": "Buk transported via stolen vehicles",
+      "xref": "[MH17|012E-0133]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Over the past three years, Bellingcat has exhaustively analyzed these materials and confirmed their veracity.",
+      "normalized": "Bellingcat verified the authenticity of Buk convoy photos and videos over three years.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.verify"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Bellingcat",
+          "role": "Affector",
+          "subject_xref": "[MH17|013F]"
+        }
+      ],
+      "outcome": "Evidence authenticated",
+      "xref": "[MH17|013E-0141]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "A Twitter user living in Donetsk tweeted at 10:11am local time describing an anti-aircraft missile system near Snizhne.",
+      "normalized": "A Donetsk resident tweeted at 10:11am about a Buk missile launcher near Snizhne.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Organization.tweet"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Twitter user",
+          "role": "Affector",
+          "subject_xref": "[MH17|014E]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Snizhne",
+          "role": "Location",
+          "subject_xref": "[MH17|0158]"
+        }
+      ],
+      "outcome": "First public Buk sighting recorded",
+      "xref": "[MH17|014E-015A]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "The VK group Donetsk is Ukraine! shared a message at 9:15am detailing the Buk convoy composition and location.",
+      "normalized": "VK group published convoy details including Volvo truck, Rav4, UAZ, and Hyundai escorting Buk through Donetsk.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Organization.publish"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Vkontakte group Donetsk is Ukraine!",
+          "role": "Affector",
+          "subject_xref": "[MH17|015C]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Donetsk",
+          "role": "Location",
+          "subject_xref": "[MH17|0168]"
+        }
+      ],
+      "outcome": "Convoy composition publicly revealed",
+      "xref": "[MH17|015B-017F]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Paris Match published two screenshots showing Buk 332, the Volvo truck, red trailer, and grey Toyota Rav4 SUV shortly after the downing.",
+      "normalized": "Paris Match released photos of Buk 332 on Volvo truck with Rav4 escort days after MH17 crash.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Organization.release"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Paris Match",
+          "role": "Affector",
+          "subject_xref": "[MH17|018C]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        }
+      ],
+      "outcome": "First visual evidence published",
+      "xref": "[MH17|018C-0194]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "A YouTube video uploaded on May 3, 2016, showed Buk 332 being hauled through Makiivka by the same Volvo truck and red trailer.",
+      "normalized": "YouTube video revealed Buk 332 convoy route through Makiivka on July 17, 2014.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Organization.reveal"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Makiivka",
+          "role": "Location",
+          "subject_xref": "[MH17|01A5]"
+        }
+      ],
+      "outcome": "Convoy route through Makiivka confirmed",
+      "xref": "[MH17|01A1-01C2]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Stratfor",
+      "full_classification": "Entity > Collective > Organization > Company",
+      "alias_list": [
+      ],
+      "description": "Private intelligence firm",
+      "xref": "[MH17|01D2]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Digital Globe",
+      "full_classification": "Entity > Collective > Organization > Company",
+      "alias_list": [
+      ],
+      "description": "Satellite imagery provider",
+      "xref": "[MH17|01E0]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Zuhres",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Town east of Makiivka on H21 highway",
+      "xref": "[MH17|01F5]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Torez",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Town between Zuhres and Snizhne",
+      "xref": "[MH17|0236]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "@WowihaY",
+      "full_classification": "Entity > MaterialEntity > Person > Civilian",
+      "alias_list": [
+      ],
+      "description": "Torez native who tweeted Buk sightings",
+      "xref": "[MH17|0239]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Ukrainian Security Service",
+      "full_classification": "Entity > Collective > Agency > IntelligenceAgency",
+      "alias_list": [
+        "SBU"
+      ],
+      "description": "Ukraine's domestic intelligence agency",
+      "xref": "[MH17|020C]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Luhansk",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "City east of Snizhne toward Russian border",
+      "xref": "[MH17|02C8]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "inference",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "This detour was likely taken to avoid a low-hanging bridge along the highway, which may have not been high enough for the vehicle hauling a Buk with mounted missiles.",
+      "normalized": "Convoy detoured through Makiivka to bypass low bridge insufficient for Buk height.",
+      "operative_verb": [
+        "MilitaryOperations.Maneuvers.detour"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Makiivka",
+          "role": "Location",
+          "subject_xref": "[MH17|01A5]"
+        }
+      ],
+      "outcome": "Route adjusted for clearance",
+      "xref": "[MH17|01C3-01CB]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Stratfor published a satellite image showing the Buk convoy in Makiivka at 11:08am local time on July 17, 2014.",
+      "normalized": "Stratfor satellite image captured Buk convoy in Makiivka minutes after video was filmed.",
+      "operative_verb": [
+        "Perception.Visual.capture"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Stratfor",
+          "role": "Affector",
+          "subject_xref": "[MH17|01D2]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Digital Globe",
+          "role": "Instrument",
+          "subject_xref": "[MH17|01E0]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        }
+      ],
+      "outcome": "Satellite confirmation of convoy",
+      "xref": "[MH17|01D2-01EE]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "A Twitter user created a YouTube account and uploaded a video geolocated to Zuhres showing the Buk convoy on H21 highway.",
+      "normalized": "Twitter user uploaded geolocated video of Buk convoy on H21 highway in Zuhres.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Organization.upload"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Zuhres",
+          "role": "Location",
+          "subject_xref": "[MH17|01F5]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "H21 highway",
+          "role": "Route",
+          "subject_xref": "[MH17|01FD]"
+        }
+      ],
+      "outcome": "Video evidence of eastward movement",
+      "xref": "[MH17|0202-0215]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "At 12:07pm, Twitter user @WowihaY reported a surface-to-air missile launcher passing through Torez toward Snizhne.",
+      "normalized": "@WowihaY tweeted at 12:07pm that a Buk launcher was moving through Torez toward Snizhne.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Organization.tweet"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "@WowihaY",
+          "role": "Affector",
+          "subject_xref": "[MH17|0239]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Torez",
+          "role": "Location",
+          "subject_xref": "[MH17|0236]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Snizhne",
+          "role": "Destination",
+          "subject_xref": "[MH17|0247]"
+        }
+      ],
+      "outcome": "Real-time Buk tracking documented",
+      "xref": "[MH17|0239-0247]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "The Ukrainian Security Service published a composite photograph showing the Buk convoy in Zuhres and Torez.",
+      "normalized": "SBU released composite photo matching Buk convoy in Zuhres and Torez locations.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Organization.release"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Ukrainian Security Service",
+          "role": "Affector",
+          "subject_xref": "[MH17|020C]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        }
+      ],
+      "outcome": "Official convoy timeline released",
+      "xref": "[MH17|020B-0226]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "A photograph taken in Torez center showed the Volvo truck hauling the Buk with UAZ-469 jeep behind.",
+      "normalized": "Witness photographed Buk 332 on Volvo truck with UAZ escort in Torez center.",
+      "operative_verb": [
+        "Perception.Visual.photograph"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Volvo truck",
+          "role": "Instrument",
+          "subject_xref": "[MH17|0130]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Torez",
+          "role": "Location",
+          "subject_xref": "[MH17|0252]"
+        }
+      ],
+      "outcome": "Convoy composition visually confirmed",
+      "xref": "[MH17|0257-0256]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "A Snizhne resident photographed the unloaded Buk moving through a residential area toward the launch field.",
+      "normalized": "Local resident captured Buk 332 moving under own power toward launch site south of Snizhne.",
+      "operative_verb": [
+        "Perception.Visual.capture"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Snizhne",
+          "role": "Location",
+          "subject_xref": "[MH17|02A1]"
+        }
+      ],
+      "outcome": "Final Buk positioning documented",
+      "xref": "[MH17|02A4-02AB]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "A Torez resident took a photograph showing the white trail of a missile launch from a field south of Snizhne shortly after hearing loud noises.",
+      "normalized": "Torez resident photographed missile launch trail from field south of Snizhne after hearing explosions.",
+      "operative_verb": [
+        "Perception.Visual.photograph"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Torez",
+          "role": "Location",
+          "subject_xref": "[MH17|02FF]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Snizhne",
+          "role": "Source",
+          "subject_xref": "[MH17|0303]"
+        }
+      ],
+      "outcome": "Missile launch captured on camera",
+      "xref": "[MH17|02FB-0304]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Chervonyi Zhovten",
+      "full_classification": "Entity > Site > PhysicalSite > Rural",
+      "alias_list": [
+        "Red October"
+      ],
+      "description": "Village south of Snizhne near launch field",
+      "xref": "[MH17|0324]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Ukraine@War",
+      "full_classification": "Entity > MaterialEntity > Person > Civilian",
+      "alias_list": [
+        "Putin@War"
+      ],
+      "description": "Blogger who geolocated missile trail photo",
+      "xref": "[MH17|031D]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Dutch Safety Board",
+      "full_classification": "Entity > Collective > Agency > Regulator",
+      "alias_list": [
+        "DSB"
+      ],
+      "description": "Dutch aviation accident investigation agency",
+      "xref": "[MH17|032D]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Fox-IT",
+      "full_classification": "Entity > Collective > Organization > Company",
+      "alias_list": [
+      ],
+      "description": "Cyber-security firm that verified missile photo",
+      "xref": "[MH17|039B]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "NIDF",
+      "full_classification": "Entity > Collective > Organization > ResearchInstitute",
+      "alias_list": [
+      ],
+      "description": "Dutch Institute of Digital Photography",
+      "xref": "[MH17|039F]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Steklo Plastik",
+      "full_classification": "Entity > Collective > Organization > ManufacturingCompany",
+      "alias_list": [
+      ],
+      "description": "Russian weapons container manufacturer",
+      "xref": "[MH17|03C0]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Christopher Miller",
+      "full_classification": "Entity > MaterialEntity > Person > Journalist",
+      "alias_list": [
+      ],
+      "description": "Journalist who visited launch site",
+      "xref": "[MH17|03B3]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Roland Oliphant",
+      "full_classification": "Entity > MaterialEntity > Person > Journalist",
+      "alias_list": [
+      ],
+      "description": "Journalist who visited launch site with Miller",
+      "xref": "[MH17|03B4]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Ukrainian Ministry of Interior",
+      "full_classification": "Entity > Collective > Agency > LawEnforcementAgency",
+      "alias_list": [
+      ],
+      "description": "Ukraine's internal security ministry",
+      "xref": "[MH17|041D]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "@WowihaY shared the missile trail photograph on Twitter at 7:23pm local time, three hours after MH17 was downed.",
+      "normalized": "@WowihaY tweeted missile launch photo at 19:23 local time, three hours after MH17 crash.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Organization.tweet"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "@WowihaY",
+          "role": "Affector",
+          "subject_xref": "[MH17|0239]"
+        }
+      ],
+      "outcome": "First public missile launch image shared",
+      "xref": "[MH17|0310-031C]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Ukraine@War geolocated the missile trail photograph to a field east of Chervonyi Zhovten village.",
+      "normalized": "Blogger Ukraine@War pinpointed launch site to field east of Chervonyi Zhovten.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.pinpoint"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Ukraine@War",
+          "role": "Affector",
+          "subject_xref": "[MH17|031D]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Chervonyi Zhovten",
+          "role": "Location",
+          "subject_xref": "[MH17|0324]"
+        }
+      ],
+      "outcome": "Launch site geolocated to exact field",
+      "xref": "[MH17|031D-032A]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "The Dutch Safety Board and JIT confirmed the missile was fired from a field south of Snizhne at coordinates 47.973906, 38.763963.",
+      "normalized": "DSB and JIT triangulated launch site to field south of Snizhne at precise coordinates.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.triangulate"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Dutch Safety Board",
+          "role": "Affector",
+          "subject_xref": "[MH17|032D]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Joint Investigation Team",
+          "role": "Affector",
+          "subject_xref": "[MH17|0122]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Snizhne",
+          "role": "Location",
+          "subject_xref": "[MH17|0332]"
+        }
+      ],
+      "outcome": "Exact launch coordinates determined",
+      "xref": "[MH17|0336-0355]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Fox-IT and NIDF experts verified the missile trail photograph showed no signs of manipulation or fraud.",
+      "normalized": "Digital forensics firms Fox-IT and NIDF authenticated missile launch photograph as genuine.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.authenticate"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Fox-IT",
+          "role": "Affector",
+          "subject_xref": "[MH17|039B]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "NIDF",
+          "role": "Affector",
+          "subject_xref": "[MH17|039F]"
+        }
+      ],
+      "outcome": "Photograph proven authentic",
+      "xref": "[MH17|0398-03AC]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Journalists Miller and Oliphant found a burned field with weapons container debris from Steklo Plastik at the launch site on July 22, 2014.",
+      "normalized": "Reporters discovered scorched field with Steklo Plastik weapons container fragments at launch site.",
+      "operative_verb": [
+        "Perception.GeneralSensing.discover"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Christopher Miller",
+          "role": "Affector",
+          "subject_xref": "[MH17|03B3]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Roland Oliphant",
+          "role": "Affector",
+          "subject_xref": "[MH17|03B4]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Steklo Plastik",
+          "role": "Source",
+          "subject_xref": "[MH17|03C0]"
+        }
+      ],
+      "outcome": "Physical evidence of launch found",
+      "xref": "[MH17|03B2-03C5]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "A Chervonyi Zhovten resident saw and heard a missile launch from the field immediately before MH17 was downed.",
+      "normalized": "Village resident witnessed missile launch from field and saw it strike plane.",
+      "operative_verb": [
+        "Perception.GeneralSensing.witness"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Chervonyi Zhovten",
+          "role": "Location",
+          "subject_xref": "[MH17|0324]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Torez",
+          "role": "Destination",
+          "subject_xref": "[MH17|03E2]"
+        }
+      ],
+      "outcome": "Eyewitness confirmed launch direction",
+      "xref": "[MH17|03C8-03E3]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Satellite imagery showed the launch field was altered between July 16-21, 2014, with new track marks appearing.",
+      "normalized": "Digital Globe satellite images revealed field disturbance and fresh vehicle tracks at launch site July 16-21.",
+      "operative_verb": [
+        "Perception.Visual.reveal"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Digital Globe",
+          "role": "Instrument",
+          "subject_xref": "[MH17|01E0]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Snizhne",
+          "role": "Location",
+          "subject_xref": "[MH17|03F2]"
+        }
+      ],
+      "outcome": "Launch site disturbance documented",
+      "xref": "[MH17|03E9-03F5]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "The Ukrainian Ministry of Interior published a video showing Buk 332 heading toward the Russian border in Luhansk on July 18, 2014.",
+      "normalized": "Ukrainian Interior Ministry released video of Buk 332 with three missiles driving toward Russia day after MH17 crash.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Organization.release"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Ukrainian Ministry of Interior",
+          "role": "Affector",
+          "subject_xref": "[MH17|041D]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Luhansk",
+          "role": "Location",
+          "subject_xref": "[MH17|041A]"
+        }
+      ],
+      "outcome": "Buk retreat toward Russia documented",
+      "xref": "[MH17|041C-0426]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Arsen Avakov",
+      "full_classification": "Entity > MaterialEntity > Person > Official",
+      "alias_list": [
+      ],
+      "description": "Ukrainian Minister of Interior",
+      "xref": "[MH17|0439]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Krasniy Luch",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Town on Buk retreat route",
+      "xref": "[MH17|0447]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Debaltseve",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Town on Buk retreat route",
+      "xref": "[MH17|0448]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Vulytsia Pavlivska-Nechuya Levytskoho",
+      "full_classification": "Entity > Site > PhysicalSite > Route",
+      "alias_list": [
+      ],
+      "description": "Street in Luhansk where Buk was filmed",
+      "xref": "[MH17|044C]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Stroymekhanizatsiya",
+      "full_classification": "Entity > Collective > Organization > Company",
+      "alias_list": [
+      ],
+      "description": "Donetsk construction company whose Volvo was stolen",
+      "xref": "[MH17|0497]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Krasnodon",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Separatist stronghold near Russia border",
+      "xref": "[MH17|04FD]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Alchevsk",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Town on July 15 convoy route",
+      "xref": "[MH17|0501]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Yenakieve",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Town on July 15 convoy route",
+      "xref": "[MH17|0501]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "A Ukrainian policeman filmed Buk 332 from a safe-house in Luhansk at 12:18am on July 18, showing only three missiles remaining.",
+      "normalized": "Ukrainian police officer captured video of Buk 332 with one missile missing during retreat through Luhansk.",
+      "operative_verb": [
+        "Perception.Visual.capture"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Luhansk",
+          "role": "Location",
+          "subject_xref": "[MH17|044C]"
+        }
+      ],
+      "outcome": "Buk retreat with missing missile documented",
+      "xref": "[MH17|0427-0437]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "The JIT determined Buk 332 traveled through Krasniy Luch, Debaltseve, and Luhansk before reaching Russia via telecommunications data.",
+      "normalized": "JIT traced Buk retreat route through Krasniy Luch and Debaltseve to Luhansk using telecom intercepts.",
+      "operative_verb": [
+        "IntelligenceOps.Collection.trace"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Joint Investigation Team",
+          "role": "Affector",
+          "subject_xref": "[MH17|0122]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Krasniy Luch",
+          "role": "Route",
+          "subject_xref": "[MH17|0447]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Debaltseve",
+          "role": "Route",
+          "subject_xref": "[MH17|0448]"
+        }
+      ],
+      "outcome": "Complete retreat route reconstructed",
+      "xref": "[MH17|044D-0450]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Intercepted phone calls revealed panicked separatists saying the Buk was taken across the Ukraine-Russia border in early hours of July 18.",
+      "normalized": "JIT intercepted calls captured separatists stating Buk crossed into Russia before dawn July 18.",
+      "operative_verb": [
+        "IntelligenceOps.Collection.intercept"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Joint Investigation Team",
+          "role": "Affector",
+          "subject_xref": "[MH17|0122]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russia-Ukraine border",
+          "role": "Location",
+          "subject_xref": "[MH17|0468]"
+        }
+      ],
+      "outcome": "Border crossing confirmed by separatists",
+      "xref": "[MH17|0465-046D]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Stroymekhanizatsiya's owner confirmed the Volvo truck hauling Buk 332 was stolen from his Donetsk yard by separatists.",
+      "normalized": "Truck owner verified Volvo used to haul Buk was seized by separatists from his Donetsk base.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.verify"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Stroymekhanizatsiya",
+          "role": "Source",
+          "subject_xref": "[MH17|0497]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Volvo truck",
+          "role": "Affectee",
+          "subject_xref": "[MH17|0130]"
+        }
+      ],
+      "outcome": "Truck ownership and theft confirmed",
+      "xref": "[MH17|04A0-04B6]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Satellite imagery confirmed the Volvo low-loader was missing from Stroymekhanizatsiya yard at 11:08am on July 17, proving it was hauling the Buk.",
+      "normalized": "Digital Globe satellite showed Volvo trailer absent from Donetsk yard during Buk transport, confirming theft timeline.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.confirm"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Digital Globe",
+          "role": "Instrument",
+          "subject_xref": "[MH17|01E0]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Stroymekhanizatsiya",
+          "role": "Location",
+          "subject_xref": "[MH17|0497]"
+        }
+      ],
+      "outcome": "Theft timeline corroborated by satellite",
+      "xref": "[MH17|04C0-04CB]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "The three escort vehicles (VW van, Toyota RAV4, UAZ-469) were part of a July 15 convoy that transported tanks and howitzers along the same route.",
+      "normalized": "Escort vehicles previously moved military equipment along identical route on July 15, proving separatist control.",
+      "operative_verb": [
+        "LogisticsOperation.transport"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Donetsk People's Republic",
+          "role": "Affector",
+          "subject_xref": "[MH17|006C]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Krasnodon",
+          "role": "Source",
+          "subject_xref": "[MH17|04FD]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Luhansk",
+          "role": "Destination",
+          "subject_xref": "[MH17|04FE]"
+        }
+      ],
+      "outcome": "Route security established prior to Buk movement",
+      "xref": "[MH17|04ED-0524]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Satellite and witness evidence confirm the same three escort vehicles traveled the identical route on July 15 and 17, proving separatist control.",
+      "normalized": "Matching vehicle convoy on July 15 and 17 demonstrated established separatist control over Buk transport route.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.demonstrate"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russian Federation",
+          "role": "Controller",
+          "subject_xref": "[MH17|0057]"
+        }
+      ],
+      "outcome": "Russian-separatist operational control proven",
+      "xref": "[MH17|052A-0527]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "53rd Anti-Aircraft Missile Brigade",
+      "full_classification": "Entity > Collective > MilitaryUnit",
+      "alias_list": [
+      ],
+      "description": "Russian military unit that transported Buk 332",
+      "xref": "[MH17|0588]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Kursk",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Russian city where Buk 332 convoy originated",
+      "xref": "[MH17|058A]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Millerovo",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Russian town near Ukraine border where convoy was last seen",
+      "xref": "[MH17|058E]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Buk 3x2",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Weapon > MissileSystem",
+      "alias_list": [
+      ],
+      "description": "Temporary designation for Buk 332 before full number was determined",
+      "xref": "[MH17|0591]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "2nd Battalion 53rd Brigade",
+      "full_classification": "Entity > Collective > MilitaryUnit > SubUnit",
+      "alias_list": [
+      ],
+      "description": "Russian military unit responsible for transporting Buk 332",
+      "xref": "[MH17|06C6]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Buk TELAR 222",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Weapon > MissileSystem",
+      "alias_list": [
+      ],
+      "description": "Missile launcher replaced by Buk 332 in convoy",
+      "xref": "[MH17|06CA]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Bellingcat identified distinctive markings on Buk 332 including obscured chassis numbers, damaged rubber side skirt, and white symbols that matched between Russia and Ukraine.",
+      "normalized": "Bellingcat matched unique identifiers on Buk 332 between June convoy in Russia and July deployment in Ukraine.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.match"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Bellingcat",
+          "role": "Affector",
+          "subject_xref": "[MH17|0576]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        }
+      ],
+      "outcome": "Buk positively identified as Russian military asset",
+      "xref": "[MH17|0555-05A3]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Bellingcat used rubber side skirt damage patterns as unique fingerprints to positively identify Buk 332 between Russia and Ukraine.",
+      "normalized": "Side skirt damage analysis provided conclusive identification matching Buk 332 between Russian convoy and Ukrainian deployment.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.identify"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Bellingcat",
+          "role": "Affector",
+          "subject_xref": "[MH17|0576]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Affectee",
+          "subject_xref": "[MH17|012B]"
+        }
+      ],
+      "outcome": "Unique damage patterns confirmed identity",
+      "xref": "[MH17|05BA-05E9]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "The 53rd Brigade convoy including Buk 332 traveled from Kursk to Millerovo near Ukraine border on June 23-25, 2014.",
+      "normalized": "Russian 53rd Brigade transported Buk 332 from Kursk base to Millerovo staging area June 23-25.",
+      "operative_verb": [
+        "LogisticsOperation.transport"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "53rd Anti-Aircraft Missile Brigade",
+          "role": "Affector",
+          "subject_xref": "[MH17|0588]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Kursk",
+          "role": "Source",
+          "subject_xref": "[MH17|058A]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Millerovo",
+          "role": "Destination",
+          "subject_xref": "[MH17|058E]"
+        }
+      ],
+      "outcome": "Buk positioned near border before MH17",
+      "xref": "[MH17|0638-0669]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Bellingcat determined 2nd Battalion of 53rd Brigade transported Buk 332 as replacement for missing Buk 222, despite 332 being assigned to 3rd Battalion.",
+      "normalized": "2nd Battalion moved Buk 332 to border as substitute for absent Buk 222, establishing unit responsibility.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.establish"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "2nd Battalion 53rd Brigade",
+          "role": "Affector",
+          "subject_xref": "[MH17|06C6]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk TELAR 222",
+          "role": "Substitute",
+          "subject_xref": "[MH17|06CA]"
+        }
+      ],
+      "outcome": "Specific military unit identified as responsible",
+      "xref": "[MH17|067A-0694]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Bellingcat identified over 200 soldiers' social media profiles from 53rd Brigade, confirming many members' involvement in the June convoy that transported Buk 332.",
+      "normalized": "Social media analysis identified 200+ 53rd Brigade soldiers, confirming personnel involved in Buk 332 transport convoy.",
+      "operative_verb": [
+        "IntelligenceOps.Collection.identify"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Bellingcat",
+          "role": "Affector",
+          "subject_xref": "[MH17|0576]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "53rd Anti-Aircraft Missile Brigade",
+          "role": "Source",
+          "subject_xref": "[MH17|0588]"
+        }
+      ],
+      "outcome": "Individual personnel involved in transport identified",
+      "xref": "[MH17|06AB-06B8]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "conclusion",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Russian Buk 332 of the 53rd Anti-Aircraft Missile Brigade shot down MH17 on July 17, 2014 after firing from a field south of Snizhne.",
+      "normalized": "Evidence proves Russian 53rd Brigade's Buk 332 launched missile that destroyed MH17 from separatist-controlled territory.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.prove"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Instrument",
+          "subject_xref": "[MH17|012B]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "53rd Anti-Aircraft Missile Brigade",
+          "role": "Affector",
+          "subject_xref": "[MH17|0588]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Malaysian Airlines Flight 17",
+          "role": "Affectee",
+          "subject_xref": "[MH17|0008]"
+        }
+      ],
+      "outcome": "Russian military responsibility definitively established",
+      "xref": "[MH17|0614-061B]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Sergey Muchkaev",
+      "full_classification": "Entity > MaterialEntity > Person > MilitaryOfficer",
+      "alias_list": [
+      ],
+      "description": "Commander of Russia's 53rd Anti-Aircraft Missile Brigade",
+      "xref": "[MH17|06CF]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Sergey Dubinsky",
+      "full_classification": "Entity > MaterialEntity > Person > IntelligenceOfficer",
+      "alias_list": [
+        "Khmury",
+        "Petrovsky"
+      ],
+      "description": "Russian intelligence chief for Girkin's separatist forces, key figure in Buk transport",
+      "xref": "[MH17|06EB]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Vladislav Surkov",
+      "full_classification": "Entity > MaterialEntity > Person > Official",
+      "alias_list": [
+      ],
+      "description": "Kremlin aide who met with Dubinsky",
+      "xref": "[MH17|06F9]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Almaz-Antey",
+      "full_classification": "Entity > Collective > Organization > DefenseCompany",
+      "alias_list": [
+      ],
+      "description": "Russian state-owned defense manufacturer",
+      "xref": "[MH17|074D]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Igor Konashenkov",
+      "full_classification": "Entity > MaterialEntity > Person > MilitaryOfficer",
+      "alias_list": [
+      ],
+      "description": "Russian Ministry of Defense spokesperson",
+      "xref": "[MH17|07AB]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Krasnoarmeysk",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Ukrainian-controlled city falsely claimed by Russia as video location",
+      "xref": "[MH17|07AE]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Bellingcat provided uncensored report identifying 53rd Brigade command structure and individuals with decision-making power over Buk 332 to Dutch JIT.",
+      "normalized": "Bellingcat supplied Dutch investigators with detailed report on 53rd Brigade leadership involved in Buk 332 deployment to Ukraine.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Support.supply"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Bellingcat",
+          "role": "Affector",
+          "subject_xref": "[MH17|0576]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Joint Investigation Team",
+          "role": "Beneficiary",
+          "subject_xref": "[MH17|0122]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Sergey Muchkaev",
+          "role": "Subject",
+          "subject_xref": "[MH17|06CF]"
+        }
+      ],
+      "outcome": "Command responsibility documented for investigators",
+      "xref": "[MH17|06DB-06E7]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "SBU published intercepted calls showing Sergey Dubinsky organizing Buk transport through separatist territory under call-sign Khmury and pseudonym Petrovsky.",
+      "normalized": "Ukrainian intelligence intercepted communications proving Dubinsky coordinated Buk missile launcher movement through Donbas.",
+      "operative_verb": [
+        "IntelligenceOps.Collection.intercept"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Ukrainian Security Service",
+          "role": "Affector",
+          "subject_xref": "[MH17|020C]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Sergey Dubinsky",
+          "role": "Subject",
+          "subject_xref": "[MH17|06EB]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Igor Strelkov Girkin",
+          "role": "Superior",
+          "subject_xref": "[MH17|0069]"
+        }
+      ],
+      "outcome": "Key organizer of Buk transport identified",
+      "xref": "[MH17|0702-0728]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Novaya Gazeta investigation with Swedish audio experts confirmed Dubinsky's voice on intercepted calls discussing Buk transport logistics.",
+      "normalized": "Independent media and forensic experts verified Dubinsky's voice coordinating Buk missile launcher convoy operations.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.verify"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Novaya Gazeta",
+          "role": "Affector",
+          "subject_xref": "[MH17|0725]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Sergey Dubinsky",
+          "role": "Subject",
+          "subject_xref": "[MH17|06EB]"
+        }
+      ],
+      "outcome": "Voice identification confirmed by independent experts",
+      "xref": "[MH17|0725-0728]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Russian MoD falsely claimed July 18 Luhansk Buk video was filmed in government-controlled Krasnoarmeysk using fabricated billboard evidence.",
+      "normalized": "Russian Defense Ministry fabricated evidence claiming Buk retreat video was shot in Ukrainian-controlled territory, not separatist Luhansk.",
+      "operative_verb": [
+        "InformationOperation.disinform"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russian Ministry of Defense",
+          "role": "Affector",
+          "subject_xref": "[MH17|0762]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Igor Konashenkov",
+          "role": "Speaker",
+          "subject_xref": "[MH17|07AB]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Krasnoarmeysk",
+          "role": "False Location",
+          "subject_xref": "[MH17|07AE]"
+        }
+      ],
+      "outcome": "False narrative exposed by journalists",
+      "xref": "[MH17|0746-07F9]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Russian MoD presented falsified flight path map claiming MH17 deviated significantly from course before being shot down.",
+      "normalized": "Russian Defense Ministry fabricated flight path data suggesting Ukrainian air traffic controllers deliberately redirected MH17 into danger zone.",
+      "operative_verb": [
+        "InformationOperation.disinform"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russian Ministry of Defense",
+          "role": "Affector",
+          "subject_xref": "[MH17|0762]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Malaysian Airlines Flight 17",
+          "role": "Subject",
+          "subject_xref": "[MH17|0008]"
+        }
+      ],
+      "outcome": "False deviation claim promoted Ukrainian guilt narrative",
+      "xref": "[MH17|0780-0830]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Dutch Safety Board",
+      "full_classification": "Entity > Collective > Agency > Regulator",
+      "alias_list": [
+        "DSB"
+      ],
+      "description": "Investigated MH17 flight path and debunked Russian deviation claims",
+      "xref": "[MH17|083B]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Igor Makushev",
+      "full_classification": "Entity > MaterialEntity > Person > MilitaryOfficer",
+      "alias_list": [
+      ],
+      "description": "Russian Air Force Chief of Staff who presented fabricated radar data",
+      "xref": "[MH17|088F]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "David Gleave",
+      "full_classification": "Entity > MaterialEntity > Person > Scientist",
+      "alias_list": [
+      ],
+      "description": "Former air accident investigator who debunked Russian radar claims",
+      "xref": "[MH17|08BC]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Zaroshchenske",
+      "full_classification": "Entity > Site > PhysicalSite > Rural",
+      "alias_list": [
+      ],
+      "description": "Village where Russia falsely claimed Ukrainian Buks were deployed",
+      "xref": "[MH17|08E7]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "AAAS Geospatial Technologies Project",
+      "full_classification": "Entity > Collective > Organization > ResearchInstitute",
+      "alias_list": [
+      ],
+      "description": "American scientific organization that analyzed Russian satellite images",
+      "xref": "[MH17|0981]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Jeffrey Lewis",
+      "full_classification": "Entity > MaterialEntity > Person > Scientist",
+      "alias_list": [
+      ],
+      "description": "Researcher at Middlebury Institute who analyzed fabricated Russian satellite imagery",
+      "xref": "[MH17|09A0]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "James Martin Center for Nonproliferation Studies",
+      "full_classification": "Entity > Collective > Organization > ResearchInstitute",
+      "alias_list": [
+      ],
+      "description": "Research center that conducted forensic analysis of Russian satellite imagery",
+      "xref": "[MH17|09A2]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Dutch Safety Board report Section 2.1 debunked Russian MoD claims that MH17 significantly deviated from flight path before being shot down.",
+      "normalized": "DSB investigation proved MH17 maintained straight course and did not change path as falsely claimed by Russian Defense Ministry.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.debunk"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Dutch Safety Board",
+          "role": "Affector",
+          "subject_xref": "[MH17|083B]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russian Ministry of Defense",
+          "role": "Source",
+          "subject_xref": "[MH17|0762]"
+        }
+      ],
+      "outcome": "Russian flight path deception exposed",
+      "xref": "[MH17|0831-0848]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Multiple radar experts confirmed Russian MoD fabricated radar data claiming Ukrainian Su-25 fighter jet was near MH17 when it was actually falling debris.",
+      "normalized": "Independent radar experts proved Russian radar data showing Ukrainian fighter was fabricated and actually depicted MH17 wreckage falling.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.prove"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "David Gleave",
+          "role": "Affector",
+          "subject_xref": "[MH17|08BC]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Dutch Safety Board",
+          "role": "Affector",
+          "subject_xref": "[MH17|08CD]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Igor Makushev",
+          "role": "Speaker",
+          "subject_xref": "[MH17|088F]"
+        }
+      ],
+      "outcome": "Russian fighter jet narrative definitively debunked",
+      "xref": "[MH17|0869-08DB]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "AAAS forensic analysis found Russian MoD satellite images had incorrect shadow angles proving they were misdated and fabricated.",
+      "normalized": "American scientific association determined Russian satellite imagery shadows didn't match claimed dates, proving deliberate fabrication.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.determine"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "AAAS Geospatial Technologies Project",
+          "role": "Affector",
+          "subject_xref": "[MH17|0981]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russian Ministry of Defense",
+          "role": "Source",
+          "subject_xref": "[MH17|0762]"
+        }
+      ],
+      "outcome": "Scientific proof of satellite image manipulation",
+      "xref": "[MH17|0980-099B]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Jeffrey Lewis and Middlebury Institute used Tungstène forensic tool to confirm Russian satellite images showed May vegetation patterns, not July.",
+      "normalized": "Middlebury researchers using French defense software proved Russian satellite images actually showed May conditions, proving fabrication.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.confirm"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Jeffrey Lewis",
+          "role": "Affector",
+          "subject_xref": "[MH17|09A0]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "James Martin Center for Nonproliferation Studies",
+          "role": "Instrument",
+          "subject_xref": "[MH17|09A2]"
+        }
+      ],
+      "outcome": "Forensic proof images were months old",
+      "xref": "[MH17|09A0-09AB]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Russian MoD claimed Ukrainian Buks traveled 70km in 24 minutes to Zaroshchenske, requiring impossible 150+ km/h speed through separatist territory.",
+      "normalized": "Russian Defense Ministry fabricated timeline claiming Ukrainian Buks moved to launch site at physically impossible speed through hostile territory.",
+      "operative_verb": [
+        "InformationOperation.disinform"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russian Ministry of Defense",
+          "role": "Affector",
+          "subject_xref": "[MH17|0762]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Zaroshchenske",
+          "role": "False Location",
+          "subject_xref": "[MH17|08E7]"
+        }
+      ],
+      "outcome": "Impossible timeline exposed as fabrication",
+      "xref": "[MH17|093F-0956]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Channel One Russia",
+      "full_classification": "Entity > Collective > Organization > MediaCompany",
+      "alias_list": [
+      ],
+      "description": "Russian state-funded television channel that aired fabricated satellite image",
+      "xref": "[MH17|0A05]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Mikhail Leontiev",
+      "full_classification": "Entity > MaterialEntity > Person > Journalist",
+      "alias_list": [
+      ],
+      "description": "Russian TV host who presented fake satellite image on Channel One",
+      "xref": "[MH17|0A0D]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "TASS",
+      "full_classification": "Entity > Collective > Organization > MediaCompany",
+      "alias_list": [
+      ],
+      "description": "Russian state news agency that spread fabricated satellite image story",
+      "xref": "[MH17|0A12]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Yan Novikov",
+      "full_classification": "Entity > MaterialEntity > Person > BusinessExecutive",
+      "alias_list": [
+      ],
+      "description": "Head of Almaz-Antey who made false claims about missile types",
+      "xref": "[MH17|0A7C]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Kamensk-Shakhtinsky",
+      "full_classification": "Entity > Site > PhysicalSite > Urban",
+      "alias_list": [
+      ],
+      "description": "Russian town near Ukraine border where 9M38M1 missiles were photographed",
+      "xref": "[MH17|0A89]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "9M38M1 missile",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Ammunition > Missile",
+      "alias_list": [
+      ],
+      "description": "Older Buk missile type that Russia claimed was no longer in service",
+      "xref": "[MH17|0A5E]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "9M317 missile",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Ammunition > Missile",
+      "alias_list": [
+      ],
+      "description": "Newer Buk missile type that Almaz-Antey claimed was used",
+      "xref": "[MH17|0A71]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Novaya Gazeta",
+      "full_classification": "Entity > Collective > Organization > MediaCompany",
+      "alias_list": [
+      ],
+      "description": "Russian newspaper that investigated Zaroshchenske claims",
+      "xref": "[MH17|0ADA]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Correct!v",
+      "full_classification": "Entity > Collective > Organization > MediaCompany",
+      "alias_list": [
+      ],
+      "description": "German investigative group that interviewed Zaroshchenske witnesses",
+      "xref": "[MH17|0ADC]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Process",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Middlebury Institute forensic analysis confirmed Russian satellite images were heavily manipulated with digitally added Buk missile launchers.",
+      "normalized": "Jeffrey Lewis team proved Russian MoD satellite images showed digitally inserted Buk launchers using forensic software analysis.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.prove"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Jeffrey Lewis",
+          "role": "Affector",
+          "subject_xref": "[MH17|09A0]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Russian Ministry of Defense",
+          "role": "Source",
+          "subject_xref": "[MH17|0762]"
+        }
+      ],
+      "outcome": "Scientific proof of digital image manipulation",
+      "xref": "[MH17|09AC-09E5]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Channel One Russia aired fabricated satellite image showing fighter jet shooting down MH17, later proven to be from online message board.",
+      "normalized": "Russian state television presented fake satellite image of fighter attacking MH17 that originated from internet forum post.",
+      "operative_verb": [
+        "InformationOperation.disinform"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Channel One Russia",
+          "role": "Affector",
+          "subject_xref": "[MH17|0A05]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Mikhail Leontiev",
+          "role": "Speaker",
+          "subject_xref": "[MH17|0A0D]"
+        }
+      ],
+      "outcome": "Blatant fabrication exposed as internet hoax",
+      "xref": "[MH17|0A13-0A34]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Almaz-Antey falsely claimed 9M38M1 missiles were discontinued in 1999 while Reuters photos showed them in Russian service August 2014 near Ukraine border.",
+      "normalized": "Russian arms manufacturer lied about discontinuing 9M38M1 missiles while photographic evidence proved they remained in active Russian military service.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.prove"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Almaz-Antey",
+          "role": "Source",
+          "subject_xref": "[MH17|0A42]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Yan Novikov",
+          "role": "Speaker",
+          "subject_xref": "[MH17|0A7C]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "9M38M1 missile",
+          "role": "Subject",
+          "subject_xref": "[MH17|0A5E]"
+        }
+      ],
+      "outcome": "Russian missile claims contradicted by photographic evidence",
+      "xref": "[MH17|0A51-0A9F]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Multiple international media organizations including BBC, NOS, and Correct!v found zero witnesses in Zaroshchenske who saw or heard missile launch.",
+      "normalized": "International journalists interviewed Zaroshchenske residents and found complete absence of witness testimony supporting Russian launch site claims.",
+      "operative_verb": [
+        "Perception.GeneralSensing.confirm"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "BBC",
+          "role": "Affector",
+          "subject_xref": "[MH17|0ADA]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Novaya Gazeta",
+          "role": "Affector",
+          "subject_xref": "[MH17|0ADA]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Zaroshchenske",
+          "role": "Location",
+          "subject_xref": "[MH17|08E7]"
+        }
+      ],
+      "outcome": "Complete absence of witness testimony for alleged launch site",
+      "xref": "[MH17|0AD8-0AE2]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "JIT intercepted call captured separatists confirming Zaroshchenske was not under Ukrainian control and no missile launch occurred there.",
+      "normalized": "Dutch investigators recorded separatist fighters admitting Zaroshchenske was pro-Russian territory with no missile activity on July 17.",
+      "operative_verb": [
+        "IntelligenceOps.Collection.record"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Joint Investigation Team",
+          "role": "Affector",
+          "subject_xref": "[MH17|0122]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Zaroshchenske",
+          "role": "Location",
+          "subject_xref": "[MH17|08E7]"
+        }
+      ],
+      "outcome": "Separatist control of alleged launch site confirmed",
+      "xref": "[MH17|0B08-0B1F]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Ukrainian Buk 312",
+      "full_classification": "Entity > MaterialEntity > PhysicalAsset > Weapon > MissileSystem",
+      "alias_list": [
+      ],
+      "description": "Ukrainian missile launcher falsely accused of downing MH17",
+      "xref": "[MH17|0C01]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Yasinovatsky post",
+      "full_classification": "Entity > Site > PhysicalSite > Checkpoint",
+      "alias_list": [
+      ],
+      "description": "Location where Ukrainian Buk 312 was filmed on March 19, 2014",
+      "xref": "[MH17|0C09]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Kramatorsk airfield",
+      "full_classification": "Entity > Site > PhysicalSite > FacilitySite",
+      "alias_list": [
+      ],
+      "description": "Destination where Ukrainian Buk 312 was transported in March 2014",
+      "xref": "[MH17|0C14]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Dovhenke",
+      "full_classification": "Entity > Site > PhysicalSite > Rural",
+      "alias_list": [
+      ],
+      "description": "Location 130km northwest of MH17 crash site where Ukrainian Buks were filmed",
+      "xref": "[MH17|0C37]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "Myrhorod military base",
+      "full_classification": "Entity > Site > PhysicalSite > Base",
+      "alias_list": [
+      ],
+      "description": "Poltava Oblast base where Ukrainian Buks were photographed in July 2014",
+      "xref": "[MH17|0C62]"
+    }
+  },
+  {
+    "entity": {
+      "primary_reference": "223rd Anti-Aircraft Regiment",
+      "full_classification": "Entity > Collective > MilitaryUnit",
+      "alias_list": [
+      ],
+      "description": "Ukrainian unit whose Buk movements were documented on video",
+      "xref": "[MH17|0C6F]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "SBU mistakenly showed Ukrainian Buk 312 from March 2014 evacuation, leading to false accusations it was involved in MH17 downing.",
+      "normalized": "Ukrainian intelligence agency error in presenting outdated Buk 312 footage created false narrative about Ukrainian involvement.",
+      "operative_verb": [
+        "CollaborationAndOrganization.Organization.create"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Ukrainian Security Service",
+          "role": "Affector",
+          "subject_xref": "[MH17|020C]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Ukrainian Buk 312",
+          "role": "Subject",
+          "subject_xref": "[MH17|0C01]"
+        }
+      ],
+      "outcome": "Misidentification fueled conspiracy theories",
+      "xref": "[MH17|0BF2-0C1C]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "fact",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Ukrainian Military TV footage from Dovhenke base 130km from crash site was misrepresented as evidence of Ukrainian Buk near MH17.",
+      "normalized": "Ukrainian military television segment filmed far from crash site was falsely used to claim Ukrainian Buks were in launch position.",
+      "operative_verb": [
+        "InformationOperation.misrepresent"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Dovhenke",
+          "role": "Location",
+          "subject_xref": "[MH17|0C37]"
+        }
+      ],
+      "outcome": "Geolocation proved footage was irrelevant to MH17",
+      "xref": "[MH17|0C25-0C4B]"
+    }
+  },
+  {
+    "actuality": {
+      "normative_type": "conclusion",
+      "type": {
+        "Dynamics": "Event",
+        "Outcome": "Success",
+        "Impact": "Substantive"
+      },
+      "verbatim": "Open source evidence conclusively proves Russian 53rd Brigade's Buk 332 transported from Russia, launched missile from Snizhne field, killing 298 people, then retreated to Russia.",
+      "normalized": "Comprehensive open source investigation establishes Russian military responsibility for MH17 downing beyond reasonable doubt.",
+      "operative_verb": [
+        "CognitionAndDecision.Inference.establish"
+      ],
+      "participants": [
+        {
+          "subject_type": "entity",
+          "subject_reference": "Buk 332",
+          "role": "Instrument",
+          "subject_xref": "[MH17|012B]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "53rd Anti-Aircraft Missile Brigade",
+          "role": "Affector",
+          "subject_xref": "[MH17|0588]"
+        },
+        {
+          "subject_type": "entity",
+          "subject_reference": "Malaysian Airlines Flight 17",
+          "role": "Affectee",
+          "subject_xref": "[MH17|0008]"
+        }
+      ],
+      "outcome": "Russian military culpability definitively proven",
+      "xref": "[MH17|0CBD-0D0B]"
+    }
+  }
+]

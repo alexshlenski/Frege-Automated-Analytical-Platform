@@ -1,1 +1,4033 @@
+[MH17|0001]MH17  
+[MH17|0002]The Open Source InvestigationThree Years
+[MH17|0003]Later  
+[MH17|0004]1  
+[MH17|0005]Introduction  
+[MH17|0006]At 4:20pm local
+[MH17|0007]time on July 17, 2014,
+[MH17|0008]Malaysian Airlines Flight 17 (MH17)
+[MH17|0009]was shot from 
+[MH17|000A]the sky over eastern Ukraine,
+[MH17|000B]killing all 298 passengers
+[MH17|000C]and crew members.
+
+
+[MH17|000D]Within hours, 
+[MH17|000E]the world became aware
+[MH17|000F]of the general circumstances that
+[MH17|0010]led to the tragedy:
+[MH17|0011]a Buk antiaircraft 
+[MH17|0012]missile was launched from
+[MH17|0013]separatist-controlled territory, likely
+[MH17|0014]hoping to hit
+[MH17|0015]a  Ukrainian aircraft
+[MH17|0016]rather than a passenger jet.
+
+
+[MH17|0017]Three years later, we know
+[MH17|0018]that these facts 
+[MH17|0019]still hold up. 
+[MH17|001A]Over the past three years,
+[MH17|001B]thanks to a wealth
+[MH17|001C]of openly accessible
+[MH17|001D]and verifiable information, 
+[MH17|001E]we have been able to
+[MH17|001F]determine precisely how that Buk
+[MH17|0020]missile launcher reached
+[MH17|0021]a field in 
+[MH17|0022]eastern Ukraine.
+
+
+[MH17|0023]We know who
+[MH17|0024]organized the transport
+[MH17|0025]of the weapon in Ukraine,
+[MH17|0026]where the  missile
+[MH17|0027]launcher came from
+[MH17|0028]before it arrived in Ukraine,
+[MH17|0029]and even the small dents
+[MH17|002A]and remaining  traces
+[MH17|002B]of painted marks on
+[MH17|002C]the Buk that reveal its
+[MH17|002D]identity, going back to 2010.
+
+
+[MH17|002E]The case of MH17 is
+[MH17|002F]a convoluted one,
+[MH17|0030]drawing the focus
+[MH17|0031]of international criminal investigations, 
+[MH17|0032]state-sponsored disinformation campaigns,
+[MH17|0033]and amateur sleuths alike.
+
+
+[MH17|0034]This report will 
+[MH17|0035]serve as a survey
+[MH17|0036]of the information
+[MH17|0037]related to the
+[MH17|0038]downing of MH17 that is
+[MH17|0039]freely available 
+[MH17|003A]for anyone with an internet
+[MH17|003B]connection to access, analyze,
+[MH17|003C]and verify -in other words,
+[MH17|003D]open  source information.
+
+
+[MH17|003E]This information can be found
+[MH17|003F]anywhere from a television broadcast,
+[MH17|0040]to  satellite imagery,
+[MH17|0041]to the social media accounts
+[MH17|0042]of a Russian
+[MH17|0043]or Ukrainian serviceman.
+
+
+[MH17|0044]With  an event
+[MH17|0045]as controversial and important
+[MH17|0046]as the downing
+[MH17|0047]of MH17, it is vital
+[MH17|0048]that, to the greatest 
+[MH17|0049]extent possible, information
+[MH17|004A]related to the case is
+[MH17|004B]accessible and verifiable
+[MH17|004C]for the public.
+
+
+[MH17|004D]At the end
+[MH17|004E]of this report, we
+[MH17|004F]will also provide
+[MH17|0050]a survey of
+[MH17|0051]the counter-narratives to
+[MH17|0052]the established  account
+[MH17|0053]of the downing
+[MH17|0054]of MH17.
+
+
+[MH17|0055]Some of these counter-narratives were
+[MH17|0056]created and 
+[MH17|0057]promoted by the Russian Federation,
+[MH17|0058]while others are almost exclusively
+[MH17|0059]found online.
+
+
+[MH17|005A]2  
+[MH17|005B]Situation in July 2014 
+[MH17|005C]Downed Ukrainian AN-26 transport plane
+[MH17|005D](AFP Photo/Dominique Faget) 
+[MH17|005E]After a week-long ceasefire,
+[MH17|005F]the course of
+[MH17|0060]the war in eastern Ukraine
+[MH17|0061]turned on July 1, 2014
+[MH17|0062]with a renewed offensive from
+[MH17|0063]Ukrainian Forces.
+
+
+[MH17|0064]Most notably, Ukraine retook
+[MH17|0065]the city of 
+[MH17|0066]Sloviansk on July 5,
+[MH17|0067]which had been
+[MH17|0068]seized by the separatist commander
+[MH17|0069]Igor “Strelkov”  Girkin.
+
+
+[MH17|006A]The recently-formed forces
+[MH17|006B]of the self-proclaimed Donetsk People’s
+[MH17|006C]Republic (DNR) 
+[MH17|006D]retreated to Donetsk
+[MH17|006E]after fleeing Sloviansk, Kramatorsk,
+[MH17|006F]and other cities in
+[MH17|0070]the northern  part
+[MH17|0071]of the Donetsk Oblast.
+
+
+[MH17|0072]In anticipation of
+[MH17|0073]a Ukrainian offensive into
+[MH17|0074]the separatist  stronghold,
+[MH17|0075]the Russian-led separatist forces
+[MH17|0076]destroyed numerous bridges
+[MH17|0077]and blocked a series 
+[MH17|0078]of strategic roads
+[MH17|0079]leading into and near Donetsk.
+
+
+[MH17|007A]Overview of 133 
+[MH17|007B]firing positions and 
+[MH17|007C]136 target sites, 
+[MH17|007D]showing the full 
+[MH17|007E]range of artillery 
+[MH17|007F]attacks conducted 
+[MH17|0080]by the Russian 
+[MH17|0081]Armed Forces  against
+[MH17|0082]Ukrainian  positions in
+[MH17|0083]the  summer
+[MH17|0084]of 2014.
+
+
+[MH17|0085]Just days before
+[MH17|0086]the downing of MH17, soldiers
+[MH17|0087]of the Russian 
+[MH17|0088]Federation launched devastating artillery attacks
+[MH17|0089]against  Ukrainian army
+[MH17|008A]positions near Amvrosiivka, Ukraine.
+
+
+[MH17|008B]These attacks, 
+[MH17|008C]which can be
+[MH17|008D]observed in at least 330
+[MH17|008E]craters visible on 
+[MH17|008F]Google Earth imagery from July
+[MH17|0090]16, 2014, were
+[MH17|0091]launched from  multiple
+[MH17|0092]positions, including one inside Russia
+[MH17|0093]near the village 
+[MH17|0094]of Seleznev, approximately 750 meters
+[MH17|0095]from the Russia-Ukraine 
+[MH17|0096]border.
+
+
+[MH17|0097]On July 16, numerous videos
+[MH17|0098]surfaced of 122mm BM-21 Grad
+[MH17|0099]systems launching artillery attacks westward,
+[MH17|009A]towards Ukraine,  near
+[MH17|009B]the Russian city
+[MH17|009C]of Gukovo.
+
+
+[MH17|009D]For the first time,
+[MH17|009E]the Russian military was
+[MH17|009F]launching documentable,  direct
+[MH17|00A0]artillery attacks from their own
+[MH17|00A1]territory, with their 
+[MH17|00A2]own equipment, and
+[MH17|00A3]with their own soldiers, against
+[MH17|00A4]the Ukrainian  military.
+
+
+[MH17|00A5]With the gains
+[MH17|00A6]of the Ukrainian ground forces
+[MH17|00A7]and counter-attack of Russian artillery
+[MH17|00A8]systems,  Russia
+[MH17|00A9]and the separatist forces
+[MH17|00AA]of the DNR
+[MH17|00AB]also felt the need to
+[MH17|00AC]counter Ukrainian air 
+[MH17|00AD]offensives in separatist-held territory.
+
+
+[MH17|00AE]Ukrainian jets were
+[MH17|00AF]operating heavily in
+[MH17|00B0]the area of 
+[MH17|00B1]Donetsk, including on July 15
+[MH17|00B2]when a Ukrainian jet struck
+[MH17|00B3]a residential building in Snizhne,
+[MH17|00B4]killing eleven civilians
+[MH17|00B5]and injuring another eight.
+
+
+[MH17|00B6]The Ukrainian military
+[MH17|00B7]carried out numerous 
+[MH17|00B8]other attacks in
+[MH17|00B9]the week before
+[MH17|00BA]the downing of MH17 in
+[MH17|00BB]both the Donetsk
+[MH17|00BC]and Luhansk  Oblasts,
+[MH17|00BD]but separatists also
+[MH17|00BE]made numerous successful attacks against
+[MH17|00BF]military jets 
+[MH17|00C0]and transport planes.
+
+
+[MH17|00C1]On July 14,
+[MH17|00C2]a Ukrainian AN-26 transport plane
+[MH17|00C3]was shot down near
+[MH17|00C4]the Russia-Ukraine  border.
+
+
+[MH17|00C5]Two days later,
+[MH17|00C6]a Ukrainian Su-25 ground attack
+[MH17|00C7]jet was shot down south
+[MH17|00C8]of Snizhne, 
+[MH17|00C9]and another was damaged.
+
+
+[MH17|00CA]Video footage from
+[MH17|00CB]the same day just
+[MH17|00CC]a few kilometers 
+[MH17|00CD]from the eventual launch site
+[MH17|00CE]for the missile that
+[MH17|00CF]downed MH17 shows separatist leaders
+[MH17|00D0]Aleksandr Borodai and Igor Girkin
+[MH17|00D1]near a Strela-10 anti-aircraft missile
+[MH17|00D2]system.
+
+
+[MH17|00D3]The aftermath of
+[MH17|00D4]a Ukrainian air strike that
+[MH17|00D5]hit an apartment 
+[MH17|00D6]building, leading to
+[MH17|00D7]the deaths of eleven civilians
+[MH17|00D8]Clearly, a concerted effort was
+[MH17|00D9]being made to control
+[MH17|00DA]the skies in
+[MH17|00DB]the Donetsk Oblast,
+[MH17|00DC]with 
+[MH17|00DD]the presence and likely use
+[MH17|00DE]of a Strela-10 system
+[MH17|00DF]and MANPADS.
+
+
+[MH17|00E0]With the escalation
+[MH17|00E1]of Russian  involvement
+[MH17|00E2]with artillery strikes from Russian
+[MH17|00E3]soil and the
+[MH17|00E4]prioritized effort to neutralize 
+[MH17|00E5]Ukrainian air power, Russia’s decision
+[MH17|00E6]to provide a powerful Buk-M1
+[MH17|00E7]anti-aircraft missile  system
+[MH17|00E8]fits into the general course
+[MH17|00E9]of events.
+
+
+[MH17|00EA]Furthermore, the Russian Federation
+[MH17|00EB]later 
+[MH17|00EC]provided additional anti-aircraft missile systems,
+[MH17|00ED]including a Pantsir-S1 (which
+[MH17|00EE]has never  been
+[MH17|00EF]used in the Ukrainian
+[MH17|00F0]Armed Forces), thus
+[MH17|00F1]showing its tendency towards
+[MH17|00F2]providing  powerful weaponry
+[MH17|00F3]requiring significant training to
+[MH17|00F4]Russian-led separatists.
+
+
+[MH17|00F5]Pantsir-1 anti-aircraft missile system in
+[MH17|00F6]Makiivka, just east
+[MH17|00F7]of Donetsk, 
+[MH17|00F8]after being sent from Russia.
+
+
+[MH17|00F9]Photograph taken in January 2015
+[MH17|00FA]For additional information on
+[MH17|00FB]the military situation in
+[MH17|00FC]the Donetsk Oblast at
+[MH17|00FD]the time of
+[MH17|00FE]the 
+[MH17|00FF]downing of MH17, see
+[MH17|0100]the following investigations
+[MH17|0101]and news articles: 
+[MH17|0102]• Bellingcat: Putin’s
+[MH17|0103]Undeclared War: Summer 2014 -Russian
+[MH17|0104]Artillery Strikes Against 
+[MH17|0105]Ukraine  • BBC:
+[MH17|0106]Jets bomb rebel-held town
+[MH17|0107]of Snizhne  •
+[MH17|0108]DFRLab: MH17 as
+[MH17|0109]a Result of
+[MH17|010A]a Pattern of Escalation 
+[MH17|010B]• BBC: Rebels abandon Sloviansk
+[MH17|010C]stronghold  • BBC:
+[MH17|010D]Bridges destroyed outside Donetsk 
+[MH17|010E]3  
+[MH17|010F]July 17, 2014 
+[MH17|0110]The flight path
+[MH17|0111]of Malaysian Airlines Flight 17
+[MH17|0112]on July 17, 2014 
+[MH17|0113]For six hours
+[MH17|0114]before the downing
+[MH17|0115]of MH17, Ukrainians
+[MH17|0116]went online to discuss
+[MH17|0117]a Buk missile 
+[MH17|0118]launcher slowly creeping through eastern
+[MH17|0119]Ukraine.
+
+
+[MH17|011A]Just after Malaysian Airlines Flight
+[MH17|011B]17  left Amsterdam,
+[MH17|011C]this weapon was
+[MH17|011D]filmed heading south out
+[MH17|011E]of the Ukrainian, separatist- 
+[MH17|011F]controlled town of Snizhne.
+
+
+[MH17|0120]It would eventually reach
+[MH17|0121]the location where
+[MH17|0122]the Joint Investigation 
+[MH17|0123]Team (JIT) determined
+[MH17|0124]a missile launch
+[MH17|0125]occurred on July 17, 2014.
+
+
+[MH17|0126]In this chapter, we
+[MH17|0127]will present these public discussions
+[MH17|0128]of the transport
+[MH17|0129]of a missile 
+[MH17|012A]launcher that came from Russia,
+[MH17|012B]determined to be Buk 332
+[MH17|012C](see Chapter 7
+[MH17|012D]for more details).
+
+
+[MH17|012E]This Buk missile launcher was
+[MH17|012F]hauled on a red trailer
+[MH17|0130]attached to a Volvo truck
+[MH17|0131]that had previously 
+[MH17|0132]been stolen from
+[MH17|0133]a vehicle yard in Donetsk.
+
+
+[MH17|0134]Along with the chatter on
+[MH17|0135]social networks  about
+[MH17|0136]this Buk being seen, there
+[MH17|0137]are also a handful
+[MH17|0138]of photographs of
+[MH17|0139]the Volvo truck, 
+[MH17|013A]red trailer, and Buk missile
+[MH17|013B]launcher taken on
+[MH17|013C]the day of
+[MH17|013D]the downing.
+
+
+[MH17|013E]Over the past three 
+[MH17|013F]years, Bellingcat has exhaustively
+[MH17|0140]analyzed these materials
+[MH17|0141]and confirmed their veracity.
+
+
+[MH17|0142]The first mentions on July
+[MH17|0143]17 of an anti-aircraft missile
+[MH17|0144]system  Portion
+[MH17|0145]of the route in
+[MH17|0146]the Donbas came from at
+[MH17|0147]around 9-10:00am (local time), 
+[MH17|0148]of Buk 332 through
+[MH17|0149]where multiple users
+[MH17|014A]described how a missile launcher
+[MH17|014B]was in  
+[MH17|014C]eastern Ukraine on 
+[MH17|014D]eastern Donetsk.
+
+
+[MH17|014E]A Twitter user
+[MH17|014F]living in Donetsk
+[MH17|0150]tweeted out a 
+[MH17|0151]July 17, 2014, from 
+[MH17|0152]report he received at 10:11am
+[MH17|0153]local time describing an anti-
+[MH17|0154]Donetsk to  
+[MH17|0155]aircraft missile system that
+[MH17|0156]looked like a Strela-10 was
+[MH17|0157]near Pro-  
+[MH17|0158]Snizhne.
+
+
+[MH17|0159]spekt Ilycha about 30 minutes
+[MH17|015A]before.
+
+
+[MH17|015B]Soon after, the public 
+[MH17|015C]group “Donetsk is Ukraine!” on
+[MH17|015D]the Russian-language social net 
+[MH17|015E]work Vkontakte (VK)
+[MH17|015F]shared a message that
+[MH17|0160]provided additional details from
+[MH17|0161]the vague re 
+[MH17|0162]ports that were
+[MH17|0163]previously tweeted out.
+
+
+[MH17|0164]“Bad news.
+
+
+[MH17|0165]Around 9am, a hauler was
+[MH17|0166]going along the Makiivka highway
+[MH17|0167]from Makiivka  in
+[MH17|0168]the direction of Donetsk.
+
+
+[MH17|0169]On the platform was
+[MH17|016A]a BukM1-M2? This AAMS
+[MH17|016B]proceeded to 
+[MH17|016C]the intersection with Shakhtostroiteley Boulevard.
+
+
+[MH17|016D]The system was
+[MH17|016E]accompanied by a convoy 
+[MH17|016F]that was composed
+[MH17|0170]of 1 grey Rav4 SUV,
+[MH17|0171]a camouflaged UAZ,
+[MH17|0172]and a dark blue Hyundai
+[MH17|0173]van with tinted windows.
+
+
+[MH17|0174]As of 9:15am,
+[MH17|0175]the vehicle was
+[MH17|0176]located at the intersection
+[MH17|0177]of  Shakhtostroiteley
+[MH17|0178]and Ilycha.
+
+
+[MH17|0179]The militants got out
+[MH17|017A]of their cars,
+[MH17|017B]blocking 2 of
+[MH17|017C]the far left 
+[MH17|017D]lanes.
+
+
+[MH17|017E]Obviously, they were
+[MH17|017F]waiting for logistical guidance.” 
+[MH17|0180]This Buk and
+[MH17|0181]the convoy described in
+[MH17|0182]the post were
+[MH17|0183]filmed by a driver
+[MH17|0184]passing the scene.
+
+
+[MH17|0185]The Dutch-led Joint Investigation Team
+[MH17|0186](JIT) presented this video in
+[MH17|0187]their press conference 
+[MH17|0188]held on September 28, 2016.
+
+
+[MH17|0189]While it took
+[MH17|018A]over two years
+[MH17|018B]for this video to emerge,
+[MH17|018C]the  French publication
+[MH17|018D]Paris Match published two screenshots
+[MH17|018E]from the video shortly
+[MH17|018F]after the 
+[MH17|0190]downing of MH17,
+[MH17|0191]showing Buk 332,
+[MH17|0192]the Volvo truck, red trailer,
+[MH17|0193]and the grey Toyota Rav4
+[MH17|0194]SUV.
+
+
+[MH17|0195]In the video,
+[MH17|0196]the UAZ jeep
+[MH17|0197]and blue Volkswagen van (not
+[MH17|0198]a Hyundai) are
+[MH17|0199]also visible.
+
+
+[MH17|019A]The Paris Match photograph
+[MH17|019B]published in July 2014 
+[MH17|019C]Screenshot of the video from
+[MH17|019D]which the Paris Match photograph
+[MH17|019E]was taken.
+
+
+[MH17|019F]Video shared by JIT in
+[MH17|01A0]2016  
+[MH17|01A1]On May 3, 2016,
+[MH17|01A2]a video was
+[MH17|01A3]uploaded onto YouTube
+[MH17|01A4]showing Buk 332
+[MH17|01A5]being hauled  through
+[MH17|01A6]Makiivka by the same Volvo
+[MH17|01A7]truck and on
+[MH17|01A8]the same red trailer
+[MH17|01A9]with a yellow placard 
+[MH17|01AA]showing a phone number.
+
+
+[MH17|01AB]Just as in
+[MH17|01AC]the video filmed in Donetsk,
+[MH17|01AD]Buk 332 has four
+[MH17|01AE]mounted  missiles
+[MH17|01AF]covered with netting.
+
+
+[MH17|01B0]Additionally, the same vehicles that
+[MH17|01B1]were filmed with
+[MH17|01B2]the Buk  in
+[MH17|01B3]Donetsk -a Toyota RAV4,
+[MH17|01B4]a dark-blue Volkswagen van
+[MH17|01B5]with a blue siren,
+[MH17|01B6]and a UAZ-469 
+[MH17|01B7]jeep -are escorting
+[MH17|01B8]the missile launcher through Makiivka
+[MH17|01B9]in this video.
+
+
+[MH17|01BA]The location of this video
+[MH17|01BB]provides additional clues
+[MH17|01BC]regarding the route
+[MH17|01BD]of the Buk on July
+[MH17|01BE]17, showing that
+[MH17|01BF]the convoy took
+[MH17|01C0]a detour through Makiivka
+[MH17|01C1]before reaching the H21 highway
+[MH17|01C2]again.
+
+
+[MH17|01C3]This detour was likely taken
+[MH17|01C4]to avoid a
+[MH17|01C5]low-hanging bridge along
+[MH17|01C6]the highway, 
+[MH17|01C7]which may have
+[MH17|01C8]not been high enough
+[MH17|01C9]for the vehicle
+[MH17|01CA]hauling a Buk
+[MH17|01CB]with mounted missiles.
+
+
+[MH17|01CC]Buk 332, with four
+[MH17|01CD]mounted missiles, being
+[MH17|01CE]transported eastward through 
+[MH17|01CF]the separatist-controlled city
+[MH17|01D0]of Makiivka on July 17,
+[MH17|01D1]2014  
+[MH17|01D2]The private intelligence firm Stratfor
+[MH17|01D3]published a segment
+[MH17|01D4]of a satellite image they
+[MH17|01D5]purchased 
+[MH17|01D6]soon after the Makiivka video
+[MH17|01D7]was published.
+
+
+[MH17|01D8]On this satellite image, we
+[MH17|01D9]can see the 
+[MH17|01DA]Buk convoy.
+
+
+[MH17|01DB]Soon after Stratfor
+[MH17|01DC]published this finding, Google Earth
+[MH17|01DD]updated its coverage
+[MH17|01DE]of  eastern Ukraine
+[MH17|01DF]to include this image,
+[MH17|01E0]snapped by the satellite company
+[MH17|01E1]Digital Globe, shot 
+[MH17|01E2]at 11:08am local
+[MH17|01E3]time on July 17, 2014,
+[MH17|01E4]just moments after
+[MH17|01E5]the convoy video was filmed.
+
+
+[MH17|01E6]In 
+[MH17|01E7]the image, which
+[MH17|01E8]can be accessed via Google
+[MH17|01E9]Earth at coordinates 48.020725, 37.991579,
+[MH17|01EA]we 
+[MH17|01EB]can see the Volvo truck
+[MH17|01EC]hauling a Buk,
+[MH17|01ED]the UAZ-469 jeep, VW van,
+[MH17|01EE]and RAV4.
+
+
+[MH17|01EF]Satellite image from 11:08am, July
+[MH17|01F0]17, 2014, showing
+[MH17|01F1]the Buk convoy 
+[MH17|01F2]traveling through separatist-controlled Makiivka 
+[MH17|01F3]The next confirmed
+[MH17|01F4]sighting of the Buk was
+[MH17|01F5]in the town
+[MH17|01F6]of Zuhres, located approximately 25
+[MH17|01F7]kilometers east of
+[MH17|01F8]the location in Makiivka
+[MH17|01F9]where the missile launcher was
+[MH17|01FA]previously seen.
+
+
+[MH17|01FB]The Buk was
+[MH17|01FC]filmed traveling east on
+[MH17|01FD]the H21 highway,
+[MH17|01FE]which runs from Donetsk, through
+[MH17|01FF]Makiivka, Khartsyz’k, and
+[MH17|0200]eventually to Torez
+[MH17|0201]and Snizhne.
+
+
+[MH17|0202]On July 17, Twitter user
+[MH17|0203]created 
+[MH17|0204]a YouTube account,
+[MH17|0205]uploaded a video
+[MH17|0206]with the title “IMG 0647,”
+[MH17|0207]and tweeted out
+[MH17|0208]a link of 
+[MH17|0209]the video with coordinates
+[MH17|020A]and an exact time.
+
+
+[MH17|020B]Photographs published by
+[MH17|020C]the Ukrainian Security Service 
+[MH17|020D]showing military vehicles outside
+[MH17|020E]of Zuhres  
+[MH17|020F]This Zuhres video
+[MH17|0210]can be geolocated
+[MH17|0211]by matching the landmarks seen
+[MH17|0212]in the video,
+[MH17|0213]confirming 
+[MH17|0214]the coordinates given in
+[MH17|0215]the tweet.
+
+
+[MH17|0216]Furthermore, numerous journalists,
+[MH17|0217]including teams  from
+[MH17|0218]ARD, Correct!v, and 60 Minutes
+[MH17|0219]Australia, have visited
+[MH17|021A]the site and
+[MH17|021B]confirmed the location 
+[MH17|021C]provided by a Twitter user.
+
+
+[MH17|021D]The Ukrainian Security Service (SBU)
+[MH17|021E]published a composite 
+[MH17|021F]photograph (above) showing
+[MH17|0220]the same shot
+[MH17|0221]of the Buk,
+[MH17|0222]but additional footage
+[MH17|0223]of a tank 
+[MH17|0224]and Ural truck full
+[MH17|0225]of militants that was taken
+[MH17|0226]at a different time.
+
+
+[MH17|0227]This same modified Ural 
+[MH17|0228]truck was filmed near Torez
+[MH17|0229]on July 17, 2014
+[MH17|022A]by a local resident,
+[MH17|022B]as seen below.
+
+
+[MH17|022C]Comparison of an 
+[MH17|022D]Ural truck on July 
+[MH17|022E]17 near Zuhres (left) 
+[MH17|022F]and Torez (right) 
+[MH17|0230]After the sightings in Donetsk,
+[MH17|0231]Makiivka, and Zuhres,
+[MH17|0232]the next string
+[MH17|0233]of witness accounts 
+[MH17|0234]would take place around noon
+[MH17|0235]in the town
+[MH17|0236]of Torez, located due east
+[MH17|0237]along the H21 highway 
+[MH17|0238]from the previous locations.
+
+
+[MH17|0239]At 12:07pm, Twitter user @WowihaY,
+[MH17|023A]a native of Torez,
+[MH17|023B]passed  on
+[MH17|023C]a message he
+[MH17|023D]had received from
+[MH17|023E]a local contact: 
+[MH17|023F]“A surface-to-air missile launcher just
+[MH17|0240]passed us in
+[MH17|0241]the direction of
+[MH17|0242]the city center.
+
+
+[MH17|0243]4 rockets,  people
+[MH17|0244]are saying it’s
+[MH17|0245]a Buk.
+
+
+[MH17|0246]In Torez, in
+[MH17|0247]the direction of Snizhne.” 
+[MH17|0248]About twenty minutes later, another
+[MH17|0249]tweet relayed a local report:
+[MH17|024A]“They are transporting
+[MH17|024B]a missile complex on
+[MH17|024C]a low-loader with two cars
+[MH17|024D]providing escort  through
+[MH17|024E]Torez towards Snizhne, at 12:10pm.”
+[MH17|024F]This scene being
+[MH17|0250]described by locals was shown
+[MH17|0251]in a photograph taken in
+[MH17|0252]the center of Torez 
+[MH17|0253]showing the Volvo truck
+[MH17|0254]hauling the Buk, along
+[MH17|0255]with the familiar UAZ-469 jeep
+[MH17|0256]behind.
+
+
+[MH17|0257]The Buk in Torez on
+[MH17|0258]July 17, 2014 
+[MH17|0259]There are additional witness reports
+[MH17|025A]and one other video that
+[MH17|025B]further corroborates the
+[MH17|025C]aforementioned  tweets
+[MH17|025D]and photograph.
+
+
+[MH17|025E]Journalists from the Guardian
+[MH17|025F]and Buzzfeed visited
+[MH17|0260]the  location
+[MH17|0261]where the photograph was taken,
+[MH17|0262]outside of a hardware store
+[MH17|0263]at coordinates  48.024446,
+[MH17|0264]38.615177.
+
+
+[MH17|0265]There, witnesses told journalists that
+[MH17|0266]they heard and saw
+[MH17|0267]the Buk 
+[MH17|0268]passing by on
+[MH17|0269]the same street
+[MH17|026A]where it was photographed.
+
+
+[MH17|026B]"We were inside
+[MH17|026C]and heard a noise much
+[MH17|026D]louder than usual,"
+[MH17|026E]said one shopkeeper,
+[MH17|026F]who did 
+[MH17|0270]not want to be identified.
+
+
+[MH17|0271]"We came running out
+[MH17|0272]and saw a jeep
+[MH17|0273]disappearing into the distance 
+[MH17|0274]with something much larger in
+[MH17|0275]front of it. Later, customers
+[MH17|0276]said it had been
+[MH17|0277]a missile  carrier."
+
+
+[MH17|0278]In another shop further down
+[MH17|0279]the street, there was talk
+[MH17|027A]of a convoy
+[MH17|027B]of two  jeeps
+[MH17|027C]and a missile launcher
+[MH17|027D]covered in a net
+[MH17|027E]driving past in
+[MH17|027F]the direction of
+[MH17|0280]the town of 
+[MH17|0281]Snizhne.
+
+
+[MH17|0282]"I've never seen
+[MH17|0283]anything like it,"
+[MH17|0284]said a middle-aged woman.
+
+
+[MH17|0285]She said her husband 
+[MH17|0286]showed her a photograph
+[MH17|0287]of a Buk launcher afterwards
+[MH17|0288]and she realised that was
+[MH17|0289]indeed 
+[MH17|028A]what she had seen.
+
+
+[MH17|028B]A group of men
+[MH17|028C]also said they
+[MH17|028D]had seen a Buk.” 
+[MH17|028E](The Guardian, “Ukrainians report sightings
+[MH17|028F]of missile launcher on day
+[MH17|0290]of MH17 crash”) 
+[MH17|0291]After their September 28, 2016
+[MH17|0292]press conference, the
+[MH17|0293]Dutch-led Joint Investigation Team 
+[MH17|0294](JIT) published a
+[MH17|0295]censored video shot
+[MH17|0296]by a witness in Torez,
+[MH17|0297]showing the Volvo truck, Buk,
+[MH17|0298]Volkswagen van, and UAZ-469 jeep.
+
+
+[MH17|0299]Composite of Buk 332
+[MH17|029A]and the Volvo truck from
+[MH17|029B]a censored video 
+[MH17|029C]published by the JIT
+[MH17|029D]after its September 28, 2016
+[MH17|029E]press conference  
+[MH17|029F]After Torez, the Buk was
+[MH17|02A0]taken  eastward to
+[MH17|02A1]Snizhne, where it 
+[MH17|02A2]was unloaded from
+[MH17|02A3]the Volvo  truck.
+
+
+[MH17|02A4]A photograph of
+[MH17|02A5]the unloaded  Buk
+[MH17|02A6]was snapped by
+[MH17|02A7]a  Snizhne resident,
+[MH17|02A8]showing the  Buk
+[MH17|02A9]moving through a residential 
+[MH17|02AA]area with its
+[MH17|02AB]netting still covering 
+[MH17|02AC]the mounted missiles.
+
+
+[MH17|02AD]Later, a video
+[MH17|02AE]emerged showing 
+[MH17|02AF]the same Buk
+[MH17|02B0]moving southward  through
+[MH17|02B1]Snizhne, headed  toward
+[MH17|02B2]a field where it
+[MH17|02B3]would  launch
+[MH17|02B4]the missile that
+[MH17|02B5]downed  MH17.
+
+
+[MH17|02B6]Corroborating this photograph 
+[MH17|02B7]and video, an
+[MH17|02B8]Associated Press  reporter
+[MH17|02B9]wrote that he saw
+[MH17|02BA]a Buk  missile
+[MH17|02BB]launcher in Snizhne on 
+[MH17|02BC]July 17, 2014.
+
+
+[MH17|02BD]Top: Photograph of Buk 
+[MH17|02BE]332 in Snizhne 
+[MH17|02BF]- Bottom: Screenshot from
+[MH17|02C0]a  video
+[MH17|02C1]showing Buk 332 
+[MH17|02C2]moving under its own 
+[MH17|02C3]power south, out
+[MH17|02C4]of  Snizhne 
+[MH17|02C5]This Buk was
+[MH17|02C6]filmed only once
+[MH17|02C7]more after this
+[MH17|02C8]-heading east through Luhansk, towards
+[MH17|02C9]Russia, 
+[MH17|02CA]and with only three missiles
+[MH17|02CB]instead of four.
+
+
+[MH17|02CC]For additional information on
+[MH17|02CD]the route that Buk 332
+[MH17|02CE]and its accompanying convoy took
+[MH17|02CF]through eastern Ukraine on July
+[MH17|02D0]17, 2014, see
+[MH17|02D1]the following investigations
+[MH17|02D2]and news articles: 
+[MH17|02D3]• Bellingcat: MH17 In Their
+[MH17|02D4]Own Words: Witness Testimonies on
+[MH17|02D5]Social Media from July 17,
+[MH17|02D6]2014  • Bellingcat:
+[MH17|02D7]Origin of the Separatists’ Buk
+[MH17|02D8]• Bellingcat: Interview
+[MH17|02D9]with “WowihaY,” the Man
+[MH17|02DA]Who Narrated MH17
+[MH17|02DB]as it Happened 
+[MH17|02DC]• Bellingcat: Tracking
+[MH17|02DD]the Vehicle that
+[MH17|02DE]Transported the MH17 Buk 
+[MH17|02DF]• Bellingcat: Possible new
+[MH17|02E0]sighting of MH17 Buk Convoy
+[MH17|02E1]on July 17th 2014 in
+[MH17|02E2]Ukraine  • Bellingcat:
+[MH17|02E3]New Google Earth Satellite Update
+[MH17|02E4]Confirms Presence of Buk in
+[MH17|02E5]Eastern Ukraine  •
+[MH17|02E6]Bellingcat: Separatist Convoy
+[MH17|02E7]Linked to MH17 Buk Transport
+[MH17|02E8]• Bellingcat: Revelations
+[MH17|02E9]and Confirmations from
+[MH17|02EA]the MH17 JIT Press Conference
+[MH17|02EB]• Correctiv: Flight MH17:
+[MH17|02EC]Searching for the Truth 
+[MH17|02ED]• Paris Match:
+[MH17|02EE]A stolen truck to transport
+[MH17|02EF]the missiles  •
+[MH17|02F0]BBC: Who Shot Down MH17?
+[MH17|02F1]• 60 Minutes Australia: MH17:
+[MH17|02F2]A Special Investigation 
+[MH17|02F3]• Stratfor: Examining
+[MH17|02F4]the Evidence of Russia's Involvement
+[MH17|02F5]in a Malaysia Airlines Crash
+[MH17|02F6]4  
+[MH17|02F7]The Missile Launch 
+[MH17|02F8]Smoke trail from
+[MH17|02F9]the missile that
+[MH17|02FA]downed MH17, taken from Torez
+[MH17|02FB]Shortly after local residents heard
+[MH17|02FC]the first of
+[MH17|02FD]a pair of loud noises,
+[MH17|02FE]a man who lives in
+[MH17|02FF]Torez  took
+[MH17|0300]the photograph seen above,
+[MH17|0301]showing the white trail
+[MH17|0302]of a missile launch from
+[MH17|0303]a field  south
+[MH17|0304]of Snizhne, Ukraine.
+
+
+[MH17|0305]This photograph, which is one
+[MH17|0306]of three known images
+[MH17|0307]showing 
+[MH17|0308]the trail of
+[MH17|0309]the Buk missile that
+[MH17|030A]downed MH17, was
+[MH17|030B]shared on Twitter hours
+[MH17|030C]after the shoot- down,
+[MH17|030D]and has since been
+[MH17|030E]analyzed and verified
+[MH17|030F]by multiple independent experts.
+
+
+[MH17|0310]This photograph was
+[MH17|0311]first shared in
+[MH17|0312]a tweet by @WowihaY,
+[MH17|0313]with a message
+[MH17|0314]describing the  location
+[MH17|0315]and how it is from
+[MH17|0316]“a witness who took
+[MH17|0317]a photo of
+[MH17|0318]the moment of
+[MH17|0319]the rocket  launch.”
+[MH17|031A]The tweet was sent three
+[MH17|031B]hours after the downing, at
+[MH17|031C]7:23pm local time.
+
+
+[MH17|031D]The blogger Ukraine@War (now Putin@War)
+[MH17|031E]was able to geolocate
+[MH17|031F]the source of
+[MH17|0320]the missile  trail
+[MH17|0321]in the photograph to
+[MH17|0322]a field just east
+[MH17|0323]of the village
+[MH17|0324]of Chervonyi Zhovten (Red October),
+[MH17|0325]and south of Snizhne.
+
+
+[MH17|0326]Bellingcat conducted a similar investigation,
+[MH17|0327]coming to similar 
+[MH17|0328]conclusions: the missile was
+[MH17|0329]fired from a field south
+[MH17|032A]of Snizhne.
+
+
+[MH17|032B]Both the forensic investigation into
+[MH17|032C]the downing of MH17,
+[MH17|032D]the Dutch Safety Board (DSB),
+[MH17|032E]and the criminal investigation,
+[MH17|032F]the JIT, have
+[MH17|0330]confirmed this assessment,
+[MH17|0331]pointing to a field 
+[MH17|0332]south of Snizhne
+[MH17|0333]as the launch location
+[MH17|0334]for the Buk missile that
+[MH17|0335]downed the plane.
+
+
+[MH17|0336]At their  September
+[MH17|0337]28, 2016 press conference,
+[MH17|0338]the JIT published
+[MH17|0339]a photograph received from
+[MH17|033A]a local  witness
+[MH17|033B]that had not been
+[MH17|033C]previously published.
+
+
+[MH17|033D]In this photograph, taken from
+[MH17|033E]north of 
+[MH17|033F]the launch location, we see
+[MH17|0340]the same smoke trail
+[MH17|0341]as in the image
+[MH17|0342]shared by @WowihaY.
+
+
+[MH17|0343]Buk missile smoke trail shown
+[MH17|0344]by the JIT in
+[MH17|0345]a press conference 
+[MH17|0346]In the same September 28,
+[MH17|0347]2016 press conference,
+[MH17|0348]the JIT revealed their calculation
+[MH17|0349]of 
+[MH17|034A]where the missile was launched.
+
+
+[MH17|034B]Using witness accounts
+[MH17|034C]and by determining
+[MH17|034D]the sight lines 
+[MH17|034E]of the two smoke trail
+[MH17|034F]photographs, the JIT
+[MH17|0350]triangulated the missile launch to
+[MH17|0351]a field south 
+[MH17|0352]of Snizhne and just northeast
+[MH17|0353]of the village
+[MH17|0354]of Chervonyi Zhovten’ at coordinates
+[MH17|0355]47.973906,  38.763963.
+
+
+[MH17|0356]Triangulated missile launch site,
+[MH17|0357]calculated by the JIT.
+
+
+[MH17|0358]Lines used in 
+[MH17|0359]image are not representative
+[MH17|035A]of actual evidence 
+[MH17|035B]Along with these two photographs
+[MH17|035C]and the JIT’s calculation, we
+[MH17|035D]also have numerous witness 
+[MH17|035E]accounts from Ukrainians
+[MH17|035F]who saw and heard
+[MH17|0360]the missile launch.
+
+
+[MH17|0361]Before the narratives
+[MH17|0362]of  both
+[MH17|0363]the Russian-separatist and Ukrainian sides
+[MH17|0364]emerged, the raw reactions
+[MH17|0365]of these locals 
+[MH17|0366]reveal unfiltered information about
+[MH17|0367]what occurred.
+
+
+[MH17|0368]In one thread on VK,
+[MH17|0369]a witness says that 
+[MH17|036A]“something buzzed above us,
+[MH17|036B]but not like
+[MH17|036C]a plane, people are
+[MH17|036D]saying that it was
+[MH17|036E]a rocket that 
+[MH17|036F]went up to it.” In
+[MH17|0370]another witness account,
+[MH17|0371]a man describes
+[MH17|0372]what could only be
+[MH17|0373]a rocket  launch
+[MH17|0374]immediately before the
+[MH17|0375]downing of MH17: “I saw
+[MH17|0376]that something was flying.
+
+
+[MH17|0377]I was  out
+[MH17|0378]in the country in
+[MH17|0379]a tree, picking pears.
+
+
+[MH17|037A]And then an explosion.” Another
+[MH17|037B]Snizhne resident 
+[MH17|037C]posted soon after
+[MH17|037D]the crash, “I saw
+[MH17|037E]how this rocket flew! I
+[MH17|037F]even saw where it came
+[MH17|0380]from 
+[MH17|0381]and where it went!” In
+[MH17|0382]a particularly descriptive message,
+[MH17|0383]a local woman described: 
+[MH17|0384]“I saw how
+[MH17|0385]a rocket flew from
+[MH17|0386]the direction of Saurovka...and
+[MH17|0387]then a minute-long lull
+[MH17|0388]and 
+[MH17|0389]a loud explosion...a trail
+[MH17|038A]remained in the sky from
+[MH17|038B]the rocket...I didn’t see
+[MH17|038C]the explosion myself 
+[MH17|038D]it was very loud...all
+[MH17|038E]of my family ran out
+[MH17|038F]into the street...we were all
+[MH17|0390]very  scared…….I don’t
+[MH17|0391]know who to believe
+[MH17|0392]but we didn’t hear
+[MH17|0393]the sound of
+[MH17|0394]a SU[-25]....it was 
+[MH17|0395]quiet just like
+[MH17|0396]with a normal passenger plane
+[MH17|0397]and then that’s all….” 
+[MH17|0398]The Dutch RTL Nieuws
+[MH17|0399]contacted various forensic experts to
+[MH17|039A]verify the first smoke photograph’s
+[MH17|039B]authenticity: the Fox-IT company,
+[MH17|039C]which focuses on cyber crime,
+[MH17|039D]and Eduard de 
+[MH17|039E]Kam at the Dutch Institute
+[MH17|039F]of Digital Photography (NIDF).
+
+
+[MH17|03A0]All of these
+[MH17|03A1]consulted experts 
+[MH17|03A2]agreed on the same conclusion:
+[MH17|03A3]there was “no indication
+[MH17|03A4]of post-processing, fraud,
+[MH17|03A5]or manipulation”  in
+[MH17|03A6]the photograph that
+[MH17|03A7]showed the traces
+[MH17|03A8]of a missile launch.
+
+
+[MH17|03A9]The JIT agreed 
+[MH17|03AA]with their assessment,
+[MH17|03AB]including the photograph in their
+[MH17|03AC]September 28, 2016 press conference
+[MH17|03AD]as evidence regarding
+[MH17|03AE]the missile launch,
+[MH17|03AF]as did a US intelligence
+[MH17|03B0]report on July 22, 
+[MH17|03B1]2014.
+
+
+[MH17|03B2]Looking to the launch site
+[MH17|03B3]itself, journalists Christopher Miller
+[MH17|03B4]and Roland Oliphant
+[MH17|03B5]visited 
+[MH17|03B6]the field south
+[MH17|03B7]of Snizhne on July 22,
+[MH17|03B8]2014.
+
+
+[MH17|03B9]The two found
+[MH17|03BA]a burned field
+[MH17|03BB]with various  pieces
+[MH17|03BC]of debris, including
+[MH17|03BD]a piece of plastic from
+[MH17|03BE]a weapons container
+[MH17|03BF]manufactured by  Steklo
+[MH17|03C0]Plastik, which had its offices
+[MH17|03C1]raided of approximately $25,000 worth
+[MH17|03C2]of equipment 
+[MH17|03C3]by separatist soldiers about three
+[MH17|03C4]weeks before the
+[MH17|03C5]downing of MH17.
+
+
+[MH17|03C6]Christopher Miller  spoke
+[MH17|03C7]with a resident
+[MH17|03C8]of Chervonyi Zhovten,
+[MH17|03C9]the nearest village from
+[MH17|03CA]the field, who
+[MH17|03CB]said that  he
+[MH17|03CC]saw and heard
+[MH17|03CD]a missile launch from
+[MH17|03CE]the field immediately
+[MH17|03CF]before the downing
+[MH17|03D0]of MH17.
+
+
+[MH17|03D1]"It was such
+[MH17|03D2]a huge explosion,"
+[MH17|03D3]the 58-year-old said recently.
+
+
+[MH17|03D4]"It felt like
+[MH17|03D5]the end of
+[MH17|03D6]the  world!"
+[MH17|03D7]The blast was
+[MH17|03D8]the sound of
+[MH17|03D9]a missile launcher,
+[MH17|03DA]firing its weapon into
+[MH17|03DB]the sky, he 
+[MH17|03DC]said.
+
+
+[MH17|03DD]"It was a big missile
+[MH17|03DE]and it wobbled
+[MH17|03DF]as it flew right
+[MH17|03E0]over our house in
+[MH17|03E1]the direction of 
+[MH17|03E2]Torez," he added,
+[MH17|03E3]pointing in a northwesterly direction.
+
+
+[MH17|03E4]He said he
+[MH17|03E5]watched as the missile 
+[MH17|03E6]struck a plane
+[MH17|03E7]and fiery debris fell to
+[MH17|03E8]the ground.
+
+
+[MH17|03E9]Satellite imagery of
+[MH17|03EA]the site reveals that between
+[MH17|03EB]July 16 and 21, 2014
+[MH17|03EC]the corner of
+[MH17|03ED]the field  was
+[MH17|03EE]significantly altered, and new track
+[MH17|03EF]marks appeared in
+[MH17|03F0]the area between
+[MH17|03F1]the dates.
+
+
+[MH17|03F2]Field south of Snizhne between
+[MH17|03F3]July 16 and 23 (Source
+[MH17|03F4]Google Earth/  Digital
+[MH17|03F5]Globe)  
+[MH17|03F6]For additional information on
+[MH17|03F7]the missile launch site, see
+[MH17|03F8]the following investigations
+[MH17|03F9]and  news articles:
+[MH17|03FA]• Bellingcat: Is this
+[MH17|03FB]the Launch Site
+[MH17|03FC]of the Missile that Shot
+[MH17|03FD]Down Flight MH17? 
+[MH17|03FE]• Bellingcat: Examining
+[MH17|03FF]the MH17 Launch Smoke Photographs
+[MH17|0400]• Bellingcat: Interview
+[MH17|0401]with “WowihaY,” the Man
+[MH17|0402]Who Narrated MH17
+[MH17|0403]as it Happened 
+[MH17|0404]• Meduza: The trace above
+[MH17|0405]Torez: From where did they
+[MH17|0406]shoot down the Malaysian
+[MH17|0407]Boeing  • Mashable:
+[MH17|0408]“It felt like
+[MH17|0409]the end of
+[MH17|040A]the world”: How MH17 was
+[MH17|040B]brought down  •
+[MH17|040C]Business Insider: Local Ukraine Residents
+[MH17|040D]Say They Saw Rebels
+[MH17|040E]With Missiles Suspected 
+[MH17|040F]of Taking Down Malaysia Plane
+[MH17|0410]• RTL Nieuws: Hoe onderzocht
+[MH17|0411]RTL Nieuws de nieuwe MH17-foto's?
+[MH17|0412]• JIT: MH17 Animation
+[MH17|0413]regarding the transport route
+[MH17|0414]and the launch site 
+[MH17|0415]• The Guardian: Flight MH17
+[MH17|0416]investigators to pinpoint missile launch
+[MH17|0417]in rebel-held Ukraine 
+[MH17|0418]The Morning After 
+[MH17|0419]Buk 332 being
+[MH17|041A]transported through Luhansk on July
+[MH17|041B]18, 2014  
+[MH17|041C]On July 18, 2014
+[MH17|041D]the Ukrainian Ministry
+[MH17|041E]of Interior published
+[MH17|041F]a video filmed in
+[MH17|0420]the 
+[MH17|0421]separatist-controlled city of Luhansk, in
+[MH17|0422]which they claimed to show
+[MH17|0423]a Buk heading towards 
+[MH17|0424]the Russian border on
+[MH17|0425]the morning after
+[MH17|0426]the downing of MH17.
+
+
+[MH17|0427]A recent report from
+[MH17|0428]the  Dutch channel
+[MH17|0429]NOS reports that this video
+[MH17|042A]was filmed by
+[MH17|042B]a Ukrainian policeman from
+[MH17|042C]a  safe-house,
+[MH17|042D]whose job was to report
+[MH17|042E]on all military convoys
+[MH17|042F]moving along the
+[MH17|0430]filmed road.
+
+
+[MH17|0431]In this video,
+[MH17|0432]the Buk only
+[MH17|0433]had three missiles,
+[MH17|0434]instead of the four missiles
+[MH17|0435]that it had in 
+[MH17|0436]Makiivka approximately five hours
+[MH17|0437]before the shoot down.
+
+
+[MH17|0438]Ukrainian Minister of Interior 
+[MH17|0439]Arsen Avakov later
+[MH17|043A]published the coordinates
+[MH17|043B]of where the video was
+[MH17|043C]recorded, which were 
+[MH17|043D]confirmed both by geolocation
+[MH17|043E]and news organizations
+[MH17|043F]visiting the site.
+
+
+[MH17|0440]The JIT has
+[MH17|0441]determined that before
+[MH17|0442]the Volvo and Buk
+[MH17|0443]reached Luhansk, where it was
+[MH17|0444]filmed in the early hours
+[MH17|0445]of the morning, it
+[MH17|0446]traveled a roundabout route through
+[MH17|0447]through  Krasniy Luch,
+[MH17|0448]to Debaltseve, and
+[MH17|0449]finally to Luhansk,
+[MH17|044A]where it was
+[MH17|044B]filmed passing along Vulytsia 
+[MH17|044C]Pavlivska-Nechuya Levytskoho.
+
+
+[MH17|044D]The JIT determined that this
+[MH17|044E]route was taken 
+[MH17|044F]through information received through “telecommunications
+[MH17|0450]data.”  
+[MH17|0451]JIT graphic showing
+[MH17|0452]the Buk’s route from Snizhne
+[MH17|0453]to Luhansk  
+[MH17|0454]Comparison of Buk 332 in
+[MH17|0455]Makiivka on July 17, 2014
+[MH17|0456](left), with the third 
+[MH17|0457]missile from the driver’s side
+[MH17|0458]present, and Buk 332 in
+[MH17|0459]Luhansk on July 18, 
+[MH17|045A]2014 (right) from
+[MH17|045B]the JIT’s September 28, 2016
+[MH17|045C]press conference, with
+[MH17|045D]the  third missile
+[MH17|045E]from the driver’s side
+[MH17|045F]missing  
+[MH17|0460]The JIT published
+[MH17|0461]intercepted phone conversations
+[MH17|0462]describing where the Buk
+[MH17|0463]went after it 
+[MH17|0464]went through Luhansk -Russia.
+
+
+[MH17|0465]In these intercepted calls,
+[MH17|0466]panicked separatists say that
+[MH17|0467]the  Buk was
+[MH17|0468]taken across the Ukraine-Russia border
+[MH17|0469]in the early hours
+[MH17|046A]of July 18
+[MH17|046B]and given to
+[MH17|046C]a  group
+[MH17|046D]of “lads.”  
+[MH17|046E]Screenshots of the JIT’s
+[MH17|046F]published phone calls from July
+[MH17|0470]18, 2014  
+[MH17|0471]For additional information on
+[MH17|0472]the Buk’s transport through Luhansk
+[MH17|0473]and into Russia, see
+[MH17|0474]the 
+[MH17|0475]following investigations and presentations: 
+[MH17|0476]Bellingcat: Who’s Lying? An In-Depth
+[MH17|0477]Analysis of the Luhansk Buk
+[MH17|0478]Video  JIT: MH17
+[MH17|0479]Animation regarding the transport route
+[MH17|047A]and the launch site 
+[MH17|047B]The Other Vehicles 
+[MH17|047C]The vehicles that
+[MH17|047D]accompanied Buk 332 in eastern
+[MH17|047E]Ukraine  
+[MH17|047F]The Buk that
+[MH17|0480]downed MH17 was
+[MH17|0481]hauled by a Volvo truck
+[MH17|0482]and accompanied by three vehicles
+[MH17|0483]operated by DNR forces:
+[MH17|0484]a dark-blue Volkswagen van,
+[MH17|0485]a Toyota RAV4 SUV,
+[MH17|0486]and a UAZ469 
+[MH17|0487]jeep.
+
+
+[MH17|0488]These three vehicles were
+[MH17|0489]a part of
+[MH17|048A]a convoy on July 15
+[MH17|048B](two days before
+[MH17|048C]the downing)  on
+[MH17|048D]roughly the same route that
+[MH17|048E]the Buk traveled on in
+[MH17|048F]eastern Ukraine.
+
+
+[MH17|0490]The Volvo truck in Donetsk
+[MH17|0491](left) and Luhansk (right) 
+[MH17|0492]The Volvo truck that
+[MH17|0493]transported the Buk on July
+[MH17|0494]17 and 18 was
+[MH17|0495]seized by separatists from 
+[MH17|0496]the vehicle yard
+[MH17|0497]of Stroymekhanizatsiya, located in northern
+[MH17|0498]Donetsk.
+
+
+[MH17|0499]A 2013 video
+[MH17|049A]filmed  in Crimea
+[MH17|049B]shows this same Volvo
+[MH17|049C]being used, including
+[MH17|049D]the same yellow placard
+[MH17|049E]with a  phone
+[MH17|049F]number.
+
+
+[MH17|04A0]Soon after the
+[MH17|04A1]downing of MH17, journalists
+[MH17|04A2]contacted the owner
+[MH17|04A3]of the  truck,
+[MH17|04A4]confirming that the vehicle that
+[MH17|04A5]hauled the Buk is
+[MH17|04A6]the same that was
+[MH17|04A7]captured by separatists 
+[MH17|04A8]in Donetsk, In
+[MH17|04A9]the interview, he told
+[MH17|04AA]the journalists:  
+[MH17|04AB]“My base in Donetsk was
+[MH17|04AC]taken over and it was
+[MH17|04AD]parked there.
+
+
+[MH17|04AE]Yes, this is my vehicle.
+
+
+[MH17|04AF]They  came to
+[MH17|04B0]our base and
+[MH17|04B1]said they needed it. Everyone
+[MH17|04B2]left from the eighth (of
+[MH17|04B3]July), and the 
+[MH17|04B4]base was under their control,
+[MH17|04B5]including my equipment
+[MH17|04B6]and that white truck.” 
+[MH17|04B7]The Volvo truck
+[MH17|04B8]when  it was
+[MH17|04B9]filmed by its 
+[MH17|04BA]owners,  Stroymekhanizatsiya, 
+[MH17|04BB]in Crimea in 2013 
+[MH17|04BC](left) and with
+[MH17|04BD]the  Buk in
+[MH17|04BE]Donetsk on  July
+[MH17|04BF]17, 2014 (right) 
+[MH17|04C0]Satellite imagery from 11:08am on
+[MH17|04C1]July 17, 2014 shows
+[MH17|04C2]the low-loader was absent from
+[MH17|04C3]the  vehicle yard,
+[MH17|04C4]supporting the fact that it
+[MH17|04C5]was hauling the Buk through
+[MH17|04C6]the Donbas at
+[MH17|04C7]the  time,
+[MH17|04C8]while in imagery
+[MH17|04C9]before and after July 17
+[MH17|04CA]the low-loader and truck were
+[MH17|04CB]visible.
+
+
+[MH17|04CC]If there is any
+[MH17|04CD]remaining doubt that this truck
+[MH17|04CE]that hauled the Buk on
+[MH17|04CF]July 17 and 18 was
+[MH17|04D0]under 
+[MH17|04D1]the control of
+[MH17|04D2]Russian-led separatists, there are
+[MH17|04D3]also photographs and videos
+[MH17|04D4]of the  Volvo
+[MH17|04D5]and red low-loader under separatist
+[MH17|04D6]control in the latter half
+[MH17|04D7]of 2014.
+
+
+[MH17|04D8]Right: The Volvo 
+[MH17|04D9]and red low- loader
+[MH17|04DA]in Makiivka  in
+[MH17|04DB]August 2014.
+
+
+[MH17|04DC]Below: Two  screenshots
+[MH17|04DD]from 
+[MH17|04DE]a video showing 
+[MH17|04DF]the same red low- 
+[MH17|04E0]loader without the 
+[MH17|04E1]yellow placard, 
+[MH17|04E2]hauling a piece
+[MH17|04E3]of  separatist military
+[MH17|04E4]equipment in  August
+[MH17|04E5]2014  
+[MH17|04E6]The three vehicles that were
+[MH17|04E7]filmed escorting the Buk were
+[MH17|04E8]likely driven by forces loyal
+[MH17|04E9]to  Igor “Strelkov”
+[MH17|04EA]Girkin and the
+[MH17|04EB]Russian-led separatist forces
+[MH17|04EC]of Donetsk.
+
+
+[MH17|04ED]Two days before 
+[MH17|04EE]the downing of MH17, these
+[MH17|04EF]vehicles were part
+[MH17|04F0]of a convoy that
+[MH17|04F1]transported four T-64 
+[MH17|04F2]tanks, three self-propelled howitzer Gvozdika
+[MH17|04F3]systems, a BTR-80
+[MH17|04F4]armored personnel carrier, 
+[MH17|04F5]and a Scania semi-truck
+[MH17|04F6]carrying a trailer
+[MH17|04F7]with unknown contents.
+
+
+[MH17|04F8]This convoy reportedly 
+[MH17|04F9]started its trip
+[MH17|04FA]by Donetsk, Russia,
+[MH17|04FB]crossed the border to
+[MH17|04FC]the separatist stronghold
+[MH17|04FD]of  Krasnodon,
+[MH17|04FE]moved northwest to Luhansk,
+[MH17|04FF]and then moved south towards
+[MH17|0500]Donetsk, Ukraine 
+[MH17|0501]by way of Alchevsk, Debaltseve,
+[MH17|0502]Yenakieve, and Makiivka.
+
+
+[MH17|0503]The cities and roads taken
+[MH17|0504]by this  convoy
+[MH17|0505]correspond to those taken
+[MH17|0506]by the Buk convoy on
+[MH17|0507]July 17, showing that they
+[MH17|0508]were  known to
+[MH17|0509]be safely under Russian
+[MH17|050A]and separatist control.
+
+
+[MH17|050B]Like the Buk, these pieces
+[MH17|050C]of military equipment reportedly
+[MH17|050D]crossed over the Russia- 
+[MH17|050E]Ukraine border near Donetsk, Russia
+[MH17|050F]in the early hours
+[MH17|0510]of the morning.
+
+
+[MH17|0511]At 12:18am on July 
+[MH17|0512]15, reports came in from
+[MH17|0513]Krasnodon, Ukraine that
+[MH17|0514]the convoy had
+[MH17|0515]moved through town.
+
+
+[MH17|0516]At  7:50am
+[MH17|0517]the same morning,
+[MH17|0518]the convoy arrived in Luhansk.
+
+
+[MH17|0519]By the early evening,
+[MH17|051A]the convoy 
+[MH17|051B]arrived in Donetsk.
+
+
+[MH17|051C]A similar route was used
+[MH17|051D]in the July 17 convoy,
+[MH17|051E]but at a much faster
+[MH17|051F]pace, as the Buk
+[MH17|0520]arrived in Donetsk at around
+[MH17|0521]9:00am local time.
+
+
+[MH17|0522]The route of
+[MH17|0523]the July 15, 2014 Russian-separatist
+[MH17|0524]convoy, with information 
+[MH17|0525]sources including eyewitness testimonies, photographs,
+[MH17|0526]videos, and news 
+[MH17|0527]reports.
+
+
+[MH17|0528]Russia-Ukraine border visible on
+[MH17|0529]the right  
+[MH17|052A]The three vehicles that
+[MH17|052B]escorted the Buk through Ukraine
+[MH17|052C]on July 15 (top), July
+[MH17|052D]17 in Donetsk (middle),
+[MH17|052E]and July 17 in 
+[MH17|052F]Makiivka (bottom)  
+[MH17|0530]For additional information on
+[MH17|0531]the Volvo truck
+[MH17|0532]and vehicles accompanying
+[MH17|0533]the Buk through 
+[MH17|0534]eastern Ukraine, see
+[MH17|0535]the following investigations
+[MH17|0536]and presentations:  
+[MH17|0537]• Bellingcat: Tracking
+[MH17|0538]the Vehicle that
+[MH17|0539]Transported the MH17 Buk 
+[MH17|053A]• Bellingcat: Separatist Convoy
+[MH17|053B]Linked to MH17 Buk Transport
+[MH17|053C]• JIT: MH17 Animation
+[MH17|053D]regarding the transport route
+[MH17|053E]and the launch site 
+[MH17|053F]• What Happened to Flight
+[MH17|0540]MH17: Recently discovered video clearly
+[MH17|0541]shows Volvo truck
+[MH17|0542]and  low loader
+[MH17|0543]with phone number on yellow
+[MH17|0544]sign  • News.com.au:
+[MH17|0545]MH17 breakthrough: owner
+[MH17|0546]of Volvo truck that
+[MH17|0547]transported missile fears 
+[MH17|0548]for his life 
+[MH17|0549]The Russian Buk 
+[MH17|054A]Buk 332 in Russia, from
+[MH17|054B]2012  
+[MH17|054C]From studying the photographic
+[MH17|054D]and video materials
+[MH17|054E]of July 17
+[MH17|054F]and 18, 2014, we
+[MH17|0550]can identify 
+[MH17|0551]a number of features
+[MH17|0552]and details of
+[MH17|0553]the Buk missile launcher that
+[MH17|0554]downed MH17.
+
+
+[MH17|0555]For example,  there
+[MH17|0556]are obscured numbers on
+[MH17|0557]the chassis of
+[MH17|0558]the Buk, distinctive signs
+[MH17|0559]of damage  on
+[MH17|055A]the rubber side skirt
+[MH17|055B]over the caterpillar track,
+[MH17|055C]and distinctive locations
+[MH17|055D]with white symbols 
+[MH17|055E]and marks.
+
+
+[MH17|055F]With these details in mind,
+[MH17|0560]we can resolve
+[MH17|0561]the question of
+[MH17|0562]where this Buk 
+[MH17|0563]came from, and
+[MH17|0564]which country it
+[MH17|0565]belonged to.  
+[MH17|0566]The Buk missile launcher
+[MH17|0567]photographed and filmed in Ukraine
+[MH17|0568]on the day
+[MH17|0569]of the MH17 
+[MH17|056A]downing is a TELAR,
+[MH17|056B]or “transporter erector launcher
+[MH17|056C]and radar.” This Buk TELAR
+[MH17|056D]was  
+[MH17|056E]able to operate autonomously
+[MH17|056F]when it fired its missile
+[MH17|0570]south of Snizhne,
+[MH17|0571]as there is an
+[MH17|0572]incorporated  radar system
+[MH17|0573]in Buk TELARs.
+
+
+[MH17|0574]After the downing
+[MH17|0575]of MH17, members
+[MH17|0576]of the Bellingcat investigative team
+[MH17|0577]started their  search
+[MH17|0578]for military convoys that
+[MH17|0579]included Buk missile launchers in
+[MH17|057A]the month before
+[MH17|057B]the  downing.
+
+
+[MH17|057C]This task was particularly difficult
+[MH17|057D]at first, because
+[MH17|057E]a number of countries in
+[MH17|057F]the  former Soviet
+[MH17|0580]Union use the Buk system
+[MH17|0581]in its arsenal,
+[MH17|0582]including Ukraine, Russia, Georgia, 
+[MH17|0583]and Belarus.
+
+
+[MH17|0584]After searching through numerous convoys
+[MH17|0585]in Ukraine and Russia,
+[MH17|0586]a particular Buk-M1 TELAR 
+[MH17|0587]stood out, belonging to Russia’s
+[MH17|0588]53rd Anti-Aircraft Missile Brigade.
+
+
+[MH17|0589]This Buk left from 
+[MH17|058A]Kursk, Russia on June 23
+[MH17|058B]and traveled towards
+[MH17|058C]the Russia-Ukraine border,
+[MH17|058D]with a convoy 
+[MH17|058E]last seen in Millerovo, Russia
+[MH17|058F]on June 25.
+
+
+[MH17|0590]This Buk, which was
+[MH17|0591]first dubbed “Buk 3x2” due
+[MH17|0592]to an obscured digit on
+[MH17|0593]the side of
+[MH17|0594]the chassis, has many similarities
+[MH17|0595]with the one seen in
+[MH17|0596]Ukraine on July 17.
+
+
+[MH17|0597]In particular, the
+[MH17|0598]remaining fragments of
+[MH17|0599]the digits of
+[MH17|059A]the Buk, the railway 
+[MH17|059B]transport markings, center
+[MH17|059C]of gravity mark, white paint
+[MH17|059D]on the rubber side skirt,
+[MH17|059E]and  other features
+[MH17|059F]were in the exact same
+[MH17|05A0]positions and proportions
+[MH17|05A1]for this Buk
+[MH17|05A2]when it was in 
+[MH17|05A3]Russia and Ukraine.
+
+
+[MH17|05A4]Since our initial investigation in
+[MH17|05A5]late 2014, we
+[MH17|05A6]have been able to determine
+[MH17|05A7]that this Buk was originally
+[MH17|05A8]numbered 332, after
+[MH17|05A9]comparing the characteristics
+[MH17|05AA]of the  weapon
+[MH17|05AB]from photographs and videos
+[MH17|05AC]going back to 2010.
+
+
+[MH17|05AD]White mark on Buk 332
+[MH17|05AE]in Russia in June 2014
+[MH17|05AF](left) and the same white
+[MH17|05B0]mark on the Buk
+[MH17|05B1]filmed in Torez from
+[MH17|05B2]the JIT press conference (right)
+[MH17|05B3]Outside of these details
+[MH17|05B4]being in the exact same
+[MH17|05B5]locations on the two Buks,
+[MH17|05B6]there is an additional, 
+[MH17|05B7]compelling method to compare
+[MH17|05B8]the “identities” of
+[MH17|05B9]the Buks.
+
+
+[MH17|05BA]During our research into 
+[MH17|05BB]various Buk sightings, it became
+[MH17|05BC]clear that the rubber side
+[MH17|05BD]skirt above the caterpillar track
+[MH17|05BE]sustains damage over time,
+[MH17|05BF]creating a unique “fingerprint.”
+[MH17|05C0]Comparing these side skirt damage
+[MH17|05C1]patterns, or “fingerprints,” we
+[MH17|05C2]can identify and match Buk
+[MH17|05C3]missile launchers with one 
+[MH17|05C4]another.
+
+
+[MH17|05C5]For example, below is
+[MH17|05C6]a comparison of
+[MH17|05C7]the side skirt fingerprints
+[MH17|05C8]of a Russian Buk 
+[MH17|05C9]numbered 232.
+
+
+[MH17|05CA]All three photographs were taken
+[MH17|05CB]in the same year.
+
+
+[MH17|05CC]Comparison of the side skirt
+[MH17|05CD]damage patterns on
+[MH17|05CE]a Russian Buk
+[MH17|05CF]with  unit designation
+[MH17|05D0]232 over the period
+[MH17|05D1]of a year 
+[MH17|05D2]When comparing the side skirt
+[MH17|05D3]profiles of Buk 332,
+[MH17|05D4]the Russian Buk seen
+[MH17|05D5]headed towards 
+[MH17|05D6]the Ukrainian border in late
+[MH17|05D7]June, and the Buk
+[MH17|05D8]photographed in eastern Ukraine on
+[MH17|05D9]the day 
+[MH17|05DA]of the tragedy, there is
+[MH17|05DB]a positive identification: 
+[MH17|05DC]Side skirt comparison between June
+[MH17|05DD](above, in Russia)
+[MH17|05DE]and July  (below,
+[MH17|05DF]in Ukraine) 2014 
+[MH17|05E0]The strong “spike” in
+[MH17|05E1]the waveform below
+[MH17|05E2]the white marking (which reads
+[MH17|05E3]“H-2200,” a  code
+[MH17|05E4]used for oversized railway cargo
+[MH17|05E5]frequently found on Russian military
+[MH17|05E6]equipment) can  be
+[MH17|05E7]identified by examining photographs
+[MH17|05E8]of the Buk in Russia
+[MH17|05E9]and Ukraine.
+
+
+[MH17|05EA]Damage to the side skirt
+[MH17|05EB]visible on Buk 332 in
+[MH17|05EC]Russia  
+[MH17|05ED]Buk 332 in Russia, in
+[MH17|05EE]the spring of 2013 
+[MH17|05EF]This tear on
+[MH17|05F0]the rubber side skirt
+[MH17|05F1]can be identified in
+[MH17|05F2]the exact same location on
+[MH17|05F3]the Buk  seen
+[MH17|05F4]in Ukraine.
+
+
+[MH17|05F5]Over the past three years,
+[MH17|05F6]members of the Bellingcat investigation
+[MH17|05F7]team 
+[MH17|05F8]have compared the features
+[MH17|05F9]of Buk 332, seen both
+[MH17|05FA]in Russia and Ukraine in
+[MH17|05FB]the summer of 
+[MH17|05FC]2014, with every other Buk
+[MH17|05FD]photographed or filmed in 2013
+[MH17|05FE]and 2014 in Russia
+[MH17|05FF]and Ukraine 
+[MH17|0600]discovered by investigators.
+
+
+[MH17|0601]No other Buk
+[MH17|0602]has even half
+[MH17|0603]of the same details seen
+[MH17|0604]on this  Buk,
+[MH17|0605]including the digits, placement
+[MH17|0606]and dimensions of
+[MH17|0607]the various white marks,
+[MH17|0608]the side  skirt
+[MH17|0609]“fingerprint” profile, and other features.
+
+
+[MH17|060A]The censored video
+[MH17|060B]made public by
+[MH17|060C]the JIT 
+[MH17|060D]showing Buk 332 further
+[MH17|060E]confirmed this identification
+[MH17|060F]and allows a match
+[MH17|0610]of the features
+[MH17|0611]of  both sides
+[MH17|0612]of the Buk, rather
+[MH17|0613]than just the left side.
+
+
+[MH17|0614]Russian Buk 332
+[MH17|0615]of the 53rd Anti-Aircraft Missile
+[MH17|0616]Brigade shot down MH17 on
+[MH17|0617]July 17,  2014
+[MH17|0618]after firing from
+[MH17|0619]a field south
+[MH17|061A]of the Ukrainian town
+[MH17|061B]of Snizhne.
+
+
+[MH17|061C]But how did it
+[MH17|061D]get  there? 
+[MH17|061E]For additional information on
+[MH17|061F]the Buk that
+[MH17|0620]downed MH17 and its origin
+[MH17|0621]in Russia, see
+[MH17|0622]the 
+[MH17|0623]following investigations and articles: 
+[MH17|0624]• Bellingcat: Origin
+[MH17|0625]of the Separatists’ Buk 
+[MH17|0626]• Bellingcat: The Lost Digit:
+[MH17|0627]Buk 3x2  •
+[MH17|0628]Bellingcat: The Latest Open Source
+[MH17|0629]Theories, Speculations and Debunks on
+[MH17|062A]Flight MH17  •
+[MH17|062B]Bellingcat: Video Comparison Confirms
+[MH17|062C]the Buk Linked to
+[MH17|062D]the Downing of MH17 Came
+[MH17|062E]from Russia  •
+[MH17|062F]Bellingcat: MH17 Joint Investigation Team’s
+[MH17|0630]New Video Brings New Facts
+[MH17|0631]to Light  •
+[MH17|0632]Bellingcat: Pre-MH17 Photograph
+[MH17|0633]of Buk 332
+[MH17|0634]Discovered  • Novaya
+[MH17|0635]Gazeta: It was
+[MH17|0636]a “Buk-M1”  
+[MH17|0637]The June Convoy 
+[MH17|0638]Vehicle in the June 23-25,
+[MH17|0639]2014 convoy on VK
+[MH17|063A]and dash cam 
+[MH17|063B]The full power
+[MH17|063C]of open source information
+[MH17|063D]gathering can be seen in
+[MH17|063E]the reconstruction of 
+[MH17|063F]the convoy of
+[MH17|0640]the 53rd Anti-Aircraft Missile Brigade
+[MH17|0641]from their base near Kursk
+[MH17|0642]to the  Russia-Ukraine
+[MH17|0643]border in June 2014.
+
+
+[MH17|0644]This convoy, which
+[MH17|0645]included Buk 332, was
+[MH17|0646]photographed 
+[MH17|0647]and filmed by ordinary Russians
+[MH17|0648]who lived along this convoy’s
+[MH17|0649]route.
+
+
+[MH17|064A]Each of the 
+[MH17|064B]images and videos were
+[MH17|064C]geolocated to the exact location
+[MH17|064D]where it was captured,
+[MH17|064E]providing  an accurate
+[MH17|064F]representation of the convoy’s route.
+
+
+[MH17|0650]It was possible to confirm
+[MH17|0651]which members and battalions
+[MH17|0652]of the 53rd Brigade were
+[MH17|0653]part of 
+[MH17|0654]the convoy.
+
+
+[MH17|0655]Furthermore, Bellingcat’s research into
+[MH17|0656]the convoy identified
+[MH17|0657]the military transport 
+[MH17|0658]battalions involved in
+[MH17|0659]the convoy, including
+[MH17|065A]the identities of individuals
+[MH17|065B]who could 
+[MH17|065C]have driven the vehicle
+[MH17|065D]transporting Buk 332.
+
+
+[MH17|065E]The information published on Bellingcat,
+[MH17|065F]and  
+[MH17|0660]additional unpublished information,
+[MH17|0661]has been provided to
+[MH17|0662]the Dutch-led Joint Investigation 
+[MH17|0663]Team investigating the
+[MH17|0664]downing of MH17.
+
+
+[MH17|0665]Route of the June 2014
+[MH17|0666]convoy that transported Buk 332
+[MH17|0667]from near  Kursk,
+[MH17|0668]Russia to Millerovo,
+[MH17|0669]by the Russia-Ukraine border 
+[MH17|066A]Organizational structure for Russia’s 53rd
+[MH17|066B]Anti-Aircraft Misile Brigade in 
+[MH17|066C]2014, showing the equipment in
+[MH17|066D]each battalion.
+
+
+[MH17|066E]By combining information
+[MH17|066F]regarding the organization structure
+[MH17|0670]of Russia’s 53rd Anti- 
+[MH17|0671]Aircraft Missile Brigade (seen in
+[MH17|0672]the previous page),
+[MH17|0673]and identifying the vehicles
+[MH17|0674]filmed in 
+[MH17|0675]the June 23 -25, 2014
+[MH17|0676]convoy, we were able to
+[MH17|0677]determine that the
+[MH17|0678]second battalion of
+[MH17|0679]the  brigade was
+[MH17|067A]involved in transporting
+[MH17|067B]the Buk that
+[MH17|067C]downed MH17 from its Kursk
+[MH17|067D]base to  near
+[MH17|067E]the Russia-Ukraine border.
+
+
+[MH17|067F]While Buk 332
+[MH17|0680]has a unit designation
+[MH17|0681]for the 3rd battalion, 
+[MH17|0682]it was with
+[MH17|0683]the 2nd battalion
+[MH17|0684]because it served
+[MH17|0685]as a replacement
+[MH17|0686]for Buk TELAR 222,
+[MH17|0687]which  was
+[MH17|0688]not present in
+[MH17|0689]the convoy.
+
+
+[MH17|068A]Therefore, in the case
+[MH17|068B]of the downing
+[MH17|068C]of MH17, the
+[MH17|068D]most important potential suspects
+[MH17|068E]or witnesses  from
+[MH17|068F]the 53rd Anti-Aircraft Missile Brigade
+[MH17|0690]are most likely servicemen from
+[MH17|0691]the 2nd  battalion,
+[MH17|0692]along with the driver-soldiers
+[MH17|0693]who were involved in
+[MH17|0694]the June 23-25 convoy.
+
+
+[MH17|0695]For additional information on
+[MH17|0696]the convoy transporting Buk 332
+[MH17|0697]from near Kursk to Millerovo,
+[MH17|0698]see the following investigations
+[MH17|0699]and articles:  
+[MH17|069A]• Bellingcat: Exploring Russia’s 53rd
+[MH17|069B]Brigade’s MH17 Convoy
+[MH17|069C]with Storymap  •
+[MH17|069D]Bellingcat: Images Show
+[MH17|069E]the Buk that
+[MH17|069F]Downed Flight MH17, Inside Russia,
+[MH17|06A0]Controlled by  Russian
+[MH17|06A1]Troops  • Bellingcat:
+[MH17|06A2]Geolocating the MH17 Buk Convoy
+[MH17|06A3]in Russia  •
+[MH17|06A4]Bellingcat: Video Comparison Confirms
+[MH17|06A5]the Buk Linked to
+[MH17|06A6]the Downing of MH17 Came
+[MH17|06A7]from Russia  
+[MH17|06A8]The Potential  Suspects
+[MH17|06A9]Members of Russia’s 53rd Anti-Aircraft
+[MH17|06AA]Missile Brigade from 2012 
+[MH17|06AB]Bellingcat spent nearly one-and-a-half years
+[MH17|06AC]investigating Russia’s 53rd Anti-Aircraft 
+[MH17|06AD]Missle Brigade, whose Buk
+[MH17|06AE]downed MH17 in Ukraine.
+
+
+[MH17|06AF]With over 200 soldiers’ social
+[MH17|06B0]media  profiles identified,
+[MH17|06B1]it has been possible to
+[MH17|06B2]confirm the identity
+[MH17|06B3]and roles of many members
+[MH17|06B4]of the 53rd Brigade
+[MH17|06B5]and their involvement in
+[MH17|06B6]the June 23-25 convoy that
+[MH17|06B7]transported Buk  332
+[MH17|06B8]to the Russia-Ukraine border.
+
+
+[MH17|06B9]Fewer than four weeks
+[MH17|06BA]after the convoy
+[MH17|06BB]reached its destination, 
+[MH17|06BC]this Buk shot down MH17.
+
+
+[MH17|06BD]The 53rd Brigade is
+[MH17|06BE]made up of three battalions:
+[MH17|06BF]the 1st, 2nd,
+[MH17|06C0]and 3rd.
+
+
+[MH17|06C1]The 1st and 2nd Battalions
+[MH17|06C2]were active in
+[MH17|06C3]the summer of 2014,
+[MH17|06C4]while the 3rd Battalion was
+[MH17|06C5]used for training.
+
+
+[MH17|06C6]The 2nd Battalion was responsible
+[MH17|06C7]for the transport
+[MH17|06C8]of Buk 332,
+[MH17|06C9]which replaced the 2nd Battalion’s
+[MH17|06CA]missile launcher numbered 222 in
+[MH17|06CB]the convoy.
+
+
+[MH17|06CC]Command structure of
+[MH17|06CD]the 53rd Brigade,
+[MH17|06CE]including their  commander,
+[MH17|06CF]Sergey Muchkaev.
+
+
+[MH17|06D0]Identities of the officers 
+[MH17|06D1]has been concealed
+[MH17|06D2]for privacy.
+
+
+[MH17|06D3]Information regarding the commanders
+[MH17|06D4]and soldiers of
+[MH17|06D5]the 53rd Brigade
+[MH17|06D6]can be found in 
+[MH17|06D7]Bellingcat’s February 2016 report, Potential
+[MH17|06D8]Suspects and Witnesses from
+[MH17|06D9]the 53rd Anti- Aircraft
+[MH17|06DA]Missile Brigade.
+
+
+[MH17|06DB]A lengthier and
+[MH17|06DC]uncensored version of this report,
+[MH17|06DD]which reconstructed 
+[MH17|06DE]the leadership structure
+[MH17|06DF]of the brigade
+[MH17|06E0]and identified specific individuals
+[MH17|06E1]who were 
+[MH17|06E2]most likely in command
+[MH17|06E3]of Buk 332
+[MH17|06E4]and held decision-making power in
+[MH17|06E5]sending a Buk into 
+[MH17|06E6]Ukraine, was provided to
+[MH17|06E7]the Dutch-led Joint Investigation Team.
+
+
+[MH17|06E8]However, perhaps the
+[MH17|06E9]most well-known potential suspect
+[MH17|06EA]for the downing
+[MH17|06EB]of MH17 is Sergey 
+[MH17|06EC]“Khmury” Dubinsky, a veteran
+[MH17|06ED]of the Russian
+[MH17|06EE]Armed Forces who
+[MH17|06EF]served as the head
+[MH17|06F0]of  intelligence
+[MH17|06F1]for Igor “Strelkov” Girkin’s separatist
+[MH17|06F2]forces in 2014.
+
+
+[MH17|06F3]Sergey Dubinsky at
+[MH17|06F4]a February 18, 2016
+[MH17|06F5]meeting of the “Union 
+[MH17|06F6]of Donbass Volunteers,”
+[MH17|06F7]which was also
+[MH17|06F8]attended by Kremlin 
+[MH17|06F9]aide Vladislav Surkov 
+[MH17|06FA]Dubinsky operated under
+[MH17|06FB]the call-sign “Khmury”
+[MH17|06FC]while he was in
+[MH17|06FD]the Donbas, where he 
+[MH17|06FE]served under Igor Girkin,
+[MH17|06FF]spending most of his
+[MH17|0700]time in Sloviansk
+[MH17|0701]and Donetsk.
+
+
+[MH17|0702]The Ukrainian  Security
+[MH17|0703]Services (SBU) have
+[MH17|0704]published a number
+[MH17|0705]of intercepted telephone conversations 
+[MH17|0706]from July 17, 2014
+[MH17|0707]with Dubinsky (Khmury)
+[MH17|0708]speaking about organizing
+[MH17|0709]the transport 
+[MH17|070A]of a Buk through
+[MH17|070B]separatist-controlled territory.
+
+
+[MH17|070C]In the calls, he is
+[MH17|070D]listed as Sergey Nikolaevich 
+[MH17|070E]Petrovsky, reflecting his real
+[MH17|070F]first name and patronymic (Sergey
+[MH17|0710]Nikolaevich), and a 
+[MH17|0711]pseudonym he used
+[MH17|0712]while in the Donbas (Petrovsky).
+
+
+[MH17|0713]Screenshots from intercepted telephone conversations
+[MH17|0714]published 
+[MH17|0715]by the SBU 
+[MH17|0716]Throughout the intercepted calls, it
+[MH17|0717]is clear that Dubinsky is
+[MH17|0718]one of the key figures
+[MH17|0719]in the  procurement
+[MH17|071A]and transport of
+[MH17|071B]the Buk missile launcher that
+[MH17|071C]downed MH17.
+
+
+[MH17|071D]He tells the 
+[MH17|071E]separatist soldiers where to take
+[MH17|071F]the Buk, which fighters should
+[MH17|0720]be in the convoy
+[MH17|0721]with it, 
+[MH17|0722]and so on. Multiple sources
+[MH17|0723]have confirmed that this voice
+[MH17|0724]is indeed Dubinsky,
+[MH17|0725]including a  Novaya
+[MH17|0726]Gazeta investigation that
+[MH17|0727]cooperated with Swedish experts in
+[MH17|0728]audio and voice analysis.
+
+
+[MH17|0729]Sergey Dubinsky is
+[MH17|072A]currently living comfortably near Rostov,
+[MH17|072B]Russia.
+
+
+[MH17|072C]Sergey Dubinsky at his home
+[MH17|072D]in Rostov, Russia in 2016
+[MH17|072E]For additional information on Sergey
+[MH17|072F]Dubinsky and the Russia’s 53rd
+[MH17|0730]Anti-Aircraft Missile  Brigade,
+[MH17|0731]see the following investigations
+[MH17|0732]and articles:  
+[MH17|0733]• Bellingcat: Potential Suspects
+[MH17|0734]and Witnesses from
+[MH17|0735]the 53rd Anti-Aircraft Missile Brigade
+[MH17|0736]• Bellingcat: Origin
+[MH17|0737]of the Separatists’ Buk 
+[MH17|0738]• Bellingcat: The Role
+[MH17|0739]of Sergey Dubinsky in
+[MH17|073A]the Downing of MH17 
+[MH17|073B]• InformNapalm: Detailed information about
+[MH17|073C]general-major of the Russian Federation
+[MH17|073D]suspected  in
+[MH17|073E]the MH17 case 
+[MH17|073F]• Novaya Gazeta: “Hmuriy’s” Voice
+[MH17|0740]• What Happened to Flight
+[MH17|0741]MH17: Dutch TV:
+[MH17|0742]Seraching for Sergey Dubinsky 
+[MH17|0743]10  
+[MH17|0744]The Russian  Response:
+[MH17|0745]July 2014  
+[MH17|0746]Russian Ministry of Defense spokesperson
+[MH17|0747]at its July 21 press
+[MH17|0748]conference  
+[MH17|0749]In the three years
+[MH17|074A]since the downing
+[MH17|074B]of MH17, the Russian government
+[MH17|074C]and the 
+[MH17|074D]government-owned defense manufacturer Almaz-Antey
+[MH17|074E]have promoted a series
+[MH17|074F]of contradicting  claims.
+
+
+[MH17|0750]However, there is
+[MH17|0751]a common element in these
+[MH17|0752]claims -Ukraine, not Russia, 
+[MH17|0753]was responsible for
+[MH17|0754]the downing.
+
+
+[MH17|0755]The following two chapters
+[MH17|0756]will focus on those claims
+[MH17|0757]coming from entities
+[MH17|0758]with direct ties 
+[MH17|0759]to the Russian government,
+[MH17|075A]including state officials,
+[MH17|075B]state-owned companies, and state- 
+[MH17|075C]funded media outlets.
+
+
+[MH17|075D]This chapter will focus on
+[MH17|075E]the claims from Russia
+[MH17|075F]immediately after 
+[MH17|0760]the shootdown, with
+[MH17|0761]a focus on
+[MH17|0762]the Russian Ministry
+[MH17|0763]of Defense (MoD)‘s July 21
+[MH17|0764]press conference.
+
+
+[MH17|0765]Later Russian claims are
+[MH17|0766]considered in Chapter 11.
+
+
+[MH17|0767]Claims regarding MH17 from 
+[MH17|0768]sources that are
+[MH17|0769]not tied to
+[MH17|076A]the Russian government are
+[MH17|076B]discussed in Chapter 12.
+
+
+[MH17|076C]On July 21, 2014,
+[MH17|076D]the Russian MoD gave
+[MH17|076E]a press conference in
+[MH17|076F]which they presented
+[MH17|0770]a number 
+[MH17|0771]of claims on MH17, all
+[MH17|0772]of which proclaimed
+[MH17|0773]or implied Ukrainian guilt.
+
+
+[MH17|0774]While all of their 
+[MH17|0775]claims pointed towards Ukraine, there
+[MH17|0776]was little consistency between
+[MH17|0777]the claims, simultaneously 
+[MH17|0778]implying that Ukraine used
+[MH17|0779]a fighter jet
+[MH17|077A]and an anti-aircraft missile system
+[MH17|077B]to down 
+[MH17|077C]the passenger jet.
+
+
+[MH17|077D]In this press conference held
+[MH17|077E]four days after
+[MH17|077F]the tragedy, the Russian 
+[MH17|0780]MoD made four primary claims:
+[MH17|0781]• The video
+[MH17|0782]published by the Ukrainian Ministry
+[MH17|0783]of Interior showing
+[MH17|0784]a Buk in separatist- 
+[MH17|0785]controlled Luhansk from July 18,
+[MH17|0786]2014 was actually
+[MH17|0787]filmed in government-controlled Krasnoarmeysk 
+[MH17|0788]• MH17 changed its course
+[MH17|0789]significantly just before
+[MH17|078A]being shot down 
+[MH17|078B]• Radar imagery shows an
+[MH17|078C]aircraft that was close to
+[MH17|078D]MH17 shortly after it was
+[MH17|078E]shot down, implying 
+[MH17|078F]that this aircraft was
+[MH17|0790]a Ukrainian fighter jet (likely
+[MH17|0791]a Su-25)  •
+[MH17|0792]Satellite imagery shows Ukrainian Buk
+[MH17|0793]missile launchers missing from their
+[MH17|0794]base and  were
+[MH17|0795]deployed dozens of kilometers away
+[MH17|0796]in supposedly government-controlled territory 
+[MH17|0797]on July 17 in eastern
+[MH17|0798]Ukraine  All
+[MH17|0799]of these claims are demonstrably
+[MH17|079A]false, and in some cases
+[MH17|079B]included deliberately fabricated 
+[MH17|079C]evidence from the Russian Ministry
+[MH17|079D]of Defense.
+
+
+[MH17|079E]The first claim is tied
+[MH17|079F]to the Luhansk video,
+[MH17|07A0]which was detailed in Chapter
+[MH17|07A1]5 of this report.
+
+
+[MH17|07A2]While it has become an
+[MH17|07A3]indisputable fact that
+[MH17|07A4]the video was
+[MH17|07A5]filmed in Luhansk
+[MH17|07A6]since July  2014,
+[MH17|07A7]at the time
+[MH17|07A8]the matter was
+[MH17|07A9]not completely clear.
+
+
+[MH17|07AA]Russian Ministry of Defense spokesperson
+[MH17|07AB]General Igor Konashenkov explicitly
+[MH17|07AC]said that this video was
+[MH17|07AD]filmed in government- 
+[MH17|07AE]controlled Krasnoarmeysk, about 160 kilometers
+[MH17|07AF]from separatist-controlled Luhansk.
+
+
+[MH17|07B0]As  Konashenkov
+[MH17|07B1]said in the July 21
+[MH17|07B2]press conference:  
+[MH17|07B3]“For example, media
+[MH17|07B4]circulated a video supposedly
+[MH17|07B5]showing a Buk system
+[MH17|07B6]being moved  from
+[MH17|07B7]Ukraine to Russia.
+
+
+[MH17|07B8]This is clearly
+[MH17|07B9]a fabrication.
+
+
+[MH17|07BA]This video was
+[MH17|07BB]made in the 
+[MH17|07BC]town of Krasnoarmeisk,
+[MH17|07BD]as evidenced by
+[MH17|07BE]the billboard you see in
+[MH17|07BF]the background, 
+[MH17|07C0]advertising a car dealership at
+[MH17|07C1]34 Dnepropetrovsk Street.
+
+
+[MH17|07C2]Krasnoarmeisk 
+[MH17|07C3]has been controlled
+[MH17|07C4]by the Ukrainian military
+[MH17|07C5]since May 11.” 
+[MH17|07C6]Screenshot from the Russian MoD’s
+[MH17|07C7]July 21 press conference (top)
+[MH17|07C8]and  photograph taken
+[MH17|07C9]by a Luhansk local (bottom)
+[MH17|07CA]The Russian MoD’s evidence
+[MH17|07CB]for this claim was deliberately
+[MH17|07CC]fabricated, including an “address” 
+[MH17|07CD]supposedly on a billboard visible
+[MH17|07CE]in the Luhansk video.
+
+
+[MH17|07CF]According to the Russian 
+[MH17|07D0]MoD, there was text on
+[MH17|07D1]this billboard that
+[MH17|07D2]listed an address
+[MH17|07D3]for the Bogdan car dealership
+[MH17|07D4]at 
+[MH17|07D5]the address of Dnepropetrovskaya 34
+[MH17|07D6]in the government-controlled city
+[MH17|07D7]of Krasnoarmeysk.
+
+
+[MH17|07D8]However, soon after
+[MH17|07D9]the Luhansk video was published,
+[MH17|07DA]locals found the exact location
+[MH17|07DB]where it was filmed,
+[MH17|07DC]photographing this billboard.
+
+
+[MH17|07DD]A number of Ukrainian
+[MH17|07DE]and international  journalists
+[MH17|07DF]have visited the site
+[MH17|07E0]and verified that it is
+[MH17|07E1]the same as
+[MH17|07E2]the one seen in
+[MH17|07E3]the Buk  video.
+
+
+[MH17|07E4]As seen in
+[MH17|07E5]the bottom half
+[MH17|07E6]of the image above,
+[MH17|07E7]the text highlighted
+[MH17|07E8]by the Russian 
+[MH17|07E9]MoD does not exist.
+
+
+[MH17|07EA]Instead of an address in
+[MH17|07EB]Krasnoarmeysk (г.
+
+
+[MH17|07EC]Красноармейск, ул.
+
+
+[MH17|07ED]Днепропетровская, 34), the text on
+[MH17|07EE]the billboard actually says “National
+[MH17|07EF]autodealer”  (Нацiональний 
+[MH17|07F0]автодилер) in Ukrainian.
+
+
+[MH17|07F1]Nowhere on this billboard is
+[MH17|07F2]there any address 
+[MH17|07F3]for Krasnoarmeysk, rather there was
+[MH17|07F4]one elsewhere on
+[MH17|07F5]the billboard for
+[MH17|07F6]a location in Luhansk, 
+[MH17|07F7]meaning that the evidence
+[MH17|07F8]presented by the Russian MoD
+[MH17|07F9]was fabricated.
+
+
+[MH17|07FA]The Russian MoD’s
+[MH17|07FB]second claim was that MH17
+[MH17|07FC]took a significant change in
+[MH17|07FD]its course  shortly
+[MH17|07FE]before being shot down,
+[MH17|07FF]implying that Ukrainian air traffic
+[MH17|0800]controllers purposefully 
+[MH17|0801]guided the passenger plane into
+[MH17|0802]danger.
+
+
+[MH17|0803]At the July 21 press
+[MH17|0804]conference, the Russian MoD 
+[MH17|0805]presented the map below
+[MH17|0806]which supposedly shows
+[MH17|0807]the flight path
+[MH17|0808]of MH17.
+
+
+[MH17|0809]Alleged MH17 flight path from
+[MH17|080A]the July 21 press conference
+[MH17|080B]The Russian MoD gave
+[MH17|080C]the following description
+[MH17|080D]for this map
+[MH17|080E](provided times are
+[MH17|080F]for the  Moscow
+[MH17|0810]time zone, one hour ahead
+[MH17|0811]of local time in
+[MH17|0812]the Donbas):  
+[MH17|0813]“On the scheme you
+[MH17|0814]can see the international airway.
+
+
+[MH17|0815]The Boeing-777 was
+[MH17|0816]supposed to fly 
+[MH17|0817]on this airway.
+
+
+[MH17|0818]Draw your attention to
+[MH17|0819]the fact that
+[MH17|081A]the aircraft followed inside
+[MH17|081B]the specified  air-corridor
+[MH17|081C]to Donetsk, then it
+[MH17|081D]deviated from the route to
+[MH17|081E]north.
+
+
+[MH17|081F]Meanwhile the maximum 
+[MH17|0820]distance from the left border
+[MH17|0821]of the air-corridor was 14
+[MH17|0822]kilometers.
+
+
+[MH17|0823]Then we can see 
+[MH17|0824]that the Boeing-777
+[MH17|0825]turned back to
+[MH17|0826]the borders of
+[MH17|0827]the specified air-corridor.
+
+
+[MH17|0828]Nevertheless  Malaysian aircrew
+[MH17|0829]didn’t succeed the maneuver.
+
+
+[MH17|082A]At 17.20 we
+[MH17|082B]entered the event
+[MH17|082C]of the aircraft 
+[MH17|082D]rate reduction, at 17.23
+[MH17|082E]the aircraft’s point
+[MH17|082F]blinked off on
+[MH17|0830]the radar.
+
+
+[MH17|0831]Why did the aircraft 
+[MH17|0832]cross the border
+[MH17|0833]of the air-corridor? Was it
+[MH17|0834]the navigation mistake,
+[MH17|0835]or the aircrew 
+[MH17|0836]followed the Dnepropetrovsk ground control
+[MH17|0837]orders? We will find
+[MH17|0838]the answers after “black 
+[MH17|0839]boxes” and communication decoding.” 
+[MH17|083A]Section 2.1 of
+[MH17|083B]the Dutch Safety Board’s report
+[MH17|083C]answered the questions
+[MH17|083D]posed by the Russian 
+[MH17|083E]MoD, showing that MH17
+[MH17|083F]had been on
+[MH17|0840]a different course
+[MH17|0841]than that which was
+[MH17|0842]claimed in 
+[MH17|0843]the July 21 press conference
+[MH17|0844]and had not
+[MH17|0845]changed course in
+[MH17|0846]the way described in
+[MH17|0847]the Russian  MoD’s
+[MH17|0848]map.
+
+
+[MH17|0849]Unlike other parts
+[MH17|084A]of the Dutch Safety Board
+[MH17|084B]report, the Russian government 
+[MH17|084C]did not challenge
+[MH17|084D]the Dutch Safety Board’s claims
+[MH17|084E]regarding the flight path.
+
+
+[MH17|084F]In the image 
+[MH17|0850]below, we highlighted
+[MH17|0851]the maps provided
+[MH17|0852]by the Russian MoD to
+[MH17|0853]focus on the flight 
+[MH17|0854]paths provided in two Russian
+[MH17|0855]MoD press conferences -one in
+[MH17|0856]2014, and the other in
+[MH17|0857]2016.
+
+
+[MH17|0858]The supposed “significant change” in
+[MH17|0859]MH17’s flight path
+[MH17|085A]can be seen in
+[MH17|085B]the sharp turn towards 
+[MH17|085C]the northeast.
+
+
+[MH17|085D]There was a non-major change
+[MH17|085E]earlier in Ukraine due to
+[MH17|085F]weather.
+
+
+[MH17|0860]The  actual flight
+[MH17|0861]path, seen on
+[MH17|0862]the right, shows that this
+[MH17|0863]sharp turn towards
+[MH17|0864]the northeast never 
+[MH17|0865]took place, and MH17 was
+[MH17|0866]on a largely straight course
+[MH17|0867]at the time
+[MH17|0868]of the downing.
+
+
+[MH17|0869]The Russian MoD’s radar data
+[MH17|086A]from both July 21, 2014
+[MH17|086B]and September  26,
+[MH17|086C]2016.
+
+
+[MH17|086D]In the bottom-left,
+[MH17|086E]the supposed flight path
+[MH17|086F]of MH17 is shown 
+[MH17|0870]from the 2014 press conference.
+
+
+[MH17|0871]On the right, MH17’s flight
+[MH17|0872]path is 
+[MH17|0873]presented by the same Russian
+[MH17|0874]MoD in 2016,
+[MH17|0875]showing a completely 
+[MH17|0876]different path.
+
+
+[MH17|0877]The middle graphic shows
+[MH17|0878]the two paths overlaid, 
+[MH17|0879]illustrating the divergent paths 
+[MH17|087A]For the third claim in
+[MH17|087B]the July 21 press conference,
+[MH17|087C]the Russian MoD
+[MH17|087D]presented radar data 
+[MH17|087E]supposedly from the
+[MH17|087F]time immediately after MH17 was
+[MH17|0880]downed.
+
+
+[MH17|0881]In this radar data,
+[MH17|0882]a Russian  official
+[MH17|0883]claimed that a Ukrainian fighter
+[MH17|0884]jet was detected shortly
+[MH17|0885]after the downing
+[MH17|0886]of  MH17: 
+[MH17|0887]“Russian system of air control
+[MH17|0888]detected the Ukrainian Air Force
+[MH17|0889]aircraft, purposed Su-25, 
+[MH17|088A]moving upwards toward to
+[MH17|088B]the Malaysian Boeing-777.
+
+
+[MH17|088C]The distance between aircrafts 
+[MH17|088D]was 3-5 kilometers.” 
+[MH17|088E]Chief of Staff
+[MH17|088F]of the Air Force Lieutenant-General
+[MH17|0890]Igor Makushev was
+[MH17|0891]then invited to comment 
+[MH17|0892]on the radar data: 
+[MH17|0893]“The aircraft was steadily
+[MH17|0894]monitored by radar stations
+[MH17|0895]of Ust-Donetsk and Butirinskoe 
+[MH17|0896]during 4 minutes period.
+
+
+[MH17|0897]Air control officer
+[MH17|0898]having enquired the characteristics
+[MH17|0899]of newly 
+[MH17|089A]appeared aircraft couldn’t possibly
+[MH17|089B]get them because it is
+[MH17|089C]in all likelihood that
+[MH17|089D]the aircraft 
+[MH17|089E]had no secondary deduction system
+[MH17|089F]amounted on it,
+[MH17|08A0]which is put typically
+[MH17|08A1]for military aircraft.
+
+
+[MH17|08A2](...) The detection
+[MH17|08A3]of the aircraft
+[MH17|08A4]turned out to be possible
+[MH17|08A5]as the aircraft ascend it.”
+[MH17|08A6]However, radar experts were
+[MH17|08A7]interviewed by a number
+[MH17|08A8]of news organizations
+[MH17|08A9]who gave a different 
+[MH17|08AA]opinion, with Dutch NOS news
+[MH17|08AB]asking four experts to give
+[MH17|08AC]their opinions.
+
+
+[MH17|08AD]Comments  included, “it
+[MH17|08AE]is really impossible
+[MH17|08AF]for [it to be]
+[MH17|08B0]a fighter,” “no aircraft was
+[MH17|08B1]in the vicinity
+[MH17|08B2]of  flight MH17,″
+[MH17|08B3]“it seems likely that
+[MH17|08B4]the signals are
+[MH17|08B5]the wreckage of MH17,″ 
+[MH17|08B6]and “falling debris 
+[MH17|08B7]are the most likely explanation.”
+[MH17|08B8]The BBC documentary
+[MH17|08B9]The Conspiracy Files,
+[MH17|08BA]Who  Shot Down
+[MH17|08BB]MH17? included the former air
+[MH17|08BC]accident investigator David Gleave,
+[MH17|08BD]who stated:  
+[MH17|08BE]"I've seen a lot
+[MH17|08BF]of radar data in my
+[MH17|08C0]time as an investigator
+[MH17|08C1]and when aircraft break up
+[MH17|08C2]in  mid-air some
+[MH17|08C3]of the time they
+[MH17|08C4]can continue to transmit radar
+[MH17|08C5]data on the way down.
+
+
+[MH17|08C6]They  may well
+[MH17|08C7]change direction, because they've lost
+[MH17|08C8]the tail or
+[MH17|08C9]something like that,
+[MH17|08CA]so they  don't
+[MH17|08CB]the stability to carry on
+[MH17|08CC]in a straight line."
+
+
+[MH17|08CD]The Dutch Safety Board
+[MH17|08CE]also stated had “explicitly
+[MH17|08CF]ruled out…the presence
+[MH17|08D0]of military aircraft 
+[MH17|08D1]in the immediate vicinity
+[MH17|08D2]of flight MH17”
+[MH17|08D3]and “within 30km
+[MH17|08D4]of flight MH17
+[MH17|08D5]no (military)  aircraft
+[MH17|08D6]were present at
+[MH17|08D7]the time of
+[MH17|08D8]the crash.” Russia’s 2016 press
+[MH17|08D9]conference confirmed  this
+[MH17|08DA]finding.In other words, in 2014
+[MH17|08DB]Russia either misinterpreted
+[MH17|08DC]or fabricated the 
+[MH17|08DD]radar data presented in
+[MH17|08DE]the press conference.
+
+
+[MH17|08DF]The fourth and final claim
+[MH17|08E0]made by the Russian MoD
+[MH17|08E1]was in a set
+[MH17|08E2]of satellite imagery
+[MH17|08E3]showing  two Ukrainian
+[MH17|08E4]military bases and
+[MH17|08E5]a field outside
+[MH17|08E6]of the town
+[MH17|08E7]of Zaroshchenske at coordinates 
+[MH17|08E8]47.983031, 38.450387.
+
+
+[MH17|08E9]In two images shown
+[MH17|08EA]by the Russian MoD
+[MH17|08EB]of the A-1428 military 
+[MH17|08EC]base outside of Spartak, near
+[MH17|08ED]Donetsk, then controlled
+[MH17|08EE]by the Ukrainian
+[MH17|08EF]Armed Forces, 
+[MH17|08F0]a Buk missile launcher is
+[MH17|08F1]present on July 14, 2014,
+[MH17|08F2]then is gone on July
+[MH17|08F3]17, 2014.
+
+
+[MH17|08F4]The clear  implication
+[MH17|08F5]is that Ukraine
+[MH17|08F6]deployed this Buk missile launcher
+[MH17|08F7]and shot down MH17.
+
+
+[MH17|08F8]However, 
+[MH17|08F9]the satellite images
+[MH17|08FA]provided by the Russian MoD
+[MH17|08FB]are both misdated
+[MH17|08FC]and fabricated.
+
+
+[MH17|08FD]In the satellite image supposedly
+[MH17|08FE]taken on July 14,
+[MH17|08FF]a patch of vegetation is
+[MH17|0900]present on the 
+[MH17|0901]left part of
+[MH17|0902]the image.
+
+
+[MH17|0903]However, this patch
+[MH17|0904]of vegetation was already
+[MH17|0905]removed in June.
+
+
+[MH17|0906]Sections of the Russian MoD’s
+[MH17|0907]satellite imagery showing
+[MH17|0908]the positions 
+[MH17|0909]of a Buk missile launcher
+[MH17|090A]on July 14 (left)
+[MH17|090B]and July 17 (right) 
+[MH17|090C]Comparison of vegetation on Digital
+[MH17|090D]Globe satellite images,
+[MH17|090E]compared  to
+[MH17|090F]the July 14 image
+[MH17|0910]provided by the Russian MoD
+[MH17|0911](far-right)  
+[MH17|0912]This is not
+[MH17|0913]the only discrepancy between
+[MH17|0914]the satellite imagery
+[MH17|0915]published by the Russian 
+[MH17|0916]MoD and satellite imagery
+[MH17|0917]of the same location freely
+[MH17|0918]accessible on Google Earth.
+
+
+[MH17|0919]There is 
+[MH17|091A]also an area
+[MH17|091B]where patches of grass were
+[MH17|091C]worn away in May 2014,
+[MH17|091D]but regrew by July 17.
+
+
+[MH17|091E]In 
+[MH17|091F]the Russian MoD satellite imagery
+[MH17|0920]supposedly taken on July 14
+[MH17|0921]and 17, this area strongly
+[MH17|0922]resembles  satellite imagery
+[MH17|0923]taken on May 30,
+[MH17|0924]and looks nothing
+[MH17|0925]like that of July 17.
+
+
+[MH17|0926]Comparison of satellite imagery from
+[MH17|0927]Digital Globe of May 30,
+[MH17|0928]2014 with 
+[MH17|0929]the July 14
+[MH17|092A]and 17 imagery
+[MH17|092B]published by the Russian MoD
+[MH17|092C]Comparison of satellite imagery from
+[MH17|092D]Digital Globe of July 17,
+[MH17|092E]2014 with 
+[MH17|092F]the July 14
+[MH17|0930]and 17 imagery
+[MH17|0931]published by the Russian MoD
+[MH17|0932]The Russian MoD
+[MH17|0933]also published a satellite image
+[MH17|0934]supposedly taken outside
+[MH17|0935]of the village
+[MH17|0936]of  Zaroshchenske,
+[MH17|0937]showing two Buk missile launchers
+[MH17|0938]in a field on July
+[MH17|0939]17, 2014, at 11:32am.
+
+
+[MH17|093A]Before even considering
+[MH17|093B]the validity of
+[MH17|093C]the image, there is
+[MH17|093D]a clear issue
+[MH17|093E]with this timeline.
+
+
+[MH17|093F]Digital Globe satellite imagery from
+[MH17|0940]July 17, 2014, taken at
+[MH17|0941]11:08am local time, shows that
+[MH17|0942]the Buk missile launcher that
+[MH17|0943]supposedly left the base on
+[MH17|0944]the same day was
+[MH17|0945]still present.
+
+
+[MH17|0946]If  this missile
+[MH17|0947]launcher reached Zaroshchenske
+[MH17|0948]by 11:32am, as
+[MH17|0949]implied by the Russian MoD,
+[MH17|094A]it 
+[MH17|094B]would have had to travel
+[MH17|094C]over 70 kilometers in 24
+[MH17|094D]minutes, through separatist-controlled 
+[MH17|094E]territory.
+
+
+[MH17|094F]It is safe to state
+[MH17|0950]that neither this Buk
+[MH17|0951]or a truck
+[MH17|0952]carrying it could travel move
+[MH17|0953]at a 
+[MH17|0954]speed of over 150 kilometers
+[MH17|0955]per hour (93 mph) through
+[MH17|0956]separatist-controlled territory, not 
+[MH17|0957]even considering the
+[MH17|0958]time required to load
+[MH17|0959]and unload the vehicles.
+
+
+[MH17|095A]Satellite image provided
+[MH17|095B]by the Russian MoD near
+[MH17|095C]Zaroshchenske  
+[MH17|095D]Even if we give
+[MH17|095E]the Russian MoD some leeway
+[MH17|095F]and allow that these two
+[MH17|0960]Buks near Zaroshchenske 
+[MH17|0961]had nothing to
+[MH17|0962]do with the base A-1428
+[MH17|0963]base, there are plenty
+[MH17|0964]of other questions 
+[MH17|0965]surrounding this image.
+
+
+[MH17|0966]The forensic issues
+[MH17|0967]with this satellite image are
+[MH17|0968]explained 
+[MH17|0969]later in this chapter,
+[MH17|096A]while the question
+[MH17|096B]of what happened,
+[MH17|096C]or more specifically
+[MH17|096D]what did not 
+[MH17|096E]happen, in Zaroshchenske on July
+[MH17|096F]17, 2014 is
+[MH17|0970]answered the subsequent chapter.
+
+
+[MH17|0971]Clearly, there are some problems
+[MH17|0972]regarding when the satellite imagery
+[MH17|0973]provided by the Russian 
+[MH17|0974]MoD was taken,
+[MH17|0975]as geographical features point to
+[MH17|0976]the A-1428 images supposedly taken
+[MH17|0977]on July 14
+[MH17|0978]and 17 actually
+[MH17|0979]being from June.
+
+
+[MH17|097A]However, even if these features
+[MH17|097B]are discounted,  there
+[MH17|097C]are two professional analyses into
+[MH17|097D]the Russian MoD’s satellite images
+[MH17|097E]demonstrating  that they
+[MH17|097F]were fabricated and misdated.
+
+
+[MH17|0980]In Spring 2016 Bellingcat
+[MH17|0981]contacted the Geospatial Technologies Project
+[MH17|0982]at the American Association 
+[MH17|0983]for the Advancement
+[MH17|0984]of Science (AAAS)
+[MH17|0985]with a request to independently
+[MH17|0986]review 
+[MH17|0987]the satellite images
+[MH17|0988]provided by the Russian MoD
+[MH17|0989]on July 21, 2014.
+
+
+[MH17|098A]AAAS tasked two analysts 
+[MH17|098B]who each independently
+[MH17|098C]reviewed these images,
+[MH17|098D]and the AAAS
+[MH17|098E]responded to Bellingcat 
+[MH17|098F]with details of their findings.
+
+
+[MH17|0990]They found that
+[MH17|0991]the shadows of two objects
+[MH17|0992](seen below) on 
+[MH17|0993]the Russian MoD’s satellite images
+[MH17|0994]do not correspond
+[MH17|0995]with the given dates
+[MH17|0996]provided by Russia, 
+[MH17|0997]meaning that either
+[MH17|0998]the time, date,
+[MH17|0999]or both time
+[MH17|099A]and date of
+[MH17|099B]the satellite image are incorrect.
+
+
+[MH17|099C]Image highlighting the object used
+[MH17|099D]to measure solar azimuth 
+[MH17|099E]Additionally, on the
+[MH17|099F]second anniversary of
+[MH17|09A0]the MH17 downing, Jeffrey Lewis
+[MH17|09A1]and his colleagues 
+[MH17|09A2]at the James Martin Center
+[MH17|09A3]for Nonproliferation Studies at
+[MH17|09A4]the Middlebury Institute 
+[MH17|09A5]of International Studies
+[MH17|09A6]conducted a detailed forensic analysis
+[MH17|09A7]of the Russian MoD’s 
+[MH17|09A8]satellite imagery with
+[MH17|09A9]the tool Tungstène, originally
+[MH17|09AA]developed for the French Ministry
+[MH17|09AB]of  Defense.
+
+
+[MH17|09AC]Regarding the July 17 satellite
+[MH17|09AD]image of A-1428,
+[MH17|09AE]showing that a Ukrainian Buk
+[MH17|09AF]missile  launcher was
+[MH17|09B0]absent from the base, Lewis
+[MH17|09B1]and his colleagues found that:
+[MH17|09B2]“Even with the low quality
+[MH17|09B3]of the image, we
+[MH17|09B4]can assess this image to
+[MH17|09B5]have been so heavily 
+[MH17|09B6]manipulated that it lacks any
+[MH17|09B7]credibility as evidence.
+
+
+[MH17|09B8]These modifications involve
+[MH17|09B9]the alteration 
+[MH17|09BA]or addition of one,
+[MH17|09BB]and possibly both, clouds.
+
+
+[MH17|09BC]Russia should provide
+[MH17|09BD]the original, 
+[MH17|09BE]unaltered image to
+[MH17|09BF]the Joint Investigation Team
+[MH17|09C0]for examination.”  
+[MH17|09C1]A similar conclusion was
+[MH17|09C2]reached with the Zaroshchenske image.
+
+
+[MH17|09C3]In this image, Lewis
+[MH17|09C4]and  his colleagues
+[MH17|09C5]found that the two Buk
+[MH17|09C6]missile launchers in
+[MH17|09C7]the field were digitally added:
+[MH17|09C8]“There are a range
+[MH17|09C9]of explanations for
+[MH17|09CA]why the Buk surface-to-air missile
+[MH17|09CB]launchers might 
+[MH17|09CC]have been altered.
+
+
+[MH17|09CD]It is possible that they
+[MH17|09CE]were digitally manipulated in order
+[MH17|09CF]to look better.
+
+
+[MH17|09D0]It is also possible that
+[MH17|09D1]someone took a real image
+[MH17|09D2]of two Buk surface-to-air missile
+[MH17|09D3]launchers from some other image
+[MH17|09D4]and pasted it into
+[MH17|09D5]the satellite image
+[MH17|09D6]dated 17 July 
+[MH17|09D7]2014...
+
+
+[MH17|09D8]...Even with the low quality
+[MH17|09D9]of the image, we
+[MH17|09DA]can assess this image to
+[MH17|09DB]have been so heavily 
+[MH17|09DC]manipulated that it lacks any
+[MH17|09DD]credibility as evidence.
+
+
+[MH17|09DE]These modifications involve
+[MH17|09DF]the alteration 
+[MH17|09E0]or addition of
+[MH17|09E1]the two alleged Buk surface-to-air
+[MH17|09E2]missile launchers that Russia asserts
+[MH17|09E3]were present on
+[MH17|09E4]the day of
+[MH17|09E5]the shoot-down.”  
+[MH17|09E6]For additional information on
+[MH17|09E7]the Russian MoD’s July 21
+[MH17|09E8]press conference, please see
+[MH17|09E9]the 
+[MH17|09EA]following investigations and articles: 
+[MH17|09EB]• RT: Russian military unveil
+[MH17|09EC]data on MH17 incident
+[MH17|09ED]over Ukraine (FULL) 
+[MH17|09EE]• Bellingcat: The Russian Defence
+[MH17|09EF]Ministry Presents Evidence They
+[MH17|09F0]Faked Their Previous 
+[MH17|09F1]MH17 Evidence  •
+[MH17|09F2]Arms Control Wonk: MH17 Anniversary
+[MH17|09F3]11  
+[MH17|09F4]The Russian  Response:
+[MH17|09F5]After July  
+[MH17|09F6]The first Almaz-Antey presentation 
+[MH17|09F7]All four of
+[MH17|09F8]the primary claims
+[MH17|09F9]made by the Russian Ministry
+[MH17|09FA]of Defense during its July
+[MH17|09FB]21,  2014 press
+[MH17|09FC]conference were incorrect.
+
+
+[MH17|09FD]Since July 2014, there
+[MH17|09FE]has been a flurry
+[MH17|09FF]of claims  from
+[MH17|0A00]the Russian government,
+[MH17|0A01]state-funded media, and
+[MH17|0A02]the state-funded defense company 
+[MH17|0A03]Almaz-Antey, which manufactures Buk missiles.
+
+
+[MH17|0A04]Most famously, state-funded Russian television
+[MH17|0A05]channel Channel One
+[MH17|0A06]published an explosive 
+[MH17|0A07]report showing an
+[MH17|0A08]unearthed satellite image
+[MH17|0A09]depicting a fighter jet
+[MH17|0A0A]downing a passenger 
+[MH17|0A0B]jet.
+
+
+[MH17|0A0C]This segment aired on November
+[MH17|0A0D]14, 2014 on Mikhail Leontiev’s
+[MH17|0A0E]“Odnako” program, 
+[MH17|0A0F]and the findings were
+[MH17|0A10]immediately shared elsewhere on Russian
+[MH17|0A11]state-funded media, including 
+[MH17|0A12]its main news agency TASS.
+
+
+[MH17|0A13]Screenshot from Channel One program
+[MH17|0A14]showing “shoot down”
+[MH17|0A15]of MH17  
+[MH17|0A16]Screenshot of TASS article
+[MH17|0A17]covering the Channel One story
+[MH17|0A18]The “satellite image” was almost
+[MH17|0A19]instantly debunked.
+
+
+[MH17|0A1A]The jet was
+[MH17|0A1B]the wrong model,
+[MH17|0A1C]and the  two
+[MH17|0A1D]aircrafts were of
+[MH17|0A1E]the wrong scale
+[MH17|0A1F]by an exponential scale.
+
+
+[MH17|0A20]If the satellite was at
+[MH17|0A21]a normal  height
+[MH17|0A22]when taking this image, it
+[MH17|0A23]would have meant that
+[MH17|0A24]the Boeing passenger jet was
+[MH17|0A25]over 
+[MH17|0A26]a mile long,
+[MH17|0A27]with its length to scale
+[MH17|0A28]in the satellite image.
+
+
+[MH17|0A29]It turns out that
+[MH17|0A2A]the satellite image 
+[MH17|0A2B]was a crudely
+[MH17|0A2C]made fake posted on an
+[MH17|0A2D]online message board in October
+[MH17|0A2E]2014, which was 
+[MH17|0A2F]then turned into an “exclusive”
+[MH17|0A30]discovery by Mikhail Leontiev
+[MH17|0A31]and his news program.
+
+
+[MH17|0A32]Message board post
+[MH17|0A33]with the satellite image
+[MH17|0A34]later shared by Channel One
+[MH17|0A35]The Vice President
+[MH17|0A36]of the “Russian Union
+[MH17|0A37]of Engineers” told Leontiev that
+[MH17|0A38]“We can assume 
+[MH17|0A39]that the photograph was taken
+[MH17|0A3A]by an American
+[MH17|0A3B]or British satellite.
+
+
+[MH17|0A3C]We have studied
+[MH17|0A3D]the photograph  in
+[MH17|0A3E]detail and found
+[MH17|0A3F]nothing suggesting that it is
+[MH17|0A40]fake.”  
+[MH17|0A41]The state-owned Russian arms company,
+[MH17|0A42]Almaz-Antey, manufactures Buk missile systems,
+[MH17|0A43]and was directly
+[MH17|0A44]affected by sanctions
+[MH17|0A45]placed on Russia.
+
+
+[MH17|0A46]In response, this arms manufacturer
+[MH17|0A47]has given two inconsistent presentations
+[MH17|0A48]related to the downing, in
+[MH17|0A49]which two different 
+[MH17|0A4A]missiles types are
+[MH17|0A4B]presented as having
+[MH17|0A4C]downed MH17, and
+[MH17|0A4D]a flashy experiment in
+[MH17|0A4E]which 
+[MH17|0A4F]the position of
+[MH17|0A50]the missile was supposedly determined.
+
+
+[MH17|0A51]On June 2, 2015 Almaz-Antey
+[MH17|0A52]presented  evidence
+[MH17|0A53]claiming to show
+[MH17|0A54]the specific type
+[MH17|0A55]of missile used to shoot
+[MH17|0A56]down MH17 in 
+[MH17|0A57]Ukraine.
+
+
+[MH17|0A58]They were quoted
+[MH17|0A59]as stating:  
+[MH17|0A5A]“If a surface-to-air missile system
+[MH17|0A5B]was used [to hit
+[MH17|0A5C]the plane], it
+[MH17|0A5D]could only have been
+[MH17|0A5E]a  9M38M1 missile
+[MH17|0A5F]of the BUK-M1 system.
+
+
+[MH17|0A60](...) Production of BUK-M1 missiles
+[MH17|0A61]was  
+[MH17|0A62]discontinued in 1999, at
+[MH17|0A63]the same time Russia
+[MH17|0A64]passed all such missiles that
+[MH17|0A65]were left to international 
+[MH17|0A66]clients.”  
+[MH17|0A67]Comparison of surface to air
+[MH17|0A68]anti-aircraft missiles  
+[MH17|0A69]The clear implication was that
+[MH17|0A6A]the Buk missile used to
+[MH17|0A6B]shoot down MH17
+[MH17|0A6C]could have not 
+[MH17|0A6D]come from Russia.
+
+
+[MH17|0A6E]The most obvious visual difference
+[MH17|0A6F]between the 9M38M1 missile,
+[MH17|0A70]and 
+[MH17|0A71]the newer 9M317,
+[MH17|0A72]which was allegedly used, is
+[MH17|0A73]the length of
+[MH17|0A74]the fins, with
+[MH17|0A75]the 9M38M1 having 
+[MH17|0A76]longer fins, as visible above.
+
+
+[MH17|0A77]Despite these longer fins
+[MH17|0A78]being visible on Buk missiles
+[MH17|0A79]loaded onto launchers at Russia’s
+[MH17|0A7A]Victory  Day Parade
+[MH17|0A7B]in Chita, the Almaz-Antey’s head,
+[MH17|0A7C]Yan Novikov claimed “that
+[MH17|0A7D]only the  newer
+[MH17|0A7E]BUK-M2 systems with 9M317 missiles
+[MH17|0A7F]take part in modern parades,”
+[MH17|0A80]adding, “even  an
+[MH17|0A81]untrained eye can tell
+[MH17|0A82]the two apart.” Despite this
+[MH17|0A83]claim, internet users came across
+[MH17|0A84]numerous  images
+[MH17|0A85]of what seemed to be
+[MH17|0A86]9M38M1 missiles in military service
+[MH17|0A87]in Russia.
+
+
+[MH17|0A88]Reuters photographs taken on
+[MH17|0A89]a road near Kamensk-Shakhtinsky,
+[MH17|0A8A]dated August 16, 2014, 
+[MH17|0A8B]shows Russian military vehicles
+[MH17|0A8C]heading toward the town, close
+[MH17|0A8D]to the Ukrainian border.
+
+
+[MH17|0A8E]Trucks in the photographs are
+[MH17|0A8F]carrying a number
+[MH17|0A90]of missile crates,
+[MH17|0A91]and their markings give 
+[MH17|0A92]a clear indication
+[MH17|0A93]of their likely contents.
+
+
+[MH17|0A94]Magnified sections of photographs taken
+[MH17|0A95]at Kamensk-Shakhtinsky in 
+[MH17|0A96]August 2014 (Source -Reuters) 
+[MH17|0A97]These crates are
+[MH17|0A98]marked 9M38M1, and it was
+[MH17|0A99]also possible to identity two
+[MH17|0A9A]vehicles in the 
+[MH17|0A9B]Reuters’ photographs as
+[MH17|0A9C]being part of
+[MH17|0A9D]the June 23-25, 2014 53rd
+[MH17|0A9E]Brigade convoy transporting 
+[MH17|0A9F]Buk 332.
+
+
+[MH17|0AA0]It is also possible to
+[MH17|0AA1]identify missiles in videos
+[MH17|0AA2]of the 53rd Brigade convoy
+[MH17|0AA3]as 
+[MH17|0AA4]having the long tail fins
+[MH17|0AA5]associated with the 9M38M1 missile.
+
+
+[MH17|0AA6]In its two press conferences,
+[MH17|0AA7]Almaz-Antey has given two different,
+[MH17|0AA8]but similar, launch locations 
+[MH17|0AA9]for a 9M38M1 missile that
+[MH17|0AAA]downed MH17.
+
+
+[MH17|0AAB]Both are closest to
+[MH17|0AAC]the village of Zaroshchenske, 
+[MH17|0AAD]and while there is
+[MH17|0AAE]no documented pro-Russian military presence
+[MH17|0AAF]in the village 
+[MH17|0AB0]itself, the area south
+[MH17|0AB1]of the village was under
+[MH17|0AB2]pro-Russian control.
+
+
+[MH17|0AB3]In their July 21, 2014
+[MH17|0AB4]press conference, Russian MoD
+[MH17|0AB5]pointed to the
+[MH17|0AB6]first launch site
+[MH17|0AB7]proposed 
+[MH17|0AB8]by Almaz-Antey as
+[MH17|0AB9]evidenced in their
+[MH17|0ABA]fabricated satellite images
+[MH17|0ABB]showing Buk missile 
+[MH17|0ABC]launchers deployed in
+[MH17|0ABD]a field just outside
+[MH17|0ABE]of the village on July
+[MH17|0ABF]17, 2014.
+
+
+[MH17|0AC0]Almaz-Antey’s first proposed missile launch
+[MH17|0AC1]site, near Zaroshchenske 
+[MH17|0AC2]Before examining much
+[MH17|0AC3]of the evidence
+[MH17|0AC4]surrounding the claims
+[MH17|0AC5]of the Russian MoD
+[MH17|0AC6]and  Almaz-Antey,
+[MH17|0AC7]the most direct
+[MH17|0AC8]and obvious evidence should be
+[MH17|0AC9]considered: witness accounts 
+[MH17|0ACA]from the village
+[MH17|0ACB]of Zaroshchenske.
+
+
+[MH17|0ACC]While there are dozens
+[MH17|0ACD]of witness accounts, photographs, 
+[MH17|0ACE]and videos of
+[MH17|0ACF]a Buk missile launcher between
+[MH17|0AD0]Donetsk and Snizhne on July
+[MH17|0AD1]17, we 
+[MH17|0AD2]do not have
+[MH17|0AD3]a single witness account –
+[MH17|0AD4]reliable or otherwise –
+[MH17|0AD5]of a Buk missile launcher
+[MH17|0AD6]or  launch near
+[MH17|0AD7]Zaroshchenske on July 17.
+
+
+[MH17|0AD8]Multiple media outlets,
+[MH17|0AD9]including the Russian newspaper 
+[MH17|0ADA]Novaya Gazeta, the BBC,
+[MH17|0ADB]the Dutch television station NOS,
+[MH17|0ADC]and the German investigative 
+[MH17|0ADD]group Correct!v, all
+[MH17|0ADE]interviewed locals in
+[MH17|0ADF]and around Zaroshchenske –
+[MH17|0AE0]not a single person 
+[MH17|0AE1]saw or heard
+[MH17|0AE2]anything resembling a missile launch.
+
+
+[MH17|0AE3]These witness accounts alone
+[MH17|0AE4]go far in
+[MH17|0AE5]disputing the Russian Defence Ministry
+[MH17|0AE6]and Almaz- Antey accounts.
+
+
+[MH17|0AE7]However, if one believes that
+[MH17|0AE8]the witnesses were mistaken,
+[MH17|0AE9]or just  
+[MH17|0AEA]happened to miss
+[MH17|0AEB]a missile launch in their
+[MH17|0AEC]sleepy village that
+[MH17|0AED]had been largely
+[MH17|0AEE]untouched by  war,
+[MH17|0AEF]then there is additional evidence
+[MH17|0AF0]to consider.
+
+
+[MH17|0AF1]Satellite images captured on July
+[MH17|0AF2]16 and 21, 2014 show
+[MH17|0AF3]no signs of any track
+[MH17|0AF4]marks from 
+[MH17|0AF5]the movements of large vehicles
+[MH17|0AF6]or burn marks from missile
+[MH17|0AF7]launches at the site shown
+[MH17|0AF8]in 
+[MH17|0AF9]the Russian MoD satellite imagery.
+
+
+[MH17|0AFA]In addition, satellite imagery analysis
+[MH17|0AFB]by Dr. Jeffrey 
+[MH17|0AFC]Lewis using the Tungstene forensic
+[MH17|0AFD]imagery analysis software shows
+[MH17|0AFE]the Russian MoD imagery 
+[MH17|0AFF]of the area close to
+[MH17|0B00]Zaroshchenske are heavily modified,
+[MH17|0B01]with the Buk missile launchers
+[MH17|0B02]features apparently pasted into
+[MH17|0B03]the image (see page 56
+[MH17|0B04]for more details).
+
+
+[MH17|0B05]Russian MoD’s proposed missile launch
+[MH17|0B06]site, near Zaroshchenske 
+[MH17|0B07]In their September 28, 2016
+[MH17|0B08]press conference, the JIT
+[MH17|0B09]shared an intercepted telephone call
+[MH17|0B0A]between two separatist fighters
+[MH17|0B0B]discussing the town
+[MH17|0B0C]of Zaroshchenske.
+
+
+[MH17|0B0D]This call was
+[MH17|0B0E]made  on June
+[MH17|0B0F]2, 2015, on
+[MH17|0B10]the same day
+[MH17|0B11]as the Almaz-Antey press conference
+[MH17|0B12]in which this village 
+[MH17|0B13]was discussed as
+[MH17|0B14]the likely launch site
+[MH17|0B15]for a Ukrainian Buk missile
+[MH17|0B16]launch.
+
+
+[MH17|0B17]Throughout the  call,
+[MH17|0B18]the separatists discuss
+[MH17|0B19]how this village was
+[MH17|0B1A]not under Ukrainian control at
+[MH17|0B1B]the time, let 
+[MH17|0B1C]alone a potential launch location
+[MH17|0B1D]for a missile,
+[MH17|0B1E]as no one saw
+[MH17|0B1F]or heard anything happen.
+
+
+[MH17|0B20]These statements mirror
+[MH17|0B21]the witness accounts from residents
+[MH17|0B22]of Zaroshchenske, who were 
+[MH17|0B23]certain that there was
+[MH17|0B24]no missile launch near
+[MH17|0B25]the village on July 17,
+[MH17|0B26]2014.
+
+
+[MH17|0B27]Selection from the transcript
+[MH17|0B28]published by the JIT
+[MH17|0B29]showing the telephone 
+[MH17|0B2A]conversation between two separatists approximately
+[MH17|0B2B]a year after
+[MH17|0B2C]the 
+[MH17|0B2D]downing of MH17, in
+[MH17|0B2E]which the two men talk
+[MH17|0B2F]about Zaroshchenske  
+[MH17|0B30]The Almaz-Antey launch sites were
+[MH17|0B31]based on their estimation
+[MH17|0B32]of the terminal orientation
+[MH17|0B33]of 
+[MH17|0B34]the missile that
+[MH17|0B35]downed MH17.
+
+
+[MH17|0B36]The preceding paragraphs already
+[MH17|0B37]documented that there is 
+[MH17|0B38]no open source evidence
+[MH17|0B39]supporting these proposed launch sites.
+
+
+[MH17|0B3A]Furthermore, the estimated 
+[MH17|0B3B]terminal orientation calculated
+[MH17|0B3C]by Almaz-Antey strongly differs from
+[MH17|0B3D]the terminal  orientation
+[MH17|0B3E]estimate provided to
+[MH17|0B3F]the DSB;
+
+
+[MH17|0B40]moreover, the Almaz-Antey launch site
+[MH17|0B41]was considered  to
+[MH17|0B42]be the most unlikely scenario
+[MH17|0B43]considered by the experts
+[MH17|0B44]tasked by the DSB.
+
+
+[MH17|0B45]The overlapping counter-narratives
+[MH17|0B46]of the Russian MoD
+[MH17|0B47]and Almaz-Antey regarding
+[MH17|0B48]a  Ukrainian Buk
+[MH17|0B49]and a launch site near
+[MH17|0B4A]Zaroshchenske are nonsensical
+[MH17|0B4B]when considering  both
+[MH17|0B4C]direct and circumstantial evidence.
+
+
+[MH17|0B4D]From the start,
+[MH17|0B4E]the launch site itself was
+[MH17|0B4F]not controlled 
+[MH17|0B50]by Ukrainian forces on
+[MH17|0B51]the day of
+[MH17|0B52]the tragedy, and there are
+[MH17|0B53]no traces of
+[MH17|0B54]a missile  launch
+[MH17|0B55]in either witness accounts
+[MH17|0B56]or satellite evidence.
+
+
+[MH17|0B57]Along with the Russian
+[MH17|0B58]state-funded First Channel
+[MH17|0B59]and missile manufacturer Almaz-Antey, 
+[MH17|0B5A]the Russian Ministry
+[MH17|0B5B]of Foreign Affairs (MFA)
+[MH17|0B5C]has also issued questionable claims
+[MH17|0B5D]regarding 
+[MH17|0B5E]the downing of MH17.
+
+
+[MH17|0B5F]In particular, Bellingcat
+[MH17|0B60]initiated a correspondence
+[MH17|0B61]with the Russian 
+[MH17|0B62]MFA, leading to
+[MH17|0B63]a bizarre incident
+[MH17|0B64]of plagiarism and
+[MH17|0B65]recycled conspiracy theories.
+
+
+[MH17|0B66]On April 6, 2016 Russian
+[MH17|0B67]MFA spokesperson Maria Zakharova
+[MH17|0B68]made a statement about
+[MH17|0B69]the  work
+[MH17|0B6A]of Bellingcat, containing
+[MH17|0B6B]the allegation that
+[MH17|0B6C]“acting jointly with
+[MH17|0B6D]the current Ukrainian 
+[MH17|0B6E]authorities, they [Bellingcat] continue to
+[MH17|0B6F]use all possible ‘fakes,’ to
+[MH17|0B70]create quasi-evidence to 
+[MH17|0B71]blame Russia.” Bellingcat
+[MH17|0B72]contacted the Russian MFA
+[MH17|0B73]with a request
+[MH17|0B74]for clarification of this 
+[MH17|0B75]statement, along with any evidence
+[MH17|0B76]supporting it. The Russian MFA
+[MH17|0B77]responded that “when 
+[MH17|0B78]she mentioned a group
+[MH17|0B79]cooperating with the current Ukrainian
+[MH17|0B7A]Authorities, Maria Zakharova 
+[MH17|0B7B]did not refer to Bellingcat,
+[MH17|0B7C]but to the Joint Investigation
+[MH17|0B7D]Team investigating the MH17 
+[MH17|0B7E]tragedy in the skies
+[MH17|0B7F]over Ukraine.”  
+[MH17|0B80]Bellingcat responded, asking
+[MH17|0B81]the Russian MFA to clarify
+[MH17|0B82]they were accusing
+[MH17|0B83]the criminal investigation 
+[MH17|0B84]into the downing
+[MH17|0B85]of MH17 of
+[MH17|0B86]working with the Ukrainian authorities
+[MH17|0B87]and “using  all
+[MH17|0B88]possible fakes to create quasi-evidence.”
+[MH17|0B89]In response, the Russian MFA
+[MH17|0B8A]did not answer 
+[MH17|0B8B]the question, but rather sent
+[MH17|0B8C]a document with various attacks
+[MH17|0B8D]on Bellingcat’s work
+[MH17|0B8E]and the  open
+[MH17|0B8F]source evidence.
+
+
+[MH17|0B90]However, it quickly became apparent
+[MH17|0B91]that the Russian MFA
+[MH17|0B92]had plagiarized 
+[MH17|0B93]the criticism in
+[MH17|0B94]the document from
+[MH17|0B95]a popular pro-Kremlin blog, in
+[MH17|0B96]some cases copying 
+[MH17|0B97]entire paragraphs from
+[MH17|0B98]the original source
+[MH17|0B99]without citations.
+
+
+[MH17|0B9A]Since the July 21 press
+[MH17|0B9B]conference, the Russian MoD
+[MH17|0B9C]has only offered new radar
+[MH17|0B9D]data as  original
+[MH17|0B9E]evidence supporting their alternative narrative
+[MH17|0B9F]surrounding the downing
+[MH17|0BA0]of MH17 - 
+[MH17|0BA1]and even this evidence was
+[MH17|0BA2]in direct contradiction to other
+[MH17|0BA3]evidence that they
+[MH17|0BA4]have provided.
+
+
+[MH17|0BA5]For additional information on Russia’s
+[MH17|0BA6]state-sponsored response to
+[MH17|0BA7]the downing of MH17 
+[MH17|0BA8]after the July 21 press
+[MH17|0BA9]conference, please see
+[MH17|0BAA]the following investigations
+[MH17|0BAB]and articles:  
+[MH17|0BAC]• Bellingcat: Russian Ministry
+[MH17|0BAD]of Foreign Affairs Plagiarizes LiveJournal
+[MH17|0BAE]Posts in MH17 Response 
+[MH17|0BAF]• Bellingcat: Zaroshchens’ke Launch Site:
+[MH17|0BB0]Claims and Reality 
+[MH17|0BB1]• Bellingcat: Zaroshchens’ke Revisited: Almaz-Antey’s
+[MH17|0BB2]New Launch Areas 
+[MH17|0BB3]• Bellingcat: Revelations
+[MH17|0BB4]and Confirmations from
+[MH17|0BB5]the MH17 JIT Press Conference
+[MH17|0BB6]• Bellingcat: Evidence
+[MH17|0BB7]the Russian Military
+[MH17|0BB8]Supplied the Type
+[MH17|0BB9]of Missile Used to Shoot
+[MH17|0BBA]Down MH17  •
+[MH17|0BBB]Bellingcat: Quantum of Obfuscation 
+[MH17|0BBC]12  
+[MH17|0BBD]The Alternatives  
+[MH17|0BBE]Screenshot from segment
+[MH17|0BBF]filmed by Ukrainian Military TV
+[MH17|0BC0]showing a  Ukrainian
+[MH17|0BC1]Buk, aired on July 16,
+[MH17|0BC2]2014  
+[MH17|0BC3]Not all of
+[MH17|0BC4]the “alternative theories”
+[MH17|0BC5]regarding the downing
+[MH17|0BC6]of MH17 have been from
+[MH17|0BC7]official  Russian state
+[MH17|0BC8]organs, such as its defense
+[MH17|0BC9]companies, foreign ministry,
+[MH17|0BCA]and majority state- 
+[MH17|0BCB]owned media outlets.
+
+
+[MH17|0BCC]MH17 conspiracy theories
+[MH17|0BCD]have had a wide reach
+[MH17|0BCE]-for an idea
+[MH17|0BCF]of just 
+[MH17|0BD0]how popular they are, search
+[MH17|0BD1]for information about MH17 on
+[MH17|0BD2]YouTube, where many
+[MH17|0BD3]of the 
+[MH17|0BD4]most popular results are conspiracy
+[MH17|0BD5]theories.
+
+
+[MH17|0BD6]This report will
+[MH17|0BD7]not consider the
+[MH17|0BD8]more far- 
+[MH17|0BD9]fetched conspiracy theories, such
+[MH17|0BDA]as a report
+[MH17|0BDB]published by a Russian propagandist
+[MH17|0BDC]that the 
+[MH17|0BDD]United States planted
+[MH17|0BDE]a bomb on board MH17,
+[MH17|0BDF]or a range
+[MH17|0BE0]of theories tying
+[MH17|0BE1]the disappearance 
+[MH17|0BE2]of MH370 with
+[MH17|0BE3]the downing of MH17.
+
+
+[MH17|0BE4]Instead, this chapter
+[MH17|0BE5]will consider the
+[MH17|0BE6]more reasonable  ideas
+[MH17|0BE7]that deserve evidence-based consideration.
+
+
+[MH17|0BE8]One of the
+[MH17|0BE9]most common alternative theories about
+[MH17|0BEA]the downing of MH17 online
+[MH17|0BEB]is the  claim
+[MH17|0BEC]that a Ukrainian Buk
+[MH17|0BED]with the number 312 was
+[MH17|0BEE]responsible for the tragedy,
+[MH17|0BEF]and not  Russian
+[MH17|0BF0]Buk 332 of
+[MH17|0BF1]the 53rd Anti-Aircraft Missile Brigade.
+
+
+[MH17|0BF2]Much of this idea is
+[MH17|0BF3]rooted in a 
+[MH17|0BF4]mistake made by
+[MH17|0BF5]the SBU on July 19,
+[MH17|0BF6]2014, showing both
+[MH17|0BF7]the Buk that
+[MH17|0BF8]downed MH17 in Luhansk, 
+[MH17|0BF9]and a Buk
+[MH17|0BFA]numbered 312 being
+[MH17|0BFB]hauled by a
+[MH17|0BFC]similar-looking truck.
+
+
+[MH17|0BFD]Image shared by
+[MH17|0BFE]the SBU on July 19,
+[MH17|0BFF]2014.
+
+
+[MH17|0C00]On the top is Buk
+[MH17|0C01]332 in  Luhansk
+[MH17|0C02]on July 18,
+[MH17|0C03]and on the bottom is
+[MH17|0C04]Ukrainian Buk 312 on 
+[MH17|0C05]March 19, 2014 near Donetsk.
+
+
+[MH17|0C06]These Buks are completely different
+[MH17|0C07]and have little in common.
+
+
+[MH17|0C08]The Ukrainian Buk 312 was
+[MH17|0C09]filmed at the Yasinovatsky post,
+[MH17|0C0A]just north of Donetsk, Ukraine,
+[MH17|0C0B]on March 19, 2014.
+
+
+[MH17|0C0C]This  video was
+[MH17|0C0D]filmed while the Ukrainian
+[MH17|0C0E]Armed Forces were
+[MH17|0C0F]evacuating their military equipment 
+[MH17|0C10]during growing unrest in
+[MH17|0C11]the country’s east.
+
+
+[MH17|0C12]This Buk 312 was
+[MH17|0C13]transported to the airfield 
+[MH17|0C14]in Kramatorsk, where it was
+[MH17|0C15]later photographed and seen in
+[MH17|0C16]satellite images.
+
+
+[MH17|0C17]There is 
+[MH17|0C18]no evidence that Buk 312
+[MH17|0C19]was ever deployed anywhere near
+[MH17|0C1A]the frontline or in separatist-
+[MH17|0C1B]held territory at
+[MH17|0C1C]or near July 17, 2014.
+
+
+[MH17|0C1D]Another Ukrainian Buk in question
+[MH17|0C1E]is the one
+[MH17|0C1F]filmed during a segment
+[MH17|0C20]aired by Ukrainian 
+[MH17|0C21]Military TV on July 16,
+[MH17|0C22]2014 -the day
+[MH17|0C23]before the downing
+[MH17|0C24]of MH17.
+
+
+[MH17|0C25]In this video segment, 
+[MH17|0C26]Ukrainian equipment at an
+[MH17|0C27]undisclosed location “in
+[MH17|0C28]the ATO zone”
+[MH17|0C29](referring to the territory 
+[MH17|0C2A]of the Anti-Terrorist Operation) is
+[MH17|0C2B]shown, along with an interview
+[MH17|0C2C]with military officials.
+
+
+[MH17|0C2D]Many raised questions about this
+[MH17|0C2E]deployment of Buk anti-aircraft missile
+[MH17|0C2F]systems, especially 
+[MH17|0C30]considering the timing
+[MH17|0C31]of the video
+[MH17|0C32]and the downing
+[MH17|0C33]of MH17.
+
+
+[MH17|0C34]Buk systems in Dovhenke, Ukraine
+[MH17|0C35]from Ukrainian Military TV footage
+[MH17|0C36]In fact, this video was
+[MH17|0C37]filmed at the “Luna” military
+[MH17|0C38]camp at Dovhenke, about 130
+[MH17|0C39]kilometers  northwest
+[MH17|0C3A]of the MH17 crash site.
+
+
+[MH17|0C3B]The location is technically in
+[MH17|0C3C]the Kharkiv Oblast,
+[MH17|0C3D]putting  it quite
+[MH17|0C3E]a distance away from
+[MH17|0C3F]the frontline of
+[MH17|0C40]the conflict.
+
+
+[MH17|0C41]Therefore, there is
+[MH17|0C42]no evidence  that
+[MH17|0C43]the Buks in this television
+[MH17|0C44]segment had anything to
+[MH17|0C45]do with MH17,
+[MH17|0C46]as there are 
+[MH17|0C47]no indications that they were
+[MH17|0C48]deployed anywhere near
+[MH17|0C49]the MH17 crash site
+[MH17|0C4A]or separatist- 
+[MH17|0C4B]controlled territory.
+
+
+[MH17|0C4C]Map of the Ukrainian Buks
+[MH17|0C4D]at Dovhenke (top-left)
+[MH17|0C4E]and the MH17 crash
+[MH17|0C4F]and  launch site
+[MH17|0C50](bottom)  
+[MH17|0C51]A similar concern was
+[MH17|0C52]raised about photographs
+[MH17|0C53]shared on July 15, 2014
+[MH17|0C54]by a chaplain
+[MH17|0C55]of 
+[MH17|0C56]the Ukrainian Armed Forces.
+
+
+[MH17|0C57]He uploaded a handful
+[MH17|0C58]of photographs that
+[MH17|0C59]showed a Buk missile 
+[MH17|0C5A]launcher in a field,
+[MH17|0C5B]with a geotag that
+[MH17|0C5C]indicated that he was near
+[MH17|0C5D]the frontline in
+[MH17|0C5E]the  Donetsk Oblast.
+
+
+[MH17|0C5F]However, the photographs were
+[MH17|0C60]eventually geolocated: they were actually
+[MH17|0C61]taken at the Myrohorod military
+[MH17|0C62]base in the Poltava Oblast,
+[MH17|0C63]and the chaplain likely
+[MH17|0C64]uploaded 
+[MH17|0C65]the pictures onto Vkontakte
+[MH17|0C66]while he was near
+[MH17|0C67]the frontlines, automatically
+[MH17|0C68]adding a  geotag
+[MH17|0C69]for the location
+[MH17|0C6A]of the upload rather
+[MH17|0C6B]than where they were snapped.
+
+
+[MH17|0C6C]Additionally, there are numerous videos
+[MH17|0C6D]available showing the transport
+[MH17|0C6E]of Buks from 
+[MH17|0C6F]Ukraine’s 223rd Anti-Aircraft Regiment
+[MH17|0C70]and other military equipment to
+[MH17|0C71]the Myrhorod  base
+[MH17|0C72]in April 2014.
+
+
+[MH17|0C73]Photograph of a Buk missile
+[MH17|0C74]launcher uploaded by
+[MH17|0C75]a Ukrainian  chaplain
+[MH17|0C76]on July 15, 2014 
+[MH17|0C77]Satellite images of Buk systems
+[MH17|0C78]deployed at the Myhorod air
+[MH17|0C79]base, 
+[MH17|0C7A]including on August 2014 
+[MH17|0C7B]There is a common thread
+[MH17|0C7C]for these alternative scenarios
+[MH17|0C7D]for the downing
+[MH17|0C7E]of MH17: there is 
+[MH17|0C7F]only an isolated photograph
+[MH17|0C80]or video clip,
+[MH17|0C81]without greater contextual evidence
+[MH17|0C82]regarding  these Ukrainian
+[MH17|0C83]Buks.
+
+
+[MH17|0C84]With Russian Buk 332, there
+[MH17|0C85]is a wealth photographic
+[MH17|0C86]and video evidence 
+[MH17|0C87]placing the missile launcher in
+[MH17|0C88]Russia before the downing, in
+[MH17|0C89]Ukraine on July 17,
+[MH17|0C8A]and  satellite imagery
+[MH17|0C8B]of the convoy on July
+[MH17|0C8C]17, and launch site
+[MH17|0C8D]showing signs of
+[MH17|0C8E]a launch immediately 
+[MH17|0C8F]after the downing
+[MH17|0C90]of MH17.
+
+
+[MH17|0C91]With Ukrainian Buk 312,
+[MH17|0C92]or the ones in Myhorod
+[MH17|0C93]or  Dovhenke, there
+[MH17|0C94]is no additional evidence
+[MH17|0C95]of these systems
+[MH17|0C96]being present in
+[MH17|0C97]the Donbas on 
+[MH17|0C98]July 17, or satellite images
+[MH17|0C99]showing an accompanying convoy,
+[MH17|0C9A]or witness accounts about
+[MH17|0C9B]a  launch site
+[MH17|0C9C]or transport.
+
+
+[MH17|0C9D]In short, alternative theories
+[MH17|0C9E]regarding MH17 only exist
+[MH17|0C9F]as far as single photographs
+[MH17|0CA0]or videos 
+[MH17|0CA1]can be unexplained.
+
+
+[MH17|0CA2]As soon as they are
+[MH17|0CA3]explained, either through geolocation
+[MH17|0CA4]or putting 
+[MH17|0CA5]a reliable time
+[MH17|0CA6]and date to
+[MH17|0CA7]the material, there is
+[MH17|0CA8]no longer any link to
+[MH17|0CA9]MH17.
+
+
+[MH17|0CAA]For more information on alternative
+[MH17|0CAB]scenarios regarding the
+[MH17|0CAC]downing of MH17, please see
+[MH17|0CAD]these investigations and articles: 
+[MH17|0CAE]• Bellingcat: Photographs
+[MH17|0CAF]of Ukrainian Buks
+[MH17|0CB0]Geolocated in Poltava Oblast, Nearly
+[MH17|0CB1]Three  Years
+[MH17|0CB2]Later  • Bellingcat:
+[MH17|0CB3]Is this Ukrainian Buk
+[MH17|0CB4]a Clue in
+[MH17|0CB5]the MH17 Investigation
+[MH17|0CB6]or a Red Herring? 
+[MH17|0CB7]• Bellingcat: Ukrainian Buk Footage
+[MH17|0CB8]from July 16, 2014
+[MH17|0CB9]Geolocated  • Bellingcat:
+[MH17|0CBA]The Weird World
+[MH17|0CBB]of MH17 Conspiracy Theories 
+[MH17|0CBC]13  
+[MH17|0CBD]Conclusion  
+[MH17|0CBE]Based on available open source
+[MH17|0CBF]information, it is possible to
+[MH17|0CC0]draw the following conclusions 
+[MH17|0CC1]regarding the downing
+[MH17|0CC2]of MH17:  
+[MH17|0CC3]• Between June 23-25, 2014,
+[MH17|0CC4]Russia’s 53rd Anti-Aircraft Missile Brigade
+[MH17|0CC5]transported vehicles  within
+[MH17|0CC6]Russia to positions close to
+[MH17|0CC7]the Russian border
+[MH17|0CC8]with Ukraine.
+
+
+[MH17|0CC9]This includes  Buk
+[MH17|0CCA]332, later photographed
+[MH17|0CCB]and filmed in Ukraine on
+[MH17|0CCC]July 17 and 18, 2014.
+
+
+[MH17|0CCD]• On July 17, 2014,
+[MH17|0CCE]Buk 332 was in Ukraine,
+[MH17|0CCF]and arrived in Donetsk in
+[MH17|0CD0]the morning.
+
+
+[MH17|0CD1]From  there,
+[MH17|0CD2]while loaded onto red low-loader,
+[MH17|0CD3]it traveled eastwards through separatist-held
+[MH17|0CD4]territory, 
+[MH17|0CD5]and eventually reached
+[MH17|0CD6]the town of Snizhne in
+[MH17|0CD7]the early afternoon.
+
+
+[MH17|0CD8]• After arriving in Snizhne,
+[MH17|0CD9]Buk 332 was
+[MH17|0CDA]unloaded and drove under its
+[MH17|0CDB]own power southward, 
+[MH17|0CDC]out of town.
+
+
+[MH17|0CDD]• Buk 332
+[MH17|0CDE]arrived at a field south
+[MH17|0CDF]of Snizhne and
+[MH17|0CE0]fired a missile that
+[MH17|0CE1]resulted in the destruction 
+[MH17|0CE2]of flight MH17.
+
+
+[MH17|0CE3]• Buk 332 was
+[MH17|0CE4]next filmed traveling east through
+[MH17|0CE5]the separatist-controlled city
+[MH17|0CE6]of Luhansk  on
+[MH17|0CE7]the morning of July 18,
+[MH17|0CE8]2014 missing one missile.
+
+
+[MH17|0CE9]Intercepted communications indicate 
+[MH17|0CEA]that the missile launcher was
+[MH17|0CEB]taken into Russia shortly
+[MH17|0CEC]after this video was filmed.
+
+
+[MH17|0CED]• On July 21, 2014,
+[MH17|0CEE]the Russian MoD
+[MH17|0CEF]presented a series
+[MH17|0CF0]of fabricated and
+[MH17|0CF1]misleading information  about
+[MH17|0CF2]the flight path
+[MH17|0CF3]of MH17, radar data,
+[MH17|0CF4]the location of
+[MH17|0CF5]the July 18, 2014 Luhansk
+[MH17|0CF6]video, and the inclusion
+[MH17|0CF7]of misdated and heavily
+[MH17|0CF8]edited satellite imagery.
+
+
+[MH17|0CF9]• Almaz-Antey presented data that
+[MH17|0CFA]was not reflected
+[MH17|0CFB]by witness statements on
+[MH17|0CFC]the ground,  any
+[MH17|0CFD]open source information,
+[MH17|0CFE]or the technical assessments
+[MH17|0CFF]made by the DSB.
+
+
+[MH17|0D00]• No credible evidence
+[MH17|0D01]has been presented that shows
+[MH17|0D02]any operational Ukrainian Buk missile
+[MH17|0D03]launcher was near
+[MH17|0D04]a position in range
+[MH17|0D05]of downing MH17 on July
+[MH17|0D06]17, 2014.
+
+
+[MH17|0D07]• The only credible candidate
+[MH17|0D08]for the missile launcher that
+[MH17|0D09]downed MH17 is Russian Buk
+[MH17|0D0A]332, of the 53rd Anti-Aircraft
+[MH17|0D0B]Missile Brigade.
+
 
