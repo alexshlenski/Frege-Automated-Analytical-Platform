@@ -24,7 +24,7 @@ It works only from the **structured RCI profiles**  that you shouls upload to th
 
 > **Important:**  
 > **Only Kimi K2** (Moonshot AI) currently supports the prompt-controlled deterministic interpreter mode required by RCI.  
-> The latest modifications of GPT-5.x refuse to run it.
+> The latest modifications made by OpenAI to GPT-5.x lineage rendered it unusable for running RCI Interpreter.
 
 ---
 
