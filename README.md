@@ -4,8 +4,9 @@
 
 The **RCI Interpreter** is a deterministic analytical engine designed to operate entirely within an LLM (Large Language Model) session. It processes structured RCI profiles to extract actionable intelligence and support in‑depth analytical tasks.
 
-For a full architectural overview of the Renyxa Cognitive Inventory (RCI) and its analytical methodology, please refer to the  
-**[RCI Whitepaper](https://github.com/alexshlenski/Renyxa-Cognitive-Inventory/blob/main/docs/RCI-whitepaper.pdf).**
+For a full architectural overview of the Renyxa Cognitive Inventory (RCI) and its analytical methodology, please refer to the **[RCI Whitepaper](https://github.com/alexshlenski/Renyxa-Cognitive-Inventory/blob/main/docs/RCI-whitepaper.pdf).**   
+
+For brief review of analytical capabilities of the RCI framework please refer to the **[RCI OVerview](https://github.com/alexshlenski/Renyxa-Cognitive-Inventory/blob/main/docs/RCI-overview.pdf).**
 
 ---
 
