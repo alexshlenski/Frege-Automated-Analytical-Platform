@@ -114,7 +114,11 @@ Once you uploaded the KB files and the RCI Profile components, you can issue any
 
 # **Disclaimers**
 
-Renyxa Cognitive Inventory is in a continuous development phase, therefore periodical changes in logic and operations are possible. We will try to keep the documentation up to date.
+Renyxa Cognitive Inventory** is in a continuous development phase, therefore periodical changes in logic and operations are possible. We will try to keep the documentation up to date.
+
+The open-source specifications shared in this project give you the ability to perform full-fledged analysis of field grade RCI profiles derived from real-world HUMINT / OSINT documents. There are several canonical RCI profiles in the /demo folder for you to test the RCI Interpreter.
+
+However, if you try to use open-source specs to derive your own RCI profiles from field documents, the result would be semantically and logically incorrect and not admissible to the field analysis. The Project Owner bears no responsibility for such cases and any damages resulting by those attempts.
 
 ---
 
