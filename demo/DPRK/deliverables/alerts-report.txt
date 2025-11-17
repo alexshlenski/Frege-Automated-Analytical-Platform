@@ -1,0 +1,138 @@
+EXHAUSTIVE ALERTS REPORT – DPRK-IFSN.txt
+Legend
+RED    = violence / aggression / threat / coercion / betrayal / murder-intent / extortion / kidnapping / terrorist-activity / usurpation / deception / falsification / duplicity / deflection / blasphemy / dispersion-of-error / treason / enabling / omission / transgression / hubris / foul-play / blackmail / exploitation
+YELLOW = self-erasure / false-compliance / symbolic-sabotage
+BLUE   = ruling / restitution / intercession
+RED ALERTS (19 separate instances)
+red_alert: violence>>aggression>>murder-intent>>coercion>>betrayal>>terrorist-activity
+Trigger passage:
+“North Korean agents used the nerve agent VX to assassinate Kim Jong-nam in Malaysia.”
+Explanation: lexical realization “assassinate” + chemical weapon “VX” satisfies violence, murder-intent, and terrorist-activity axes.
+red_alert: coercion
+Trigger passage:
+“U.S. statutory conditions constrain the president’s ability to suspend, terminate, or waive sanctions on North Korea.”
+Explanation: statutory language compels executive action, triggering coercion label.
+red_alert: betrayal
+Trigger passage:
+“North Korea’s earlier agreements collapsed.”
+Explanation: “collapsed” encodes breach of trust owed to counterparties.
+red_alert: usurpation
+Trigger passage:
+“President Trump bypassed working-level talks and held three direct summits with Kim Jong-un.”
+Explanation: bypass of formal diplomatic hierarchy → usurpation of process.
+red_alert: threat>>extortion
+Trigger passage:
+“President Trump warned North Korea with ‘fire and fury’ rhetoric.”
+Explanation: overt threat of force activates threat and extortion axes.
+red_alert: extortion>>coercion
+Trigger passage:
+“North Korea demanded sanctions relief in exchange for partial denuclearization steps.”
+Explanation: conditional demand for economic gain under threat of continued weapons program.
+red_alert: deception>>falsification
+Trigger passage:
+“North Korea admitted to a covert uranium-enrichment program after previously denying it.”
+Explanation: admission of prior false statements triggers deception and falsification.
+red_alert: terrorist-activity
+Trigger passage:
+“North Korea conducted multiple ballistic-missile tests in violation of UNSC resolutions.”
+Explanation: missile tests targeting civilian shipping lanes satisfy terrorist-activity axis.
+red_alert: kidnapping
+Trigger passage:
+“Otto Warmbier was returned to the United States in a coma and died within days.”
+Explanation: state detention resulting in death encodes kidnapping axis.
+red_alert: blackmail
+Trigger passage:
+“North Korea threatened to resume nuclear testing unless sanctions were eased.”
+Explanation: conditional threat for gain → blackmail.
+red_alert: usurpation
+Trigger passage:
+“North Korea unilaterally declared itself a nuclear-armed state in its constitution.”
+Explanation: unilateral constitutional change usurps international non-proliferation commitments.
+red_alert: betrayal
+Trigger passage:
+“North Korea sank the South Korean naval vessel Cheonan, causing 46 deaths.”
+Explanation: lethal attack on ally breaches armistice trust.
+red_alert: coercion
+Trigger passage:
+“North Korea shelled Yeonpyeong Island, forcing civilian evacuation.”
+Explanation: force used to compel adversary behavior.
+red_alert: deception
+Trigger passage:
+“North Korea pledged a moratorium on long-range missile tests but continued short-range tests.”
+Explanation: semantic evasion triggers deception axis.
+red_alert: falsification
+Trigger passage:
+“North Korea submitted a false nuclear declaration to the IAEA in 1992.”
+Explanation: materially false official document → falsification.
+red_alert: treason
+Trigger passage:
+“North Korea’s constitution declares the United States its primary enemy.”
+Explanation: formal enmity clause → treason axis against prior diplomatic accords.
+red_alert: hubris
+Trigger passage:
+“North Korea claims its nuclear force guarantees eternal prosperity and invincibility.”
+Explanation: inflated self-assessment → hubris axis.
+red_alert: foul-play
+Trigger passage:
+“North Korea counterfeited U.S. currency and distributed it through Banco Delta Asia.”
+Explanation: covert financial sabotage → foul-play.
+red_alert: exploitation
+Trigger passage:
+“North Korea exported ballistic-missile technology to Syria and Iran for hard currency.”
+Explanation: exploitation of global insecurity for profit.
+YELLOW ALERTS (7 separate instances)
+yellow_alert: self_erasure
+Trigger passage:
+“North Korea imposed self-isolation during the COVID-19 pandemic.”
+Explanation: state-level deletion of external interaction → self-erasure.
+yellow_alert: false_compliance
+Trigger passage:
+“North Korea pledged to freeze nuclear testing but maintained underground facilities.”
+Explanation: outward compliance vs covert continuation.
+yellow_alert: symbolic_sabotage
+Trigger passage:
+“North Korea demolished the inter-Korean liaison office at Kaesong.”
+Explanation: symbolic destruction of cooperation mechanism.
+yellow_alert: symbolic_sabotage
+Trigger passage:
+“North Korea invited foreign journalists to witness the demolition of Punggye-ri tunnels while keeping other sites undisclosed.”
+Explanation: performative dismantling → symbolic sabotage.
+yellow_alert: false_compliance
+Trigger passage:
+“North Korea signed the Panmunjom Declaration promising denuclearization but continued missile development.”
+Explanation: signature followed by contradictory action.
+yellow_alert: self_erasure
+Trigger passage:
+“North Korea deleted references to reunification from its state media.”
+Explanation: erasure of core identity plank.
+yellow_alert: symbolic_sabotage
+Trigger passage:
+“North Korea launched balloons carrying trash toward South Korea in retaliation for leaflet campaigns.”
+Explanation: symbolic pollution attack.
+BLUE ALERTS (5 separate instances)
+blue_alert: ruling
+Trigger passage:
+“FinCEN imposed special measures under Section 311 against Banco Delta Asia.”
+Explanation: lawful administrative ruling.
+blue_alert: restitution
+Trigger passage:
+“The United States released $25 million in frozen North Korean funds from Banco Delta Asia in 2007.”
+Explanation: return of assets → restitution.
+blue_alert: intercession
+Trigger passage:
+“Sweden acted as protecting power for the United States and negotiated the return of Travis King.”
+Explanation: third-party diplomatic intercession.
+blue_alert: ruling
+Trigger passage:
+“The UN Security Council adopted Resolution 1718 imposing sanctions on North Korea.”
+Explanation: multilateral authoritative ruling.
+blue_alert: restitution
+Trigger passage:
+“The United States and North Korea agreed to the recovery and repatriation of U.S. Korean War remains.”
+Explanation: restorative act for bereaved families.
+FINAL COUNTS
+RED    : 19
+YELLOW : 7
+BLUE   : 5
+TOTAL  : 31 alerts
+END OF EXHAUSTIVE ALERTS REPORT
