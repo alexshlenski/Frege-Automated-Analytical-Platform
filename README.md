@@ -149,7 +149,7 @@ All builders must enforce:
 - Structural completeness  
 - Canonical identity reuse
 
-**Reference**: [https://github.com/open-frege/specification-v2.1](https://github.com/open-frege/specification-v2.1) *(spec repo placeholder)*
+**Reference**: [https://github.com/open-frege/specification-v2.1](https://github.com/alexshlenski/Frege-Automated-Analytical-Platform/blob/main/open-source/FREGE-open-source.txt)
 
 ---
 
