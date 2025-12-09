@@ -173,6 +173,6 @@ Where explanation is needed, FREGE provides clarity.
 
 ## License
 
-FREGE-2.1 and its specification are open-source under the [MIT License](LICENSE).
+FREGE-2.1 and its specification are open-source under the [MIT License](https://opensource.org/license/mit).
 
 ---
