@@ -24,7 +24,7 @@ Explore what FAAP can autonomously generate from unstructured text—complex tim
   <img src="https://img.shields.io/badge/View%20Actor%20Network%20Map-%23973cff?style=for-the-badge" />
 </a>
 
-<a href="https://raw.githubusercontent.com/alexshlenski/Frege-Automated-Analytical-Platform/main/deliverables/kimi-financial-schema.png">
+<a href="https://github.com/alexshlenski/Frege-Automated-Analytical-Platform/blob/main/demo/MOZAMBIQUE/deliverables/kimi-financial-schema.png">
   <img src="https://img.shields.io/badge/View%20Humanitarian%20Crisis%20Schema-%23e0005a?style=for-the-badge" />
 </a>
 
