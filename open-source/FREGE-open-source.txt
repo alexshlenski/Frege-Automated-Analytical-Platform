@@ -980,7 +980,7 @@ These connectors represent *pure surface discourse relations*. They NEVER imply 
 
 AND, OR, and NOT in CNJ block and AND, OR, NOT in LGK block are fundamentally different things.
 
-| CNJ                            | ROLE          | FROM→TO                         | Anchor (TO) is…  |
+| CNJ                            | ROLE          | FROM→TO                        | Anchor (TO) is… |
 |--------------------------------|---------------|---------------------------------|------------------|
 | and                            | conjunctive   | second_event → first_event      | first event      |
 | or                             | alternative   | alternative_event → anchor      | anchor event     |
@@ -1070,7 +1070,7 @@ If it describes habitual repeated event patterns, use LGK.
 6.6.10 Structural / Discourse
 ----------------------------
 
-| CNJ                        | ROLE      | FROM→TO                     | Anchor (TO) is…  |
+| CNJ                        | ROLE      | FROM→TO                     | Anchor (TO) is… |
 |----------------------------|-----------|-----------------------------|------------------|
 | first, next, then, finally | sequence  | later → earlier/previous    | previous step    |
 | anyway, in_any_case        | discourse | update → previous           | previous event   |
@@ -1566,6 +1566,37 @@ OBJ-BLOCK inside PLE:
   JBO>
 
 Semantics of OBJ are identical to EVT: SBJ --SLK--> OBJ.
+
+--------------------------------------------------------------
+6. DIRECT AND INDIRECT SPEECH AND QUOTATION
+--------------------------------------------------------------
+DSP-BLOCK::=
+  <DSP
+    DIR: YES | NO
+    SPK: e_speaker_id
+    ACT-BLOCK
+    EVT-BLOCK
+    [EVT-BLOCK]
+    [CPL-BLOCK]
+    [DSP-BLOCK]
+  SPD>
+
+Where
+DIR - direct speecj flag. YES means direct speech, NO - indirect speech
+e_speaker_id is the Entity ID of the speaker, declared in ENB block
+ACT-BLOCK is a regular ACT-BLOCK as in EVT block, where lemma is limited to verbs
+denoting direct speech like 
+say, shout, exclaim, ask, tell, order, write, etc.
+
+EVT-BLOCK or CPL-BLOCK is the encoded event or copula contained in the direct speech.
+Those are regular blocks, with the important semantic difference that those events or
+copulas were produced not by non-diegetic narrator of the source text but by the diegetic
+character.
+
+EVT-BLOCKs and CPL-BLOCK related to the direct speech are declared regularly 
+
+The nested DSP-BLOCK has the same structure and the same functions. It is unlikely to
+expect more than 3 nesting levels as in "I know that you know that I know".
 
 ======================================================================
 DUAL ENCODING STANDARD (VERBOSE MODE ↔ COMPACT MODE)
