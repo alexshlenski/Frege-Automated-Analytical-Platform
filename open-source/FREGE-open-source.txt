@@ -1,7 +1,3 @@
-======================================================================
-🔸FREGE 2.1 OFFICIAL OPEN-SOURCE SPECIFICATION
-======================================================================
-
 =======================================================================
 🔸 FREGE MAIN PRINCIPLE: ATTENTION-DRIVEN SEMANTIC DOMINANCE
 =======================================================================
@@ -930,7 +926,7 @@ Example:
 <EVT:id=E4
   <SBJ: e_bellingcat>
   <ACT:PAST:INDF:ACTV:IDCT:NIL:POS decide INF:film PRN:intention AGC:internal RLZ: projected>
-  <OBJ: e_documentary
+  <OBJ:1: e_documentary
        PRP=NIL
        SLK=has.object
   JBO>
@@ -944,13 +940,14 @@ TVE>
 OBJ block with entity, set, and formal entity parameter object: 
 
 OBJ-BLOCK ::=
-    <OBJ: nodeid
+    <OBJ:N: nodeid
        PRP=preposition_or_NIL
        SLK=semantic_link
     JBO>
 
 Where:
 
+  N ::= the ordinal number of the OBJ segment in the EVT block
   nodeid ::= e_* | s_* | f_*
   preposition_or_NIL ::= "lexical_preposition" | NIL  
   semantic_link ::= one SLK from unified kernel (§5.x)
@@ -969,19 +966,19 @@ SLK provides ◼canonical abstract semantics◼.
 Examples:
 
   Direct object (no preposition):
-    <OBJ: e_patient
+    <OBJ:1: e_patient
          PRP=NIL
          SLK=affects
     JBO>
 
   Prepositional complement:
-    <OBJ: e_childhood
+    <OBJ:1: e_childhood
          PRP="of"
          SLK=has.association
     JBO>
 
   Instrumental/means:
-    <OBJ: e_knife
+    <OBJ:1: e_knife
          PRP="with"
          SLK=uses.resource
     JBO>
@@ -1000,15 +997,15 @@ The maid went from the bedroom through the living room to the kitchen.
 
   <EVT:id=e_maid
     <ACT:PAST:INDF:ACTV:IDCT:NIL:POS go>
-    <OBJ: e_bedroom
+    <OBJ:1: e_bedroom
          PRP="from"
          SLK=spacial.direction
     JBO>
-    <OBJ: e_living_room
+    <OBJ:1: e_living_room
          PRP="through"
          SLK=spacial.direction
     JBO>
-    <OBJ: e_kitchen
+    <OBJ:1: e_kitchen
          PRP="to"
          SLK=spacial.direction
     JBO>
@@ -1016,19 +1013,19 @@ The maid went from the bedroom through the living room to the kitchen.
 
 Incorrect:
     <ACT:PAST:INDF:ACTV:IDCT:NIL:POS go>
-    <OBJ: e_bedroom
+    <OBJ:1: e_bedroom
 ...
     <ACT:PAST:INDF:ACTV:IDCT:NIL:POS go>
-    <OBJ: e_living_room
+    <OBJ:1: e_living_room
 ...
     <ACT:PAST:INDF:ACTV:IDCT:NIL:POS go>
-    <OBJ: e_kitchen
+    <OBJ:1: e_kitchen
 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 OBJ block with event pointer object (AKA propositional anaphora): 
 
 OBJ-BLOCK ::=
-    <OBJ: Ev_ID
+    <OBJ:1: Ev_ID
           PRP=preposition_or_NIL
           PTR=event_pointer
           SLK=semantic_link
@@ -1061,12 +1058,12 @@ Representation:
       <SBJ: e_smell>
       <ACT:PAST:INDF:ACTV:IDCT:NIL:POS remind>
 
-      <OBJ: e_Nathan
+      <OBJ:1: e_Nathan
            PRP=NIL
            SLK=affects
       JBO>
 
-      <OBJ: e_childhood
+      <OBJ:1: e_childhood
            PRP="of"
            SLK=has.association
       JBO>
@@ -1565,7 +1562,7 @@ BNE>
   <EVT:id=Ev_1
     <SBJ: f_agent>
     <ACT:PAST:INDF:ACTV:IDCT:NIL:POS submit>
-    <OBJ: e_report
+    <OBJ:1: e_report
          PRP=NIL
          SLK=has.object
     JBO>
@@ -1576,7 +1573,7 @@ FTQ>
 <EVT:id=Ev_2
   <SBJ: s_agents_late>
   <ACT:FUTR:INDF:ACTV:IDCT:NIL:POS receive>
-  <OBJ: e_notice
+  <OBJ:1: e_notice
        PRP=NIL
        SLK=receives
   JBO>
@@ -1628,7 +1625,7 @@ BNE>
   <EVT:id=E1
     <SBJ: f_dog>
     <ACT:PAST:INDF:ACTV:IDCT:NIL:POS lose>
-    <OBJ: e_tail
+    <OBJ:1: e_tail
          PRP=NIL
          SLK=loses
     JBO>
@@ -1638,7 +1635,7 @@ BNE>
   <EVT:id=E2
     <SBJ: f_dog>
     <ACT:PAST:INDF:PSSV:IDCT:NIL:POS bite_off>
-    <OBJ: e_ear
+    <OBJ:1: e_ear
          PRP=NIL
          SLK=affected
     JBO>
@@ -1651,7 +1648,7 @@ FTQ>
 <EVT:id=E3
   <SBJ: e_order>
   <ACT:PAST:PERF:PSSV:IDCT:NIL:POS establish INF:award PRN:preparation AGC:internal RLZ:projected>
-  <OBJ: s_dogs
+  <OBJ:1: s_dogs
        PRP=NIL
        SLK=recipient
   JBO>
@@ -1685,7 +1682,7 @@ ENT>
   <EVT: id=E1
     <SBJ: f_op>
     <ACT: PST:INDF:ACTV:IDCT:NIL:POS participate>
-    <OBJ: e_desert_op
+    <OBJ:1: e_desert_op
          PRP=NIL
          SLK=participates_in
     JBO>
@@ -1702,7 +1699,7 @@ QTF>
   <EVT: id=E2
     <SBJ: f_exp>
     <ACT: PST:INDF:ACTV:IDCT:NIL:POS have>
-    <OBJ: e_experience
+    <OBJ:1: e_experience
          PRP=NIL
          SLK=has
     JBO>
@@ -1712,7 +1709,6 @@ QTF>
 <EVT: id=E3
   <SBJ: s_operatives>
   <ACT: PST:PERF:PSSV:IDCT:NIL:POS train>
-  <OBJ: NIL>
   <BY: x_expert>
 EVT>
 
@@ -1761,7 +1757,7 @@ QTF>
   <EVT:id=E1
     <SBJ:f_emp>
     <ACT:PRST:INDF:ACTV:IDCT:NIL:NEG have>
-    <OBJ:x_mgr
+    <OBJ:1:x_mgr
          PRP=NIL
          SLK=has
     JBO>
@@ -1778,7 +1774,7 @@ BRC>
   <SBJ:s_employees>
   <ACT:PRST:INDF:ACTV:IDCT:NIL:POS report>
   <CRA:c_directly CLS:manner>
-  <OBJ:e_vp
+  <OBJ:1:e_vp
        PRP=to
        SLK=reports_to
   JBO>
@@ -1848,7 +1844,7 @@ Where:
 
 OBJ-BLOCK inside PLE:
 
-  <OBJ: nodeid
+  <OBJ:1: nodeid
        PRP=preposition_or_NIL
        SLK=semantic_link
   JBO>
@@ -1956,8 +1952,8 @@ BRC>
     <EVT:id=E2
       <SBJ: t_God>
       <ACT:FUTR:INDF:ACTV:IDCT:NIL:NEG eat>
-      <OBJ: t_any_tree PRP="of" SLK=affected JBO>
-      <OBJ: e_garden PRP="of" SLK=scope JBO>
+      <OBJ:1: t_any_tree PRP="of" SLK=affected JBO>
+      <OBJ:2: e_garden PRP="of" SLK=scope JBO>
     TVE>
   RMD>
 
@@ -1978,13 +1974,13 @@ RMD>
     <EVT:id=E5
       <SBJ: t_you>
       <ACT:FUTR:INDF:ACTV:IMPR:NIL:NEG eat>
-      <OBJ: e_fruit_forbidden PRP=of SLK=affected JBO>
+      <OBJ:1: e_fruit_forbidden PRP=of SLK=affected JBO>
     TVE>
 
     <EVT:id=E6
       <SBJ: t_you>
       <ACT:FUTR:INDF:ACTV:IMPR:NIL:NEG touch>
-      <OBJ: e_fruit_forbidden PRP=NIL SLK=affected JBO>
+      <OBJ:1: e_fruit_forbidden PRP=NIL SLK=affected JBO>
       <CRA: c_lest_die CLS: prevention>
     TVE>
 
@@ -2030,8 +2026,8 @@ Example:
     <EVT:id=E1
         <SBJ:e_smell>
         <ACT:PAST:NIL:ATV:IDCT:NIL:POS remind>
-        <OBJ:e_Nathan PRP=NIL SLK=affects JBO>
-        <OBJ:e_childhood PRP="of" SLK=has.association JBO>
+        <OBJ:1:e_Nathan PRP=NIL SLK=affects JBO>
+        <OBJ:2:e_childhood PRP="of" SLK=has.association JBO>
     TVE>
 
 MANDATORY RULE:
@@ -2058,7 +2054,7 @@ Characteristics:
     ✓ ideal for storage, indexing, and search
 
 Example:
-[WGNR|00CF]<ENB: ID: e_sample surface: "This sample" NS: dom.intelligence.datasetBNE><ENB: ID: e_individuals surface: "all individuals who submitted details to the fake military contractor" NS: dom.human.populationBNE><ENB: ID: e_contractor surface: "the fake military contractor" NS: dom.military.organizationBNE><ENB: ID: e_mercenaries surface: "every mercenary arrested in Minsk by Belarusian security" NS: dom.military.personnelBNE><ENB: ID: e_Minsk surface: "Minsk" NS: dom.geography.cityBNE><ENB: ID: e_Belarus_security surface: "Belarusian security" NS: dom.national.securityBNE><ENB <ENB: ID: e_portion surface: "roughly 40 percent of all individuals who submitted details to the fake military contractor" NS: dom.statistics.coverage BNE> CSV>BNE> <EVT:id=E1 <SBJ: e_individuals> <ACT:PAST:INDF:ACTV:IDCT:NIL:POS submit> <OBJ: e_contractor PRP=to SLK=recipient JBO> <OBJ: NIL PRP=NIL SLK=submits JBO>TVE><EVT:id=E2 <SBJ: e_sample> <ACT:PAST:INDF:ACTV:IDCT:NIL:POS cover> <OBJ: e_portion PRP=NIL SLK=covers JBO>TVE><EVT:id=E3 <SBJ: e_Belarus_security> <ACT:PAST:INDF:ACTV:IDCT:NIL:POS arrest> <OBJ: e_mercenaries PRP=NIL SLK=affects JBO> <OBJ: e_Minsk PRP=in SLK=location JBO>TVE><EVT:id=E4 <SBJ: e_sample> <ACT:PAST:INDF:ACTV:IDCT:NIL:POS encompass> <OBJ: e_mercenaries PRP=NIL SLK=includes JBO>TVE><CNJ E2 E1 "who" explanatory JNC><CNJ E4 E3 "arrested in" explanatory JNC>
+[WGNR|00CF]<ENB: ID: e_sample surface: "This sample" NS: dom.intelligence.datasetBNE><ENB: ID: e_individuals surface: "all individuals who submitted details to the fake military contractor" NS: dom.human.populationBNE><ENB: ID: e_contractor surface: "the fake military contractor" NS: dom.military.organizationBNE><ENB: ID: e_mercenaries surface: "every mercenary arrested in Minsk by Belarusian security" NS: dom.military.personnelBNE><ENB: ID: e_Minsk surface: "Minsk" NS: dom.geography.cityBNE><ENB: ID: e_Belarus_security surface: "Belarusian security" NS: dom.national.securityBNE><ENB <ENB: ID: e_portion surface: "roughly 40 percent of all individuals who submitted details to the fake military contractor" NS: dom.statistics.coverage BNE> CSV>BNE> <EVT:id=E1 <SBJ: e_individuals> <ACT:PAST:INDF:ACTV:IDCT:NIL:POS submit> <OBJ:1: e_contractor PRP=to SLK=recipient JBO> <OBJ:2: NIL PRP=NIL SLK=submits JBO>TVE><EVT:id=E2 <SBJ: e_sample> <ACT:PAST:INDF:ACTV:IDCT:NIL:POS cover> <OBJ:1: e_portion PRP=NIL SLK=covers JBO>TVE><EVT:id=E3 <SBJ: e_Belarus_security> <ACT:PAST:INDF:ACTV:IDCT:NIL:POS arrest> <OBJ:1: e_mercenaries PRP=NIL SLK=affects JBO> <OBJ:2: e_Minsk PRP=in SLK=location JBO>TVE><EVT:id=E4 <SBJ: e_sample> <ACT:PAST:INDF:ACTV:IDCT:NIL:POS encompass> <OBJ:1: e_mercenaries PRP=NIL SLK=includes JBO>TVE><CNJ E2 E1 "who" explanatory JNC><CNJ E4 E3 "arrested in" explanatory JNC>
 
 MANDATORY:
 Empty lines between FSP lines are strictly forbidden!
@@ -2144,4 +2140,3 @@ unambiguous start/end tags.
 
 This design maintains reversibility, syntactic safety, and maximal
 efficiency without sacrificing the expressiveness of the FREGE-2.1 graph.
-
