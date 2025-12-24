@@ -22,7 +22,7 @@ Tip: Open the extra large diagrams in a separate tab and zoom in.
   <img src="https://img.shields.io/badge/View%20Causal%20Intervention%20Graph-%23ff8800?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/alexshlenski/Frege-KR-standard/main/demo/GENESIS/deliverables/network-connections.png">
+<a href="https://github.com/alexshlenski/Frege-KR-standard/blob/main/demo/GENESIS/deliverables/network-connections.png">
   <img src="https://img.shields.io/badge/View%20Actor%20Network%20Map-%23973cff?style=for-the-badge" />
 </a>
 
