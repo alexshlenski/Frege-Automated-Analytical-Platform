@@ -1,3 +1,38 @@
+=======================================================================
+🔸 FREGE MAIN PRINCIPLE: ATTENTION-DRIVEN SEMANTIC DOMINANCE
+=======================================================================
+
+All semantic links in this matrix obey a single global invariant called
+the “Attention-Driven Semantic Dominance”.
+
+Definition:
+Every directed semantic link X → Y MUST be oriented from the
+semantically dominant term (the figure, focus, controller, governor,
+or grounding reference) toward the semantically dependent term
+(the ground, affected, constrained, referenced, or contextual frame).
+
+Dominance is NOT uniform; it is determined locally by the relation family:
+
+• Causality            → ontological dominance (cause → effect)
+• Agency / Function    → functional dominance (agent → target)
+• Mereology            → structural dominance (whole → part)
+• Abstraction          → ontological grounding (type → instance)
+• Spatial relations    → attentional dominance (figure → ground)
+• Temporal relations   → attentional dominance (focused event → reference event)
+• Discourse (CNJ)      → rhetorical dominance (anchor → satellite)
+
+Important:
+– Size, power, enclosure, or physical magnitude do NOT determine direction.
+– Attention / focus ALWAYS overrides ontological intuition where applicable.
+– Passive, inverse, or “_by” relations are forbidden.
+– Relation names NEVER encode inversion; direction alone carries asymmetry.
+– Allen relations are NOT exceptions: their selection and orientation
+  are governed by attentional focus, not by time itself.
+
+This invariant is global and mandatory.
+Violations correspond to irony, absurdity, metaphor, or error and MUST
+NOT appear in canonical representations.
+
 ======================================================================
 🔸 FREGE IDENTIFIERS
 ======================================================================
@@ -51,6 +86,7 @@ acp - accompaniment
 dgr - degree
 evd - evidential
 pst - perspectival
+prb - probabilistic
 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 Attribute   | Identifier format | Declaration block | 
@@ -72,13 +108,15 @@ Event       | Identifier format | Declaration block |
 Declarative      Ev_*                EVT
 Question         Eq_*                EVQ
 Subjunctive      Es_*                EVS
+Projected        Ep_*                EVP
 
 No subtypes
 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-Set             | Identifier format | Declaration block | 
+Quantified      | Identifier format | Declaration block |
+Collection      |                   |                   |
 ======================================================================
-Always specific  s_<sbt>_*           EVT
+Always specific  q_<sbt>_*           QCL
 
 Same subtypes as Entity.
  
@@ -152,7 +190,6 @@ knowledge.
   ENT-ID: e_s_<sbt>_* | NOM-ID: n_s_<sbt>_*
   SURFACE: <surface syntagm>
   NS: axis1.axis2
-  QT: each | every | all | some | most | few | ... // optional segment, only if the entity has quantifiers
   MSE:
       u_1: MSE_Unit_1 : semantic_role
       u_2: MSE_Unit_2 : semantic_role
@@ -182,7 +219,7 @@ desire to fly to Vegas
 dream of becoming a waitress
 
 ------------------------------------------------------------------
-4.5. ENB — Entity Declaration Rules
+ENB — Entity Declaration Rules
 ------------------------------------------------------------------
 
 If surface segment is a single word or a fixed expression, ENB block should
@@ -260,8 +297,7 @@ ENT-IDs and NOM-IDs declared by ENB blocks are fully qualified logical nodes.
 
 They may appear in:
 
-• SBJ or OBJ of EVT, RTN, or CPL
-• membership lists of SET and QTF
+• SBJ or OBJ of EVT, or CPL
 • in MSE blocks
 • LNK edges of nesting blocks
 
@@ -318,19 +354,172 @@ BNE>
 BNE>
 
 ======================================================================
+🔸 QCL block - Quantified Collection
+======================================================================
+
+Declaration Rules:
+
+• QCL declares a collection as a plural semantic referent exported by the 
+  surface. 
+
+• QCL does not add any extra semantics to the one exported by the surface 
+  nor it defines enumerable membership or cardinality resolution.
+
+• Quantifier phrase in QCL is surface bound, its meaning is decomposed and 
+  described by MSE/LNK microsemantic segments.
+
+• singular object parameter accepted by ELM must be either a generic entity
+  or be previously declared by ENT block.
+
+Formal syntax:
+
+<QCL 
+  QCL-ID: q_*
+  ELM: e_* | n_*
+  QTF-SRF: <quantifier surface syntagm>
+  MSE:
+      u_1: MSE_Unit_1 : semantic_role
+      u_2: MSE_Unit_2 : semantic_role
+      ...
+      u_N: MSE_Unit_N : semantic_role
+  LNK:
+      u_N: SLK_link: u_M
+      ...
+      u_K: SLK_link: u_L
+LCQ>
+
+======================================================================
+🔸 ALC Block — Allocation of Collection
+======================================================================
+
+ALC block allocates a quantified collection of entites or nominalizations and
+exposes the allocated collection to:
+
+• an arbitrary group event (an event that occurs with each element of the collection).
+• a distribution event (the event that distributes all or part of the collection).
+
+Example:
+
+1. 1000 microchips where stored in the storage room A. 
+
+we declared the collection:
+
+2. Out of those microchips the stock manager moved a half to the storage room B. 
+
+we created the first allocation "Out of those microchips" that allocates the
+collection to the first distribution event.
+
+3. Out of the quantity that remained in storage room A and was re-counted by the
+   manager, 100 microchips were packed and shipped to the customer.
+
+we created a second collection, which is a the remaining of the first collection
+and created the second allocation "From the remaining quantity" that allocates 
+that second collection to:
+
+first arbitrary event: "remained" -- linked by complementizer "that"
+second arbitrary event: "re-counted" -- linked to the first event by "and", and
+via this "and" the valency of "that" reaches the second arbitrary event.
+  
+----------------------------------------------------------------------
+Formal syntax
+----------------------------------------------------------------------
+
+<ALC
+  ALC-ID: Al_*
+  SURFACE: <surface syntagm>  
+  APH: for | per | out_of | among | within | across | throughout | ... // allocation phrase
+  CLN: q_*   // collection of entities or nominalizations
+CLA>
+
+APH is an open but restricted class.
+ALC is licensed only if APH creates a clear an unambiguous allocation of the
+collection to the subsequent event.
+Collection q_* must be previously declared by QCL block.
+
+----------------------------------------------------------------------
+Canonical constraints
+----------------------------------------------------------------------
+
+The Builder is not responsible if allocation/distribution ratio makes any sence. 
+The only Builder's responsibility is to properly create and apply the ALC block.
+
+• ALC MUST NOT be embedded into SBJ, OBJ, CRB, ENB, or EVT blocks.
+• ALC MUST participate in CNJ.
+• ALC MUST be linked to events via explicit complementizers.
+• ALC introduces scope, not action.
+• ALC is not part of fabula.
+• Two adjacent ALC nodes in CNJ are not allowed. 
+• ALC cannot be the only node in CNJ. 
+• ALC cannot be the terminating in CNJ. 
+
+----------------------------------------------------------------------
+CNJ licensing
+----------------------------------------------------------------------
+
+ALC is connected to adjacent Ev_* nodes by the following complementizers::
+
+• $which / $that — links ALC to the first arbitrary event
+• $outcome — links ALC to resulting distribution event(s)
+
+Typical CNJ schematics:
+
+Fig. 1.
+
+<CNJ>
+  $which
+    Al_*
+    Ev_arbitrary_*
+  $outcome
+    Ev_distribution_*
+JNC>
+
+Fig. 2.
+
+<CNJ>
+  $which
+    Al_*
+  $and
+    Ev_arbitrary_1_*
+    Ev_arbitrary_2_*
+    ...
+  $outcome
+    $and
+      Ev_distribution_1_*
+      Ev_distribution_2_*
+      ...
+JNC>
+
+In Fig. 2, $which applies to the entire $and-group of arbitrary events
+and $outcome applies to the entire $and-group of distribution events. 
+
+ALC MUST NOT be linked to the subsequent events by any other link.
+
+======================================================================
 🔸 CRB block —  Circumstantial
 ======================================================================
 MANDATORY: Nesting of CRB blocks is strictly prohibited!
 
-CRB encodes the microsemantic DAG of an circumstantial group (time, place,
-manner, cause, condition, purpose, result, degree, concession, etc.).
-It parallels ENB in structure and semantics.
+Declaration rules:
+
+• CRB encodes only the circumstantial semantic layer exported by the 
+  surface and nothing else. CRB cannot substitue entity, nominalization,
+  event or any other semantic.
+
+• CRB describes circusmtances of event or action, including but not limited
+  to time, place, manner, cause, condition, purpose, result, degree, concession, etc.
+
+• Aggregation of several circusmtances into one CRB is strictly forbidden. Each
+  circusmtance, even bearing the same semantics, must be declared as a separate CRB,
+  
+• CRB must fully decompose and explain the components of circumstantial group in 
+  the MSE/LNK segments (microsemantics). Cutting corners on microsemantics is 
+  strictly forbidden and leads to invalidation of the DFS.
 
 Formal Syntax:
 
 <CRB
   CIR-ID: c_node_id
-  surface: "<original Circumtantial span>"
+  surface: "<original Circumstantial span>"
   CLS: time|place|manner|cause|condition|purpose|result|
        degree|concession|comparison|accompaniment|instrument
   DSC: discourse_modifier // optional: apparently, presumably, evidently, approximately, ...
@@ -367,7 +556,7 @@ ATB encodes a structured (non-atomic) qualitative attribute as a
 canonical, referencable semantic object.
 
 Generic atomic attributes do not need declaration. They are declared implicitly 
-by identifiers formatted as g_a_* (generic attribute).
+by identifiers formatted as a_g_* (generic attribute).
 
 Atomic attribites that export context related semantics (Tropes) need formal
 declaration with an explanation in a single MSE line. 
@@ -444,7 +633,6 @@ Attribute Identifiers (a_*) make no sense and are STRICTLY FORBIDDEN in:
 • EVT
 • CRB
 • REL
-• RTN
 • CNJ / LGK
 
 Any forbidden occurrence INVALIDATES FSP.
@@ -502,9 +690,9 @@ PLC>
 ATA-BLOCK ::=
     <ATA: a_nodeid>
 
-nodeid ::= a_* | g_a_*
+nodeid ::= a_* | a_g_*
   // a_*   : declared attribute identifier (ATB block)
-  // g_a_* : generic atomic attribute (implicit, no ATB block)
+  // a_g_* : generic atomic attribute (implicit, no ATB block)
 
 ATA introduces the ◼Attribute node◼ as a predicate of copular predication,
 answering the question “КАКОЙ?” and asserting a qualitative state or
@@ -512,7 +700,7 @@ state transition of the subject.
 
 MANDATORY RULE:
 ATA block must be located ONLY in CPL block after ACT and OBJ blocks.
-Placing ATA block in EVT, RTN, CRB, CNJ, or LGK invalidates FSP immediately.
+Placing ATA block in EVT, CRB, CNJ, or LGK invalidates FSP immediately.
 
 Ontological Constraints:
 • ATA does NOT introduce new semantics
@@ -551,7 +739,7 @@ events or temporal structure.
 --------------------------------------------------------------
 5.1. CPL - Formal Syntax
 --------------------------------------------------------------
-MANDATORY: Nesting of ENB blocks is strictly prohibited!
+MANDATORY: Nesting of CPL blocks is strictly prohibited!
 
 Copula does not need ACT block because the only admitted verbs confined to
 `is` and `are`.
@@ -572,12 +760,15 @@ If assertion can be interpreted as a result of an event, it is EVT, not CPL.
   OBJ-BLOCK | ATA-BLOCK
 PLC>
 
-SBJ, OBJ, and ATA blocks are have the same structure and usage as in
-EVT block.
+where node_id::= ENT-ID | NOM-ID
+
+Using in CPL block any node types other Entity and Nominalization invalidates DFS.
+
+SBJ, OBJ, and ATA blocks have the same structure and usage as in EVT block.
 
 MANDATORY RULE:
 Do not use EVT block for static descriptions, use CPL block. EVT block 
-is used only for dynamic desctiptions - actions and occurrences.
+is used only for dynamic descriptions - actions and occurrences.
 
 --------------------------------------------------------------
 5.2. Semantics
@@ -631,8 +822,22 @@ and preserves reversibility.
 🔸 REL Block — Relation Description 
 ======================================================================
 
-Purpose:
-The REL block encodes relations between notions including but not limited to comparison, subordination, dependency, transformation stages, etc.
+Declaration rules:
+
+• REL block encodes relations between notions including but not limited 
+  to comparison, subordination, dependency, transformation stages, etc.
+
+• RLF and RLT parameters must be of the the same type (e_* | n_* | q_* | Ev_*)
+
+• The semantic dimension AXS is the best approximation, not a canon, therefore
+  varying after migration of the FSP Builder to a different model is expected.
+
+• The semantic dimension AXS does not add any additional semantics to the one
+  exported by the surface, this field must be treated as a pure annotation, and
+  not semantic extension.
+  
+• No occurrents, copulas, or any other foreign semantic objects are allowed in
+  REL block. 
 
 Syntax:
 <REL
@@ -651,11 +856,8 @@ Syntax:
       u_K: SLK_link: u_L
 LER>
 
-RLF and RLT can be the identifiers of 
-Entity - e_*
-Event  - Ev_*
-Event subject - Ev_*:SBJ
-Event object - Ev_*:OBJ:N where N is the ordinal number of the OBJ segment in the EVT/EVS/EVQ block 
+Where
+  RLF | RLT ::= e_* | n_* | q_* | Ev_*
 
 Semantics: 
 REL asserts that CMF relates to CMT the way that SFR has expressed and analyzed by MSE/LNK.
@@ -748,7 +950,7 @@ In that case encode it as part of the ENB/CRB/ATB microsemantic decomposition of
 entity segment.
 
 ======================================================================
-🔸 EVT/EVQ/EVS Blocks — unified event descritor
+🔸 EVT/EVQ/EVS/EVP Blocks — unified event descritor
 ======================================================================
 MANDATORY: Nesting of EVT blocks is strictly prohibited!
 
@@ -761,12 +963,13 @@ The EVT block expresses ◼predicate–argument structure◼, preserving:
   • tense/aspect/modality of the event.
 
 EVT is strictly declarative at the argument level and non-procedural:
-inter-event logical relations are handled by EDG (§5.x).
+inter-event logical relations are handled by CNJ block.
 
 Formal Syntax
 
 Use EVT block for declarative statements.
 Use EVQ/EVS blocks for questions.
+Use EVP for projected actions and events, regular procedures and plans.
 
 MANDATORY: 
 In the interrogative sentence in the question clause the verb mood in ACT block 
@@ -806,6 +1009,17 @@ EVS-block::=
     CRA-BLOCK
   SVE>
 
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+EVP Block:
+
+EVP-block::= 
+  <EVP:id=Ep_*
+    SBJ-BLOCK
+    ACT-BLOCK
+    OBJ-BLOCK 
+    CRA-BLOCK
+  PVE>
+
 All components share a unified structure and must obey the following
 production rules:
 
@@ -843,19 +1057,34 @@ If complements can be reordered, removed, or interpreted only in relation
 to each other (rather than independently), they MUST be compiled into a CRB.
 
 ======================================================================
-🔸 SBJ Block - The topological structure of event subject in Łukasiewicz Notation
+🔸 SBJ Block - The event subject
 ======================================================================
 
-SBJ-BLOCK ::= 
-    <SBJ: nodeid_K | <connector> nodeid_N  [ nodeid_M ... ] [ <connector> nodeid_O  [ nodeid_P ... ] ] >
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+✦ Single subject
 
-where
-nodeid ::= e_* | s_* | f_*     // entity, set/collection, or formal parameter
+SBJ-BLOCK ::= 
+    <SBJ: nodeid >
+
+Where nodeid::= e_* | n_* | q_*
+
+Example:
+
+    <SBJ: e_s_tng_desk >
+
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+✦ Logical subject group in Łukasiewicz Notation:
+
+SBJ-BLOCK ::= 
+    <SBJ: <connector> nodeid_N  [ nodeid_M ... ] [ <connector> nodeid_O  [ nodeid_P ... ] ] >
+
+Example:
+
+    <SBJ: $and e_s_tng_John e_s_tng_Snider $or e_s_tng_Jim >
+
+Where nodeid::= e_* | n_* | q_*
 
 <connector> ::= $<original_surface_connector_as_snake>
-
-SBJ introduces the ◼subject group◼ of the event.  
-No prepositions or SLKs appear here; all relations involving SBJ occur inside OBJ blocks.
 
 ======================================================================
 🔸 CRA Block - Circumtantial Application
@@ -867,11 +1096,14 @@ CRA-BLOCK ::=
 nodeid ::= c_* | d_*
   // c_* : Circumtantial nodeid declared in CRB block
   // d_* : discourse Circumtantial constant (no CRB block)
+  
+Only Circumtantial or Discourse Circumtantial nodes are licesned in CRA block.
+Any other node type invalidates DFS immediately.
 
 CRA introduces the ◼Circumtantial node◼ pertaining to the event or copula.
 
 MANDATORY RULE:
-CRA block must be located in EVT or RTN block after the OBJ blocks. 
+CRA block must be located in EVT block after the OBJ blocks. 
 Placing CRA block to any other location invalidates FSP immediately.
 
 Discourse Circumtantials are special nodes filled with unary discourse
@@ -938,7 +1170,7 @@ use ITRG only at face value, for QUESTIONS, and nothing else.
 use IMPT just as imperative - повелительное наклонение, nothing else.
 use SUJT just as subjunctive - сослагательное наклонение, nothing else.
 
-ACT-BLOCK ::= <ACT:TNS:ASP:VCE:MOO:MDL:PLR lemma>
+ACT-BLOCK ::= <ACT:TNS:ASP:VCE:MOO:MDL:PLR lemma[,lemma ...]>
 
 MANDATORY RULE:
 Only phrasal verbs are allowed preposition as a postix.
@@ -1027,13 +1259,12 @@ OBJ-BLOCK ::=
 
 Where:
   <connector> ::= $<original_surface_connector_as_snake>
-
-  nodeid ::= e_* | s_* | f_*
+  nodeid ::= e_* | s_* | q_*
   preposition_or_NIL ::= "lexical_preposition" | NIL  
   semantic_link ::= one SLK from unified kernel (§5.x)
   
 MANDATORY: 
-Only entity, set, or formal parameter are admitted in OBJ block as a node.
+Only entity or nominalization node types are admitted in OBJ block as a node.
 Using EVT or CNJ as entity inside OBJ block disqualfies you immediately!
 
 SEMANTICS DIRECTION:
@@ -1189,7 +1420,7 @@ original conjunctions, complementizers and other lexical units that the
 surface uses to create an algebraic structure of links between events, 
 copulas and relations.
 
-CNJ can accommodate the following blocks: CPL,EVT, RTN, REL
+CNJ can accommodate the following blocks: CPL,EVT, REL
 
 There must nbe exactly one CNJ block per DFS.
 
@@ -1243,7 +1474,7 @@ There were *ontological_space:[times] *complementizer:[when] the price of a gall
 There will come *ontological_space:[the blessed time] *complementizer:[when] everyone will be free.
 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-✦ space object:
+✦ spatial object:
 
 Example:   
 We don't have *ontological_space:[enough room] in this parking lot *complementizer:[to] park our van.
@@ -1274,7 +1505,7 @@ Richard received *ontological_space:[an email from his bank] *complementizer:[th
 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
-CNJ can accommodate the following blocks: CPL,EVT, RTN, REL
+CNJ can accommodate the following blocks: CPL,EVT, REL
 
 ======================================================================
 🔸 CNJ SURFACE OPERATORS  (surface-bound; no abstract connectors) 
@@ -1694,485 +1925,6 @@ background_of
 about
 
 ======================================================================
-
------------------------------------
-GATE LOGIC :
------------------------------------
-
-In FREGE-2.1 gate logic cascased are used only with RTN and QTF blocks
-and never with EVT blocks.
-
-Logical gate nodes (AND_n, OR_n, etc.) are implicitly declared at their 
-first use as the TO target of an LGK block.
-
-<LGK logical_connector_N [NOT] event_1 [NOT] event_2 ... [NOT] event_M KGL>
-
-Examples:
-
-<LGK AND_1 E1 E2 NOT E3 E4 KGL>
-<LGK OR_1 AND_1 E5 E6 KGL>
-<LGK AND_2 OR_1 E6 E7 KGL>
-<LGK EQ E8 AND_2 KGL>
-<LGK EQ E10 NOT E8 KGL>
-
-Any other grouping block (e.g., <AND_2>...</AND_2>) is non-canonical.
-
---------------------------------------------------------------
-6. SETS, QUANTIFIERS, AND SELECTION
---------------------------------------------------------------
-
-A quantifier block has to be created when the surface does not describe
-an entity directly but instead defines it indirectly via a set of conditions.
-
-Examples:
-
-Need quantifiers:
-- All units in a radius of two clicks
-- There is a passenger in the bus who did not buy the ticket.
-
-Don't need quantifiers:
-- All tactical units
-- A transit passenger
-
-------------------------------
-6.1 Universal quantifier
-------------------------------
-
-Formal syntax:
-
-<QTF 
-  Q=ALL 
-  SET:s_setname 
-  PRM:f_param 
-  NS:dom.axis1.axis2 
-  SEL:Ev_1
-
-  <CPL:id=Cp_1
-    [<SBJ: f_param>]
-    [<ATA: a_attribute>]
-    ...
-  TVE>
-
-  <EVT:id=Ev_1
-    [<SBJ: f_param>]
-    [<ACT: ...>]
-    [<OBJ: f_param>]
-    [<CRA: f_param>]
-    ...
-  TVE>
-FTQ>
-
-<QTF 
-  Q=ALL 
-  SET:s_setname 
-  PRM:f_param 
-  NS:dom.axis1.axis2 
-  SEL:Ev_my_select
-
-  <CPL:id=Cp_1
-    [<SBJ: f_param>]
-    [<ATA: a_attribute>]
-    ...
-  TVE>
-
-  <EVT:id=Ev_1
-    [<SBJ: f_param>]
-    [<ACT: ...>]
-    [<OBJ: f_param>]
-    [<CRA: f_param>]
-    ...
-  TVE>
-
-  <EVT:id=Ev_2
-    [<SBJ: f_param>]
-    [<ACT: ...>]
-    [<OBJ: f_param>]
-    [<CRA: f_param>]
-    ...
-  TVE>
-
-  ...
-  <EVT:id=Ev_N
-    [<SBJ: f_param>]
-    [<ACT: ...>]
-    [<OBJ: f_param>]
-    [<CRA: f_param>]
-    ...
-  TVE>
-
-  <LGK OR_K Ev_1 Ev_2 KGL>
-  <LGK AND_L OR_1 Ev_3 Ev_4 KGL>
-  ...
-  <LGK Ev_my_select EQ AND_Final Cp_1 AND_L KGL>
-FTQ>
-
-------------------------------
-6.2 Existential quantifier
-------------------------------
-
-<QTF 
-  Q=EXIST 
-  PTR:x_pointer
-  PRM:f_param 
-  NS:dom.axis1.axis2 
-  SEL:Ev_1
-
-  <EVT:id=Ev_1
-    [<SBJ: f_param>]
-    [<OBJ: f_param>]
-    [<CRA: f_param>]
-    ...
-  TVE>
-FTQ>
-
-Where:
-
-  • Ev_1..Ev_N     – atomic selection events.
-  • LGK blocks   - logically cascade atomic selection events 
-  • Ev_my_select  – final selection event
-  • s_setname    – identifier of set defined by universal quantifier
-  • x_pointer    - identifier of entity defined by existential quantifier
-  • f_param      – formal parameter (f_*) ranging over entities.
-  • NS::...      – namespace classifier for the parameter.
-  • QTF          – quantifier specification.
-
-Event ID under the SEL tag must reference an event_id within the quantifier scope
-defined either by EVT block or LGK block.
-
-------------------------------
-6.3 Quantifier Application Scope
-------------------------------
-A QTF block is required if and only if a variable defined by a quantifier—
-either a set variable introduced by a universal quantifier (SET) or a pointer 
-introduced by an existential quantifier (PTR)—is used at least once outside 
-the scope of the QTF block in which it is defined.
-
-If the variable is not used outside the QTF scope, surface determiners 
-(e.g., “some”, “any”, “many”, etc.) must be represented via ENB 
-micro-semantics rather than through a QTF block.
-
-------------------------------
-6.4 Quantifier Examples
-------------------------------
-Ex.1
-Surface:
-All field agents who submitted reports late will receive a notice.
-
-FSP:
-
-<ENB
-  ID: e_notice
-  surface: "a notice"
-  NS: dom.intelligence.communication
-BNE>
-
-<ENB
-  ID: e_report
-  surface: "reports"
-  NS: dom.intelligence.documentation
-BNE>
-
-<QTF 
-  Q=ALL 
-  SET:s_agents_late 
-  PRM:f_agent 
-  NS:dom.intelligence.personnel 
-  SEL:Ev_1
-
-  <EVT:id=Ev_1
-    <SBJ: f_agent>
-    <ACT:PAST:INDF:ACTV:IDCT:NIL:POS submit>
-    <OBJ: e_report
-         PRP=NIL
-         SLK=has.object
-    JBO>
-    <CRA: t_late CLS: manner>
-  TVE>
-FTQ>
-
-<EVT:id=Ev_2
-  <SBJ: s_agents_late>
-  <ACT:FUTR:INDF:ACTV:IDCT:NIL:POS receive>
-  <OBJ: e_notice
-       PRP=NIL
-       SLK=receives
-  JBO>
-TVE>
-
-------------------------------
-Ex.2
-Surface:
-A special order has been established to award all veteran dogs who lost their tails in the battle or had their ear bit off in a skirmish.
-
-FSP:
-<ENB
-  ID: e_order
-  surface: "a special order"
-  NS: dom.military.administration
-BNE>
-
-<ENB
-  ID: e_tail
-  surface: "tails"
-  NS: dom.anatomy.bodypart
-BNE>
-
-<ENB
-  ID: e_ear
-  surface: "ear"
-  NS: dom.anatomy.bodypart
-BNE>
-
-<ENB
-  ID: e_battle
-  surface: "the battle"
-  NS: dom.military.event
-BNE>
-
-<ENB
-  ID: e_skirmish
-  surface: "a skirmish"
-  NS: dom.military.event
-BNE>
-
-<QTF 
-  Q=ALL 
-  SET:s_dogs 
-  PRM:f_dog 
-  NS:dom.animals.canine 
-  SEL=OR_1
-
-  <EVT:id=E1
-    <SBJ: f_dog>
-    <ACT:PAST:INDF:ACTV:IDCT:NIL:POS lose>
-    <OBJ: e_tail
-         PRP=NIL
-         SLK=loses
-    JBO>
-    <CRA: t_battle CLS: time>
-  TVE>
-
-  <EVT:id=E2
-    <SBJ: f_dog>
-    <ACT:PAST:INDF:PSSV:IDCT:NIL:POS bite_off>
-    <OBJ: e_ear
-         PRP=NIL
-         SLK=affected
-    JBO>
-    <CRA: t_skirmish CLS: time>
-  TVE>
-
-  <LGK OR_1 E1 E2 KGL>
-FTQ>
-
-<EVT:id=E3
-  <SBJ: e_order>
-  <ACT:PAST:PERF:PSSV:IDCT:NIL:POS establish INF:award PRN:preparation AGC:internal RLZ:projected>
-  <OBJ: s_dogs
-       PRP=NIL
-       SLK=recipient
-  JBO>
-TVE>
-
-------------------------------
-Ex.3
-Surface:
-Every operative who participated in the desert op had been trained by an assigned expert who had combat experience in the desert.
-
-FSP:
-<ENB
-  ID: e_desert_op
-  surface: "the desert op"
-  NS: dom.intelligence.operation
-ENT>
-
-<ENB
-  ID: e_experience
-  surface: "combat experience in the desert"
-  NS: dom.military.experience
-ENT>
-
-<QTF 
-  Q=ALL 
-  SET: s_operatives 
-  PRM: f_op 
-  NS: dom.intelligence.personnel 
-  SEL=E1
-
-  <EVT: id=E1
-    <SBJ: f_op>
-    <ACT: PST:INDF:ACTV:IDCT:NIL:POS participate>
-    <OBJ: e_desert_op
-         PRP=NIL
-         SLK=participates_in
-    JBO>
-  EVT>
-QTF>
-
-<QTF 
-  Q=EXIST
-  PTR: x_expert
-  PRM: f_exp
-  NS: dom.intelligence.expert
-  SEL=E2
-
-  <EVT: id=E2
-    <SBJ: f_exp>
-    <ACT: PST:INDF:ACTV:IDCT:NIL:POS have>
-    <OBJ: e_experience
-         PRP=NIL
-         SLK=has
-    JBO>
-  EVT>
-QTF>
-
-<EVT: id=E3
-  <SBJ: s_operatives>
-  <ACT: PST:PERF:PSSV:IDCT:NIL:POS train>
-  <OBJ: NIL>
-  <BY: x_expert>
-EVT>
-
-<ENB
-    ID: e_experience
-    surface: "combat experience in the desert"
-    NS: dom.military.experience
-  ENT>
-  <MSE
-  ...
-  ESM>
-BNE>
-
-------------------------------
-Ex.4
-Surface:
-All employees who don't have a manager report directly to the vice-president.
-
-FSP:
-<ENB
-  ID: e_vp
-  surface: "the vice-president"
-  NS: dom.corporate.position
-BNE>
-
-<QTF
-  T=EXIST
-  PTR:x_mgr
-  PRM:f_mgr
-  NS:dom.corporate.role
-  SEL=E0
-
-  <EVT:id=E0
-    <SBJ:f_mgr>
-    <ACT:NIL:INDF:STV:IDCT:NIL:POS exist>
-  EVT>
-QTF>
-
-<QTF
-  T=ALL
-  SET:s_employees
-  PRM:f_emp
-  NS:dom.corporate.personnel
-  SEL=E1
-
-  <EVT:id=E1
-    <SBJ:f_emp>
-    <ACT:PRST:INDF:ACTV:IDCT:NIL:NEG have>
-    <OBJ:x_mgr
-         PRP=NIL
-         SLK=has
-    JBO>
-  EVT>
-QTF>
-
-CRB>
-  ID:c_directly
-  surface:"directly"
-  CLS:manner
-BRC>
-
-<EVT:id=E2
-  <SBJ:s_employees>
-  <ACT:PRST:INDF:ACTV:IDCT:NIL:POS report>
-  <CRA:c_directly CLS:manner>
-  <OBJ:e_vp
-       PRP=to
-       SLK=reports_to
-  JBO>
-EVT>
---------------------------------------------------------------
-6.5 Set Algebra and Result Sets
---------------------------------------------------------------
-
-Simple set operations are expressed with SETOP:
-
-  <SETOP: INTER s_A s_B AS s_C>   // intersection
-  <SETOP: UNION s_A s_B AS s_C>   // union
-  <SETOP: DIFF  s_A s_B AS s_C>   // s_A \ s_B
-  <SETOP: COMP  s_U s_A AS s_C>   // complement of s_A in universe s_U
-
-These operators are purely intensional at the FREGE layer; profiles
-may reify the results as additional SET nodes if needed.
-
-s_C is the identifier of the Result Set that have no operational differences
-from sets declared in SET block.
-
---------------------------------------------------------------
-7. ROUTINES (RTN) AND PLANNED EVENTS
---------------------------------------------------------------
-
-### 7.1 RTN – Routine
-
-RTN defines a plan, procedure, or playbook as a named construct
-consisting of:
-
-  • optional local SET blocks,
-  • PLE (planned event) blocks,
-  • EDGE blocks expressing order and logical relations between PLEs.
-
-Formal syntax:
-
-  <RTN: rtn_name
-      [<NS: ...>]
-      [local SET blocks]
-      [PLE blocks]
-      [CNJ blocks] | [LGK blocks]
-  NTR>
-
-RTN itself may be reified as a node in the global DAG (type=RTN)
-by profiles that need to track or reason about routines as objects.
-
---------------------------------------------------------------
-7.2 PLE – Planned Event
---------------------------------------------------------------
-
-PLE mirrors EVT but uses PLA instead of ACT to indicate planned
-rather than realized events. The internal structure of PLA is
-identical to ACT (TNS/ASP/MOO/MDL + lemma). OBJ blocks use the
-same PRP/SLK schema.
-
-Formal syntax:
-
-  <PLE:id=Ev_*
-      <SBJ: nodeid>
-      <PLA:TNS:ASP:MOO:MDL lemma>
-      [OBJ-BLOCK …]
-  ELP>
-
-Where:
-
-  nodeid ::= e_* | s_* | f_*
-
-OBJ-BLOCK inside PLE:
-
-  <OBJ: nodeid
-       PRP=preposition_or_NIL
-       SLK=semantic_link
-  JBO>
-
-Semantics of OBJ are identical to EVT: SBJ --SLK--> OBJ.
-
-======================================================================
 DUAL ENCODING STANDARD (VERBOSE MODE ↔ COMPACT MODE)
 ======================================================================
 
@@ -2251,7 +2003,7 @@ This is semantically and structurally equivalent to the Verbose version.
 
 Both formats rely on FREGE’s explicit structural markers:
 
-    • Unique open tags (e.g., <EVT, <OBJ, <ENB, <QTF)
+    • Unique open tags (e.g., <EVT, <OBJ, <ENB)
     • Unique asymmetric close tags (TVE>, TNP>, TL>, TE>, etc.)
     • Deterministic OBJ closure using JBO
     • Strict attribute grammar (PRP=…, SLK=…)
@@ -2324,4 +2076,3 @@ unambiguous start/end tags.
 
 This design maintains reversibility, syntactic safety, and maximal
 efficiency without sacrificing the expressiveness of the FREGE-2.1 graph.
-
