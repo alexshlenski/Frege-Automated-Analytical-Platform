@@ -98,7 +98,12 @@ Unique           a_u_<sbt>_*           implicit
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 Fabular Adjunct | Identifier format | Declaration block | 
 ======================================================================
-Generic          F_*                   FAB
+Always specific  F_*                   FAB
+
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+Headless Action | Identifier format | Declaration block | 
+======================================================================
+Always specific  H_*                   HDL
 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 Discourse   | Identifier format | Declaration block | 
@@ -128,11 +133,9 @@ Same subtypes as Entity.
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 Relation        | Identifier format | Declaration block | 
 ======================================================================
-Always specific  r_*                 REL
+Always specific  R_*                 REL
 
 No subtypes
-        
-
 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 FREGE SEMANTIC CLASSIFCATION
@@ -1549,7 +1552,7 @@ Declaration rules:
 
 Syntax:
 <REL
-  REL-ID: r_*
+  REL-ID: R_*
   RLF: related from ID
   RLT: related to ID
   AXS: the semantic dimension where the relation takes place
@@ -2149,6 +2152,7 @@ Declaration Rules:
   • Relation — REL
   • Fabular Adjunct — FAB
   • Subordinate Controller - CTL
+  • Headless A
 
 • CNJ connectors are non-explanatory event flow operators that include,
   but are not limited to, formalized conjunctions and complementizers.
