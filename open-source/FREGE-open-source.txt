@@ -514,18 +514,77 @@ GLOBAL INVARIANTS
 • Surface language never appears here.
 
 ======================================================================
-🔸 MATRIX C — CNJ: SURFACE-NORMALIZED DISCOURSE FLOW CONNECTORS (DFS)
+🔸 MATRIX C — DISCOURSE LEVEL / CNJ OPERATORS
 ======================================================================
 
-CNJ elements represent normalized surface discourse connectors.
-They preserve surface grouping and ordering while abstracting away
-purely morphological variation.
+In FREGE discourse is an umbrella term that encompasses all layers of the
+narrative flow and topology, such as but not limited to:
+
+- enumeration;
+- subordination;
+- chronological order;
+- causality;
+- dependency;
+- relations;
+- static scene description (endurants);
+- dynamic changes description (occurrents);
+- narrative fabula
+
+Anything else that affects flow and topology of the narrative without changing
+the world semantics of the narrative itself.
+
+CNJ operators represent the discourse control layer that regulates the flow 
+and topology of the discourse. They are both connectors and containerizers 
+because they pack surface phrases into discourse containers, they add 
+interpretation to the contained phrases without changing the internal
+meaning of the phrase, and finally they connect those containers with each
+other, according to the assigned intertrepations.
+
+CNJ operators have metasemantic nature because they abstract away syntax, 
+morphology, and world level semantics of the narrative they shape.
 
 CNJ operators MUST correspond to attested surface conjunctions,
-complementizers, discourse markers, or punctuation.
-They MUST NOT encode conceptual or logical relations.
+complementizers, discourse markers, or punctuation. They MUST NOT encode 
+conceptual or logical relations.
 
-CNJ normalization is FORMAL (shape-level), not SEMANTIC.
+Containerization of the surface has 2 main topological types:
+
+✦ specifier/realizer pairs like
+
+as ... as; the ... the; ... either ...  or; if ... then;
+
+The first element specifies the discourse role of the contained phrase.
+the second element performs the semantic realization of the assigned role.
+
+Example: 
+
+- the higher the elevation the lower is the air pressure.
+
+- either we go now or we cancel everything and stay home.
+
+- if we don't act right now then it will be too late.
+
+✦ launchers like
+
+for; in order to; even if; no matter what/who/how/when/where/which way;
+
+Launchers create their own discourse-level semantic launching pad at the
+beginning of the phrase, which they left-delimit/left-conteinerize. They
+add suggested interpretation much like the specifiers but the realization
+is not formatted by a formal realizer part and is structurally open to any
+discourse instruments relevant to the interpretation the launcher charged
+its container with.
+
+Example: 
+
+- in order to increase our profits we need to lower the overhead expences.
+
+- for the context of this publication to make sense, the reader must understand FOL.
+
+- no matter how hard the hamster tried, the donkey ate more oats.
+
+✦ Connector/Delimiters are the most prolifing group of CNJ, whose roles
+  are meticulously classified in Matrix C.
 
 ----------------------------------------------------------------------  
 C1 — ADDITIVE & COORDINATIVE FLOW  
@@ -589,6 +648,8 @@ $provided_that
 $assuming
 $even_if
 $in_case
+$for
+$in_order_to
 
 ----------------------------------------------------------------------  
 C5 — CONCESSIVE & CONTRASTIVE FLOW  
@@ -762,7 +823,7 @@ GLOBAL CNJ INVARIANTS
 • CNJ only preserves surface grouping, ordering, and framing.
 • CNJ is not logic, not ontology, and not world structure.
 • Removing all CNJ leaves a set of unordered semantic frames.
-• CNJ = surface-driven fabula flow.
+• CNJ = surface-driven discourse flow.
 • LINKS = world structure and microsemantic relations.
 
 ======================================================================
@@ -792,7 +853,7 @@ they MUST be treated as a single semantic phrase.
 Prohibition:
 NP/PP/AP boundaries and syntactic constituency are irrelevant to phrase segmentation.
 ------------------------------------------------------------------
-RULE: Only events that directly add to the source fabula are encoded with EVT/CPL, 
+RULE: Only events that directly add to the source discourse are encoded with EVT/CPL, 
 entity-related events and copulas must be encoded by microsemantic tools of ENB/CRB/APB
 ------------------------------------------------------------------
 
@@ -1008,6 +1069,12 @@ Declaration Rules:
 
 • singular object parameter accepted by ELM must be either a generic entity
   or be previously declared by ENT block.
+  
+• QCL must only be created when the resulting collection face any kind of
+  distribution explicitly described by the surface, which requires ALC block.
+  If said distribution is not exported by the surface, DFS does not need a 
+  QCL/ALC pair, and the plural object must be declared by ENB block and 
+  non-operational quantification is described by MSE/LNK segment.
 
 Formal syntax:
 
@@ -1085,7 +1152,7 @@ The only Builder's responsibility is to properly create and apply the ALC block.
 • ALC MUST participate in CNJ.
 • ALC MUST be linked to events via explicit complementizers.
 • ALC introduces scope, not action.
-• ALC is not part of fabula.
+• ALC is not part of discourse.
 • Two adjacent ALC nodes in CNJ are not allowed. 
 • ALC cannot be the only node in CNJ. 
 • ALC cannot be the terminating in CNJ. 
@@ -1198,7 +1265,7 @@ Declaration Rules:
   event-serving parameter.
 
 • FAB represents a fabular operator that attaches reference to 
-  substantivated occurrences to the fabula using different semantic
+  substantivated occurrences to the discourse using different semantic
   links such as condition, commitment, deterrent, authorization, 
   projection, exchange, reciprocity, threat, coercion, temptation
   and any other possible fabular glue.
@@ -1541,7 +1608,7 @@ Declaration rules:
   to comparison, subordination, dependency, transformation stages, etc.
 
 • The only location of REL block is CNJ block, therefore the encoded relation
-  must be a chainlink of fabula. A relation that does not bear fabula must be
+  must be a step of discourse. A relation that does not bear discourse must be
   encoded by MSE/LNK.
 
 • RLF and RLT parameters must be of the the same type (e_* | n_* | q_* | Ev_*)
@@ -1589,12 +1656,12 @@ Relation is always from CMF toward CMT. This preserves polarity and rhetorical f
 
 Delcaration Rules:
 
+HDL must be declared if and only if the surface expresses the initial event 
+that has a logical continuation expressed as infinitival, propositional, or 
+intentional content that asserts an event without pointing to its agent.
+
 HDL block declares an H_* identifier that is licensed as a first-class
 semantic node in DFS and may be directly targeted by CNJ operators.
-
-HDL represents infinitival, propositional, or intentional content
-that does not assert a factual event and therefore MUST NOT be encoded
-as EVT or EVP.
 
 HDL uses the surface particle `$to` as a connector between the governing
 predicate and the content span when such particle is present in the source.
@@ -1628,38 +1695,38 @@ Unintended or inevitable outcome.
 
 ✦ expectation / intended outcome  
 Often after nouns/adjectives, but HDL applies only when headless.  
-*To expand the line, capacity must be increased.*
+*Capacity must be increased to expand the line.*
 
 ✦ content / proposition  
 Purely propositional meaning.  
-*To leave now would be unwise.*
+*It would be unwise to leave now.*
 
 ✦ directive / instructional  
 Action framed as instruction without a governing verb.  
-*To wait any longer is pointless.*
+*It is pointless to wait any longer.*
 
 ✦ evaluation / judgment  
 Carries an evaluative stance.  
-*To believe that now is difficult.*
+*It  is difficult to believe that now.*
 
 ✦ reason / justification  
 Explains why something is done.  
-*To avoid confusion, let me clarify.*
+*The editor needs to clarify the statement to avoid confusion.*
 
 ✦ condition / requirement  
 Prerequisite for the main clause.  
-*To qualify, you must register early.*
+*Attendees must register early to qualify.*
 
 ✦ enablement  
 States a capability or enabling condition.  
-*To be able to proceed, authentication is required.*
+*Authentication is required to be able to proceed.*
 
 ----------------------------------------------------------------------
 Usage Rules
 ----------------------------------------------------------------------
 
 Create HDL only when the infinitival clause is not semantically internal to an entity 
-description contributes and belongs to the fabula-level event structure, expressing 
+description contributes and belongs to the discourse-level event structure, expressing 
 ✦ purpose,
 ✦ reason,
 ✦ result,
@@ -1667,7 +1734,7 @@ description contributes and belongs to the fabula-level event structure, express
 ✦ workflow step,
 ✦ evaluation,
 ✦ propositional content,
-or any clause-level adjunct affecting the fabula.
+or any clause-level adjunct affecting the discourse.
 
 Do NOT create HDL ehenever the infinitival phrase is local, i.e.:
 ✦ describes how an entity is positioned,
@@ -2202,7 +2269,7 @@ The CTL block declares a fabular control node that binds a controlling
 ontological space to subordinate events.
 
 A single CTL MUST be created for each non-authorial ontological space 
-introduced by a controlling phrase. All fabula elements within that space 
+introduced by a controlling phrase. All discourse elements within that space 
 MUST be controlled by the same CTL, which is lifted to the CNJ level.
 
 A CTL block is comprised of:
